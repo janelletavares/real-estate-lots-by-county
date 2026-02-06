@@ -1,0 +1,12578 @@
+[
+  [
+    "Los Angeles County",
+    "CA"
+  ],
+  [
+    "Cook County",
+    "IL"
+  ],
+  [
+    "Harris County",
+    "TX"
+  ],
+  [
+    "Maricopa County",
+    "AZ"
+  ],
+  [
+    "San Diego County",
+    "CA"
+  ],
+  [
+    "Orange County",
+    "CA"
+  ],
+  [
+    "Miami-Dade County",
+    "FL"
+  ],
+  [
+    "Kings County",
+    "NY"
+  ],
+  [
+    "Dallas County",
+    "TX"
+  ],
+  [
+    "Riverside County",
+    "CA"
+  ],
+  [
+    "Queens County",
+    "NY"
+  ],
+  [
+    "Clark County",
+    "NV"
+  ],
+  [
+    "King County",
+    "WA"
+  ],
+  [
+    "San Bernardino County",
+    "CA"
+  ],
+  [
+    "Tarrant County",
+    "TX"
+  ],
+  [
+    "Bexar County",
+    "TX"
+  ],
+  [
+    "Broward County",
+    "FL"
+  ],
+  [
+    "Santa Clara County",
+    "CA"
+  ],
+  [
+    "Wayne County",
+    "MI"
+  ],
+  [
+    "Alameda County",
+    "CA"
+  ],
+  [
+    "New York County",
+    "NY"
+  ],
+  [
+    "Middlesex County",
+    "MA"
+  ],
+  [
+    "Sacramento County",
+    "CA"
+  ],
+  [
+    "Philadelphia County",
+    "PA"
+  ],
+  [
+    "Suffolk County",
+    "NY"
+  ],
+  [
+    "Palm Beach County",
+    "FL"
+  ],
+  [
+    "Hillsborough County",
+    "FL"
+  ],
+  [
+    "Orange County",
+    "FL"
+  ],
+  [
+    "Bronx County",
+    "NY"
+  ],
+  [
+    "Nassau County",
+    "NY"
+  ],
+  [
+    "Franklin County",
+    "OH"
+  ],
+  [
+    "Travis County",
+    "TX"
+  ],
+  [
+    "Oakland County",
+    "MI"
+  ],
+  [
+    "Hennepin County",
+    "MN"
+  ],
+  [
+    "Cuyahoga County",
+    "OH"
+  ],
+  [
+    "Allegheny County",
+    "PA"
+  ],
+  [
+    "Salt Lake County",
+    "UT"
+  ],
+  [
+    "Contra Costa County",
+    "CA"
+  ],
+  [
+    "Wake County",
+    "NC"
+  ],
+  [
+    "Fairfax County",
+    "VA"
+  ],
+  [
+    "Mecklenburg County",
+    "NC"
+  ],
+  [
+    "Collin County",
+    "TX"
+  ],
+  [
+    "Fulton County",
+    "GA"
+  ],
+  [
+    "Montgomery County",
+    "MD"
+  ],
+  [
+    "Pima County",
+    "AZ"
+  ],
+  [
+    "Fresno County",
+    "CA"
+  ],
+  [
+    "Duval County",
+    "FL"
+  ],
+  [
+    "Honolulu County",
+    "HI"
+  ],
+  [
+    "Westchester County",
+    "NY"
+  ],
+  [
+    "St. Louis County",
+    "MO"
+  ],
+  [
+    "Marion County",
+    "IN"
+  ],
+  [
+    "Capitol Planning Region",
+    "CT"
+  ],
+  [
+    "Gwinnett County",
+    "GA"
+  ],
+  [
+    "Pinellas County",
+    "FL"
+  ],
+  [
+    "Prince George's County",
+    "MD"
+  ],
+  [
+    "Bergen County",
+    "NJ"
+  ],
+  [
+    "Erie County",
+    "NY"
+  ],
+  [
+    "Denton County",
+    "TX"
+  ],
+  [
+    "Milwaukee County",
+    "WI"
+  ],
+  [
+    "DuPage County",
+    "IL"
+  ],
+  [
+    "Pierce County",
+    "WA"
+  ],
+  [
+    "Shelby County",
+    "TN"
+  ],
+  [
+    "Kern County",
+    "CA"
+  ],
+  [
+    "Hidalgo County",
+    "TX"
+  ],
+  [
+    "Macomb County",
+    "MI"
+  ],
+  [
+    "El Paso County",
+    "TX"
+  ],
+  [
+    "Worcester County",
+    "MA"
+  ],
+  [
+    "Middlesex County",
+    "NJ"
+  ],
+  [
+    "Montgomery County",
+    "PA"
+  ],
+  [
+    "Fort Bend County",
+    "TX"
+  ],
+  [
+    "Essex County",
+    "NJ"
+  ],
+  [
+    "Baltimore County",
+    "MD"
+  ],
+  [
+    "Ventura County",
+    "CA"
+  ],
+  [
+    "San Francisco County",
+    "CA"
+  ],
+  [
+    "Snohomish County",
+    "WA"
+  ],
+  [
+    "Hamilton County",
+    "OH"
+  ],
+  [
+    "Essex County",
+    "MA"
+  ],
+  [
+    "Multnomah County",
+    "OR"
+  ],
+  [
+    "Oklahoma County",
+    "OK"
+  ],
+  [
+    "Lee County",
+    "FL"
+  ],
+  [
+    "San Joaquin County",
+    "CA"
+  ],
+  [
+    "Suffolk County",
+    "MA"
+  ],
+  [
+    "Jefferson County",
+    "KY"
+  ],
+  [
+    "Cobb County",
+    "GA"
+  ],
+  [
+    "DeKalb County",
+    "GA"
+  ],
+  [
+    "Polk County",
+    "FL"
+  ],
+  [
+    "Monroe County",
+    "NY"
+  ],
+  [
+    "San Mateo County",
+    "CA"
+  ],
+  [
+    "El Paso County",
+    "CO"
+  ],
+  [
+    "Norfolk County",
+    "MA"
+  ],
+  [
+    "Jackson County",
+    "MO"
+  ],
+  [
+    "Denver County",
+    "CO"
+  ],
+  [
+    "Lake County",
+    "IL"
+  ],
+  [
+    "Hudson County",
+    "NJ"
+  ],
+  [
+    "Davidson County",
+    "TN"
+  ],
+  [
+    "Will County",
+    "IL"
+  ],
+  [
+    "Utah County",
+    "UT"
+  ],
+  [
+    "Bernalillo County",
+    "NM"
+  ],
+  [
+    "Tulsa County",
+    "OK"
+  ],
+  [
+    "District of Columbia",
+    "DC"
+  ],
+  [
+    "Jefferson County",
+    "AL"
+  ],
+  [
+    "Providence County",
+    "RI"
+  ],
+  [
+    "Kent County",
+    "MI"
+  ],
+  [
+    "Arapahoe County",
+    "CO"
+  ],
+  [
+    "Montgomery County",
+    "TX"
+  ],
+  [
+    "Ocean County",
+    "NJ"
+  ],
+  [
+    "Bucks County",
+    "PA"
+  ],
+  [
+    "Williamson County",
+    "TX"
+  ],
+  [
+    "Monmouth County",
+    "NJ"
+  ],
+  [
+    "Western Connecticut Planning Region",
+    "CT"
+  ],
+  [
+    "Brevard County",
+    "FL"
+  ],
+  [
+    "Johnson County",
+    "KS"
+  ],
+  [
+    "Washington County",
+    "OR"
+  ],
+  [
+    "Anne Arundel County",
+    "MD"
+  ],
+  [
+    "Pasco County",
+    "FL"
+  ],
+  [
+    "Douglas County",
+    "NE"
+  ],
+  [
+    "Jefferson County",
+    "CO"
+  ],
+  [
+    "Bristol County",
+    "MA"
+  ],
+  [
+    "Baltimore City",
+    "MD"
+  ],
+  [
+    "Delaware County",
+    "PA"
+  ],
+  [
+    "New Castle County",
+    "DE"
+  ],
+  [
+    "Union County",
+    "NJ"
+  ],
+  [
+    "Volusia County",
+    "FL"
+  ],
+  [
+    "South Central Connecticut Planning Region",
+    "CT"
+  ],
+  [
+    "Dane County",
+    "WI"
+  ],
+  [
+    "Lancaster County",
+    "PA"
+  ],
+  [
+    "Stanislaus County",
+    "CA"
+  ],
+  [
+    "Ramsey County",
+    "MN"
+  ],
+  [
+    "Spokane County",
+    "WA"
+  ],
+  [
+    "Guilford County",
+    "NC"
+  ],
+  [
+    "Chester County",
+    "PA"
+  ],
+  [
+    "Summit County",
+    "OH"
+  ],
+  [
+    "Greenville County",
+    "SC"
+  ],
+  [
+    "Montgomery County",
+    "OH"
+  ],
+  [
+    "Plymouth County",
+    "MA"
+  ],
+  [
+    "Sedgwick County",
+    "KS"
+  ],
+  [
+    "Adams County",
+    "CO"
+  ],
+  [
+    "Camden County",
+    "NJ"
+  ],
+  [
+    "Passaic County",
+    "NJ"
+  ],
+  [
+    "Kane County",
+    "IL"
+  ],
+  [
+    "Clark County",
+    "WA"
+  ],
+  [
+    "Morris County",
+    "NJ"
+  ],
+  [
+    "Ada County",
+    "ID"
+  ],
+  [
+    "Lake County",
+    "IN"
+  ],
+  [
+    "Polk County",
+    "IA"
+  ],
+  [
+    "Richmond County",
+    "NY"
+  ],
+  [
+    "Washoe County",
+    "NV"
+  ],
+  [
+    "Knox County",
+    "TN"
+  ],
+  [
+    "Sonoma County",
+    "CA"
+  ],
+  [
+    "Prince William County",
+    "VA"
+  ],
+  [
+    "Tulare County",
+    "CA"
+  ],
+  [
+    "Seminole County",
+    "FL"
+  ],
+  [
+    "Onondaga County",
+    "NY"
+  ],
+  [
+    "Burlington County",
+    "NJ"
+  ],
+  [
+    "Hampden County",
+    "MA"
+  ],
+  [
+    "York County",
+    "PA"
+  ],
+  [
+    "Virginia Beach City",
+    "VA"
+  ],
+  [
+    "East Baton Rouge Parish",
+    "LA"
+  ],
+  [
+    "Naugatuck Valley Planning Region",
+    "CT"
+  ],
+  [
+    "Solano County",
+    "CA"
+  ],
+  [
+    "Pinal County",
+    "AZ"
+  ],
+  [
+    "Sarasota County",
+    "FL"
+  ],
+  [
+    "Santa Barbara County",
+    "CA"
+  ],
+  [
+    "Dakota County",
+    "MN"
+  ],
+  [
+    "Monterey County",
+    "CA"
+  ],
+  [
+    "Jefferson Parish",
+    "LA"
+  ],
+  [
+    "Berks County",
+    "PA"
+  ],
+  [
+    "Lucas County",
+    "OH"
+  ],
+  [
+    "Loudoun County",
+    "VA"
+  ],
+  [
+    "Hillsborough County",
+    "NH"
+  ],
+  [
+    "Cameron County",
+    "TX"
+  ],
+  [
+    "Clackamas County",
+    "OR"
+  ],
+  [
+    "Richland County",
+    "SC"
+  ],
+  [
+    "Manatee County",
+    "FL"
+  ],
+  [
+    "Charleston County",
+    "SC"
+  ],
+  [
+    "Mobile County",
+    "AL"
+  ],
+  [
+    "Placer County",
+    "CA"
+  ],
+  [
+    "St. Charles County",
+    "MO"
+  ],
+  [
+    "Waukesha County",
+    "WI"
+  ],
+  [
+    "Osceola County",
+    "FL"
+  ],
+  [
+    "Genesee County",
+    "MI"
+  ],
+  [
+    "Orange County",
+    "NY"
+  ],
+  [
+    "Pulaski County",
+    "AR"
+  ],
+  [
+    "Lake County",
+    "FL"
+  ],
+  [
+    "Madison County",
+    "AL"
+  ],
+  [
+    "Butler County",
+    "OH"
+  ],
+  [
+    "Allen County",
+    "IN"
+  ],
+  [
+    "Marion County",
+    "FL"
+  ],
+  [
+    "Collier County",
+    "FL"
+  ],
+  [
+    "Forsyth County",
+    "NC"
+  ],
+  [
+    "Mercer County",
+    "NJ"
+  ],
+  [
+    "Lane County",
+    "OR"
+  ],
+  [
+    "Brazoria County",
+    "TX"
+  ],
+  [
+    "Bell County",
+    "TX"
+  ],
+  [
+    "Orleans Parish",
+    "LA"
+  ],
+  [
+    "Lehigh County",
+    "PA"
+  ],
+  [
+    "Stark County",
+    "OH"
+  ],
+  [
+    "Chesterfield County",
+    "VA"
+  ],
+  [
+    "Hamilton County",
+    "TN"
+  ],
+  [
+    "Horry County",
+    "SC"
+  ],
+  [
+    "Washtenaw County",
+    "MI"
+  ],
+  [
+    "Douglas County",
+    "CO"
+  ],
+  [
+    "Anoka County",
+    "MN"
+  ],
+  [
+    "Davis County",
+    "UT"
+  ],
+  [
+    "Larimer County",
+    "CO"
+  ],
+  [
+    "Hamilton County",
+    "IN"
+  ],
+  [
+    "Galveston County",
+    "TX"
+  ],
+  [
+    "Westmoreland County",
+    "PA"
+  ],
+  [
+    "Nueces County",
+    "TX"
+  ],
+  [
+    "Rutherford County",
+    "TN"
+  ],
+  [
+    "Marion County",
+    "OR"
+  ],
+  [
+    "St. Lucie County",
+    "FL"
+  ],
+  [
+    "Somerset County",
+    "NJ"
+  ],
+  [
+    "Weld County",
+    "CO"
+  ],
+  [
+    "Rockland County",
+    "NY"
+  ],
+  [
+    "Spartanburg County",
+    "SC"
+  ],
+  [
+    "Cumberland County",
+    "NC"
+  ],
+  [
+    "Henrico County",
+    "VA"
+  ],
+  [
+    "Howard County",
+    "MD"
+  ],
+  [
+    "Durham County",
+    "NC"
+  ],
+  [
+    "Boulder County",
+    "CO"
+  ],
+  [
+    "Greater Bridgeport Planning Region",
+    "CT"
+  ],
+  [
+    "Luzerne County",
+    "PA"
+  ],
+  [
+    "Lancaster County",
+    "NE"
+  ],
+  [
+    "Escambia County",
+    "FL"
+  ],
+  [
+    "Fayette County",
+    "KY"
+  ],
+  [
+    "Rockingham County",
+    "NH"
+  ],
+  [
+    "Northampton County",
+    "PA"
+  ],
+  [
+    "Albany County",
+    "NY"
+  ],
+  [
+    "Lubbock County",
+    "TX"
+  ],
+  [
+    "Lorain County",
+    "OH"
+  ],
+  [
+    "McHenry County",
+    "IL"
+  ],
+  [
+    "Cumberland County",
+    "ME"
+  ],
+  [
+    "Gloucester County",
+    "NJ"
+  ],
+  [
+    "Greene County",
+    "MO"
+  ],
+  [
+    "Lexington County",
+    "SC"
+  ],
+  [
+    "Clayton County",
+    "GA"
+  ],
+  [
+    "Ottawa County",
+    "MI"
+  ],
+  [
+    "Chatham County",
+    "GA"
+  ],
+  [
+    "Cleveland County",
+    "OK"
+  ],
+  [
+    "Dutchess County",
+    "NY"
+  ],
+  [
+    "Thurston County",
+    "WA"
+  ],
+  [
+    "Leon County",
+    "FL"
+  ],
+  [
+    "Benton County",
+    "AR"
+  ],
+  [
+    "St. Louis City",
+    "MO"
+  ],
+  [
+    "St. Johns County",
+    "FL"
+  ],
+  [
+    "Anchorage Municipality",
+    "AK"
+  ],
+  [
+    "York County",
+    "SC"
+  ],
+  [
+    "Dauphin County",
+    "PA"
+  ],
+  [
+    "Merced County",
+    "CA"
+  ],
+  [
+    "Winnebago County",
+    "IL"
+  ],
+  [
+    "Ingham County",
+    "MI"
+  ],
+  [
+    "Alachua County",
+    "FL"
+  ],
+  [
+    "San Luis Obispo County",
+    "CA"
+  ],
+  [
+    "Frederick County",
+    "MD"
+  ],
+  [
+    "Southeastern Connecticut Planning Region",
+    "CT"
+  ],
+  [
+    "Kitsap County",
+    "WA"
+  ],
+  [
+    "Atlantic County",
+    "NJ"
+  ],
+  [
+    "Cherokee County",
+    "GA"
+  ],
+  [
+    "St. Joseph County",
+    "IN"
+  ],
+  [
+    "Washington County",
+    "MN"
+  ],
+  [
+    "Buncombe County",
+    "NC"
+  ],
+  [
+    "Erie County",
+    "PA"
+  ],
+  [
+    "Brown County",
+    "WI"
+  ],
+  [
+    "St. Tammany Parish",
+    "LA"
+  ],
+  [
+    "Webb County",
+    "TX"
+  ],
+  [
+    "Weber County",
+    "UT"
+  ],
+  [
+    "Santa Cruz County",
+    "CA"
+  ],
+  [
+    "Madison County",
+    "IL"
+  ],
+  [
+    "Cumberland County",
+    "PA"
+  ],
+  [
+    "McLennan County",
+    "TX"
+  ],
+  [
+    "Harford County",
+    "MD"
+  ],
+  [
+    "Kalamazoo County",
+    "MI"
+  ],
+  [
+    "Forsyth County",
+    "GA"
+  ],
+  [
+    "Marin County",
+    "CA"
+  ],
+  [
+    "Yakima County",
+    "WA"
+  ],
+  [
+    "Hays County",
+    "TX"
+  ],
+  [
+    "Clay County",
+    "MO"
+  ],
+  [
+    "St. Clair County",
+    "IL"
+  ],
+  [
+    "Williamson County",
+    "TN"
+  ],
+  [
+    "Jefferson County",
+    "TX"
+  ],
+  [
+    "Washington County",
+    "AR"
+  ],
+  [
+    "Chesapeake City",
+    "VA"
+  ],
+  [
+    "Sussex County",
+    "DE"
+  ],
+  [
+    "Warren County",
+    "OH"
+  ],
+  [
+    "Henry County",
+    "GA"
+  ],
+  [
+    "Lafayette Parish",
+    "LA"
+  ],
+  [
+    "Union County",
+    "NC"
+  ],
+  [
+    "Canyon County",
+    "ID"
+  ],
+  [
+    "Yavapai County",
+    "AZ"
+  ],
+  [
+    "Baldwin County",
+    "AL"
+  ],
+  [
+    "Berkeley County",
+    "SC"
+  ],
+  [
+    "Smith County",
+    "TX"
+  ],
+  [
+    "Brazos County",
+    "TX"
+  ],
+  [
+    "Saratoga County",
+    "NY"
+  ],
+  [
+    "Arlington County",
+    "VA"
+  ],
+  [
+    "Norfolk City",
+    "VA"
+  ],
+  [
+    "Tuscaloosa County",
+    "AL"
+  ],
+  [
+    "Caddo Parish",
+    "LA"
+  ],
+  [
+    "Lake County",
+    "OH"
+  ],
+  [
+    "Gaston County",
+    "NC"
+  ],
+  [
+    "Cabarrus County",
+    "NC"
+  ],
+  [
+    "New Hanover County",
+    "NC"
+  ],
+  [
+    "Barnstable County",
+    "MA"
+  ],
+  [
+    "Oneida County",
+    "NY"
+  ],
+  [
+    "Linn County",
+    "IA"
+  ],
+  [
+    "Whatcom County",
+    "WA"
+  ],
+  [
+    "Jefferson County",
+    "MO"
+  ],
+  [
+    "Montgomery County",
+    "TN"
+  ],
+  [
+    "Richmond City",
+    "VA"
+  ],
+  [
+    "Montgomery County",
+    "AL"
+  ],
+  [
+    "Mahoning County",
+    "OH"
+  ],
+  [
+    "Shelby County",
+    "AL"
+  ],
+  [
+    "Johnston County",
+    "NC"
+  ],
+  [
+    "Clay County",
+    "FL"
+  ],
+  [
+    "Jackson County",
+    "OR"
+  ],
+  [
+    "Hinds County",
+    "MS"
+  ],
+  [
+    "Doña Ana County",
+    "NM"
+  ],
+  [
+    "Delaware County",
+    "OH"
+  ],
+  [
+    "Yolo County",
+    "CA"
+  ],
+  [
+    "Mohave County",
+    "AZ"
+  ],
+  [
+    "Lackawanna County",
+    "PA"
+  ],
+  [
+    "York County",
+    "ME"
+  ],
+  [
+    "Okaloosa County",
+    "FL"
+  ],
+  [
+    "Niagara County",
+    "NY"
+  ],
+  [
+    "Benton County",
+    "WA"
+  ],
+  [
+    "Clermont County",
+    "OH"
+  ],
+  [
+    "Washington County",
+    "PA"
+  ],
+  [
+    "Butte County",
+    "CA"
+  ],
+  [
+    "Harrison County",
+    "MS"
+  ],
+  [
+    "Calcasieu Parish",
+    "LA"
+  ],
+  [
+    "Onslow County",
+    "NC"
+  ],
+  [
+    "Hall County",
+    "GA"
+  ],
+  [
+    "Yuma County",
+    "AZ"
+  ],
+  [
+    "Anderson County",
+    "SC"
+  ],
+  [
+    "Elkhart County",
+    "IN"
+  ],
+  [
+    "Champaign County",
+    "IL"
+  ],
+  [
+    "Richmond County",
+    "GA"
+  ],
+  [
+    "Muscogee County",
+    "GA"
+  ],
+  [
+    "Ellis County",
+    "TX"
+  ],
+  [
+    "Hawaii County",
+    "HI"
+  ],
+  [
+    "Deschutes County",
+    "OR"
+  ],
+  [
+    "Hernando County",
+    "FL"
+  ],
+  [
+    "Trumbull County",
+    "OH"
+  ],
+  [
+    "Minnehaha County",
+    "SD"
+  ],
+  [
+    "Sumner County",
+    "TN"
+  ],
+  [
+    "St. Louis County",
+    "MN"
+  ],
+  [
+    "Broome County",
+    "NY"
+  ],
+  [
+    "Racine County",
+    "WI"
+  ],
+  [
+    "Butler County",
+    "PA"
+  ],
+  [
+    "Sangamon County",
+    "IL"
+  ],
+  [
+    "Livingston County",
+    "MI"
+  ],
+  [
+    "Charlotte County",
+    "FL"
+  ],
+  [
+    "Sarpy County",
+    "NE"
+  ],
+  [
+    "Santa Rosa County",
+    "FL"
+  ],
+  [
+    "El Dorado County",
+    "CA"
+  ],
+  [
+    "Beaufort County",
+    "SC"
+  ],
+  [
+    "Iredell County",
+    "NC"
+  ],
+  [
+    "Outagamie County",
+    "WI"
+  ],
+  [
+    "Washington County",
+    "UT"
+  ],
+  [
+    "Cass County",
+    "ND"
+  ],
+  [
+    "Saginaw County",
+    "MI"
+  ],
+  [
+    "Johnson County",
+    "TX"
+  ],
+  [
+    "DeSoto County",
+    "MS"
+  ],
+  [
+    "Tippecanoe County",
+    "IN"
+  ],
+  [
+    "Boone County",
+    "MO"
+  ],
+  [
+    "Kent County",
+    "DE"
+  ],
+  [
+    "Newport News City",
+    "VA"
+  ],
+  [
+    "Medina County",
+    "OH"
+  ],
+  [
+    "Ulster County",
+    "NY"
+  ],
+  [
+    "Shasta County",
+    "CA"
+  ],
+  [
+    "Bay County",
+    "FL"
+  ],
+  [
+    "Licking County",
+    "OH"
+  ],
+  [
+    "Vanderburgh County",
+    "IN"
+  ],
+  [
+    "Peoria County",
+    "IL"
+  ],
+  [
+    "Hendricks County",
+    "IN"
+  ],
+  [
+    "Imperial County",
+    "CA"
+  ],
+  [
+    "Guadalupe County",
+    "TX"
+  ],
+  [
+    "Shawnee County",
+    "KS"
+  ],
+  [
+    "Kanawha County",
+    "WV"
+  ],
+  [
+    "Kootenai County",
+    "ID"
+  ],
+  [
+    "Lee County",
+    "AL"
+  ],
+  [
+    "Muskegon County",
+    "MI"
+  ],
+  [
+    "Lower Connecticut River Valley Planning Region",
+    "CT"
+  ],
+  [
+    "Comal County",
+    "TX"
+  ],
+  [
+    "Carroll County",
+    "MD"
+  ],
+  [
+    "Scott County",
+    "IA"
+  ],
+  [
+    "Paulding County",
+    "GA"
+  ],
+  [
+    "Alamance County",
+    "NC"
+  ],
+  [
+    "Porter County",
+    "IN"
+  ],
+  [
+    "Pitt County",
+    "NC"
+  ],
+  [
+    "Aiken County",
+    "SC"
+  ],
+  [
+    "Midland County",
+    "TX"
+  ],
+  [
+    "Winnebago County",
+    "WI"
+  ],
+  [
+    "Davidson County",
+    "NC"
+  ],
+  [
+    "McLean County",
+    "IL"
+  ],
+  [
+    "Kent County",
+    "RI"
+  ],
+  [
+    "Kenton County",
+    "KY"
+  ],
+  [
+    "Chittenden County",
+    "VT"
+  ],
+  [
+    "Pueblo County",
+    "CO"
+  ],
+  [
+    "Charles County",
+    "MD"
+  ],
+  [
+    "Greene County",
+    "OH"
+  ],
+  [
+    "Kenosha County",
+    "WI"
+  ],
+  [
+    "Monroe County",
+    "PA"
+  ],
+  [
+    "Yellowstone County",
+    "MT"
+  ],
+  [
+    "Wyandotte County",
+    "KS"
+  ],
+  [
+    "Beaver County",
+    "PA"
+  ],
+  [
+    "Houston County",
+    "GA"
+  ],
+  [
+    "Maui County",
+    "HI"
+  ],
+  [
+    "Dorchester County",
+    "SC"
+  ],
+  [
+    "Johnson County",
+    "IN"
+  ],
+  [
+    "Rock County",
+    "WI"
+  ],
+  [
+    "Indian River County",
+    "FL"
+  ],
+  [
+    "Olmsted County",
+    "MN"
+  ],
+  [
+    "Ector County",
+    "TX"
+  ],
+  [
+    "Canadian County",
+    "OK"
+  ],
+  [
+    "Catawba County",
+    "NC"
+  ],
+  [
+    "Portage County",
+    "OH"
+  ],
+  [
+    "Fairfield County",
+    "OH"
+  ],
+  [
+    "Kaufman County",
+    "TX"
+  ],
+  [
+    "Stafford County",
+    "VA"
+  ],
+  [
+    "Martin County",
+    "FL"
+  ],
+  [
+    "Rensselaer County",
+    "NY"
+  ],
+  [
+    "Jackson County",
+    "MI"
+  ],
+  [
+    "St. Clair County",
+    "MI"
+  ],
+  [
+    "Sullivan County",
+    "TN"
+  ],
+  [
+    "Columbia County",
+    "GA"
+  ],
+  [
+    "Schenectady County",
+    "NY"
+  ],
+  [
+    "Stearns County",
+    "MN"
+  ],
+  [
+    "Ouachita Parish",
+    "LA"
+  ],
+  [
+    "Madera County",
+    "CA"
+  ],
+  [
+    "Citrus County",
+    "FL"
+  ],
+  [
+    "Rankin County",
+    "MS"
+  ],
+  [
+    "Parker County",
+    "TX"
+  ],
+  [
+    "Centre County",
+    "PA"
+  ],
+  [
+    "Mesa County",
+    "CO"
+  ],
+  [
+    "Alexandria City",
+    "VA"
+  ],
+  [
+    "Franklin County",
+    "PA"
+  ],
+  [
+    "Hampshire County",
+    "MA"
+  ],
+  [
+    "Bibb County",
+    "GA"
+  ],
+  [
+    "Santa Fe County",
+    "NM"
+  ],
+  [
+    "Washington County",
+    "MD"
+  ],
+  [
+    "Merrimack County",
+    "NH"
+  ],
+  [
+    "Monroe County",
+    "MI"
+  ],
+  [
+    "Johnson County",
+    "IA"
+  ],
+  [
+    "Wilson County",
+    "TN"
+  ],
+  [
+    "Penobscot County",
+    "ME"
+  ],
+  [
+    "Berrien County",
+    "MI"
+  ],
+  [
+    "Scott County",
+    "MN"
+  ],
+  [
+    "Cumberland County",
+    "NJ"
+  ],
+  [
+    "Kings County",
+    "CA"
+  ],
+  [
+    "Sandoval County",
+    "NM"
+  ],
+  [
+    "Coweta County",
+    "GA"
+  ],
+  [
+    "Rowan County",
+    "NC"
+  ],
+  [
+    "Orange County",
+    "NC"
+  ],
+  [
+    "Douglas County",
+    "GA"
+  ],
+  [
+    "Brunswick County",
+    "NC"
+  ],
+  [
+    "Livingston Parish",
+    "LA"
+  ],
+  [
+    "Randolph County",
+    "NC"
+  ],
+  [
+    "Wright County",
+    "MN"
+  ],
+  [
+    "Sussex County",
+    "NJ"
+  ],
+  [
+    "Coconino County",
+    "AZ"
+  ],
+  [
+    "Jackson County",
+    "MS"
+  ],
+  [
+    "Taylor County",
+    "TX"
+  ],
+  [
+    "Spotsylvania County",
+    "VA"
+  ],
+  [
+    "Randall County",
+    "TX"
+  ],
+  [
+    "Lebanon County",
+    "PA"
+  ],
+  [
+    "Schuylkill County",
+    "PA"
+  ],
+  [
+    "Rock Island County",
+    "IL"
+  ],
+  [
+    "Grayson County",
+    "TX"
+  ],
+  [
+    "Monroe County",
+    "IN"
+  ],
+  [
+    "Marathon County",
+    "WI"
+  ],
+  [
+    "Blount County",
+    "TN"
+  ],
+  [
+    "Boone County",
+    "KY"
+  ],
+  [
+    "Warren County",
+    "KY"
+  ],
+  [
+    "Sumter County",
+    "FL"
+  ],
+  [
+    "Hampton City",
+    "VA"
+  ],
+  [
+    "Washington County",
+    "WI"
+  ],
+  [
+    "Cache County",
+    "UT"
+  ],
+  [
+    "Florence County",
+    "SC"
+  ],
+  [
+    "Harnett County",
+    "NC"
+  ],
+  [
+    "Napa County",
+    "CA"
+  ],
+  [
+    "Clark County",
+    "OH"
+  ],
+  [
+    "Humboldt County",
+    "CA"
+  ],
+  [
+    "Tangipahoa Parish",
+    "LA"
+  ],
+  [
+    "Kendall County",
+    "IL"
+  ],
+  [
+    "Washington County",
+    "TN"
+  ],
+  [
+    "Calhoun County",
+    "MI"
+  ],
+  [
+    "Pickens County",
+    "SC"
+  ],
+  [
+    "Cambria County",
+    "PA"
+  ],
+  [
+    "Wood County",
+    "OH"
+  ],
+  [
+    "Strafford County",
+    "NH"
+  ],
+  [
+    "Madison County",
+    "IN"
+  ],
+  [
+    "Black Hawk County",
+    "IA"
+  ],
+  [
+    "Tazewell County",
+    "IL"
+  ],
+  [
+    "Skagit County",
+    "WA"
+  ],
+  [
+    "Washington County",
+    "RI"
+  ],
+  [
+    "Wichita County",
+    "TX"
+  ],
+  [
+    "Linn County",
+    "OR"
+  ],
+  [
+    "Hunterdon County",
+    "NJ"
+  ],
+  [
+    "Clarke County",
+    "GA"
+  ],
+  [
+    "Bossier Parish",
+    "LA"
+  ],
+  [
+    "Ascension Parish",
+    "LA"
+  ],
+  [
+    "Rapides Parish",
+    "LA"
+  ],
+  [
+    "Sebastian County",
+    "AR"
+  ],
+  [
+    "Berkshire County",
+    "MA"
+  ],
+  [
+    "Bonneville County",
+    "ID"
+  ],
+  [
+    "Fayette County",
+    "PA"
+  ],
+  [
+    "Chautauqua County",
+    "NY"
+  ],
+  [
+    "Berkeley County",
+    "WV"
+  ],
+  [
+    "Faulkner County",
+    "AR"
+  ],
+  [
+    "Saline County",
+    "AR"
+  ],
+  [
+    "Kennebec County",
+    "ME"
+  ],
+  [
+    "Cochise County",
+    "AZ"
+  ],
+  [
+    "Richland County",
+    "OH"
+  ],
+  [
+    "Gregg County",
+    "TX"
+  ],
+  [
+    "Morgan County",
+    "AL"
+  ],
+  [
+    "Jasper County",
+    "MO"
+  ],
+  [
+    "Clark County",
+    "IN"
+  ],
+  [
+    "Gallatin County",
+    "MT"
+  ],
+  [
+    "Carroll County",
+    "GA"
+  ],
+  [
+    "Blair County",
+    "PA"
+  ],
+  [
+    "Flagler County",
+    "FL"
+  ],
+  [
+    "Comanche County",
+    "OK"
+  ],
+  [
+    "San Juan County",
+    "NM"
+  ],
+  [
+    "Allegan County",
+    "MI"
+  ],
+  [
+    "Fayette County",
+    "GA"
+  ],
+  [
+    "La Crosse County",
+    "WI"
+  ],
+  [
+    "Missoula County",
+    "MT"
+  ],
+  [
+    "Douglas County",
+    "KS"
+  ],
+  [
+    "Tom Green County",
+    "TX"
+  ],
+  [
+    "Lowndes County",
+    "GA"
+  ],
+  [
+    "Oswego County",
+    "NY"
+  ],
+  [
+    "Sheboygan County",
+    "WI"
+  ],
+  [
+    "Wayne County",
+    "NC"
+  ],
+  [
+    "Henderson County",
+    "NC"
+  ],
+  [
+    "Rockwall County",
+    "TX"
+  ],
+  [
+    "Robeson County",
+    "NC"
+  ],
+  [
+    "Potter County",
+    "TX"
+  ],
+  [
+    "Wayne County",
+    "OH"
+  ],
+  [
+    "Calhoun County",
+    "AL"
+  ],
+  [
+    "Jefferson County",
+    "NY"
+  ],
+  [
+    "Newton County",
+    "GA"
+  ],
+  [
+    "St. Mary's County",
+    "MD"
+  ],
+  [
+    "Albemarle County",
+    "VA"
+  ],
+  [
+    "Lycoming County",
+    "PA"
+  ],
+  [
+    "Northwest Hills Planning Region",
+    "CT"
+  ],
+  [
+    "Ontario County",
+    "NY"
+  ],
+  [
+    "Androscoggin County",
+    "ME"
+  ],
+  [
+    "LaPorte County",
+    "IN"
+  ],
+  [
+    "Delaware County",
+    "IN"
+  ],
+  [
+    "Craighead County",
+    "AR"
+  ],
+  [
+    "Pennington County",
+    "SD"
+  ],
+  [
+    "Douglas County",
+    "OR"
+  ],
+  [
+    "Hanover County",
+    "VA"
+  ],
+  [
+    "Cowlitz County",
+    "WA"
+  ],
+  [
+    "Hardin County",
+    "KY"
+  ],
+  [
+    "Bartow County",
+    "GA"
+  ],
+  [
+    "Matanuska-Susitna Borough",
+    "AK"
+  ],
+  [
+    "Madison County",
+    "MS"
+  ],
+  [
+    "Warren County",
+    "NJ"
+  ],
+  [
+    "Mercer County",
+    "PA"
+  ],
+  [
+    "Bradley County",
+    "TN"
+  ],
+  [
+    "Miami County",
+    "OH"
+  ],
+  [
+    "Cass County",
+    "MO"
+  ],
+  [
+    "LaSalle County",
+    "IL"
+  ],
+  [
+    "Eaton County",
+    "MI"
+  ],
+  [
+    "Platte County",
+    "MO"
+  ],
+  [
+    "Carver County",
+    "MN"
+  ],
+  [
+    "Flathead County",
+    "MT"
+  ],
+  [
+    "Yamhill County",
+    "OR"
+  ],
+  [
+    "St. Lawrence County",
+    "NY"
+  ],
+  [
+    "Navajo County",
+    "AZ"
+  ],
+  [
+    "Houston County",
+    "AL"
+  ],
+  [
+    "Limestone County",
+    "AL"
+  ],
+  [
+    "Terrebonne Parish",
+    "LA"
+  ],
+  [
+    "Kankakee County",
+    "IL"
+  ],
+  [
+    "Monongalia County",
+    "WV"
+  ],
+  [
+    "Eau Claire County",
+    "WI"
+  ],
+  [
+    "Vigo County",
+    "IN"
+  ],
+  [
+    "Woodbury County",
+    "IA"
+  ],
+  [
+    "Walworth County",
+    "WI"
+  ],
+  [
+    "Franklin County",
+    "MO"
+  ],
+  [
+    "Adams County",
+    "PA"
+  ],
+  [
+    "Hunt County",
+    "TX"
+  ],
+  [
+    "Maury County",
+    "TN"
+  ],
+  [
+    "Sumter County",
+    "SC"
+  ],
+  [
+    "Cecil County",
+    "MD"
+  ],
+  [
+    "Dallas County",
+    "IA"
+  ],
+  [
+    "Wicomico County",
+    "MD"
+  ],
+  [
+    "Fond du Lac County",
+    "WI"
+  ],
+  [
+    "Highlands County",
+    "FL"
+  ],
+  [
+    "Bay County",
+    "MI"
+  ],
+  [
+    "Etowah County",
+    "AL"
+  ],
+  [
+    "Daviess County",
+    "KY"
+  ],
+  [
+    "Whitfield County",
+    "GA"
+  ],
+  [
+    "Tompkins County",
+    "NY"
+  ],
+  [
+    "Moore County",
+    "NC"
+  ],
+  [
+    "Macon County",
+    "IL"
+  ],
+  [
+    "Nevada County",
+    "CA"
+  ],
+  [
+    "Bastrop County",
+    "TX"
+  ],
+  [
+    "Allen County",
+    "OH"
+  ],
+  [
+    "Columbiana County",
+    "OH"
+  ],
+  [
+    "Craven County",
+    "NC"
+  ],
+  [
+    "Lancaster County",
+    "SC"
+  ],
+  [
+    "Laramie County",
+    "WY"
+  ],
+  [
+    "DeKalb County",
+    "IL"
+  ],
+  [
+    "Grant County",
+    "WA"
+  ],
+  [
+    "Walton County",
+    "GA"
+  ],
+  [
+    "Cleveland County",
+    "NC"
+  ],
+  [
+    "Garland County",
+    "AR"
+  ],
+  [
+    "Sherburne County",
+    "MN"
+  ],
+  [
+    "Montgomery County",
+    "VA"
+  ],
+  [
+    "Burleigh County",
+    "ND"
+  ],
+  [
+    "Floyd County",
+    "GA"
+  ],
+  [
+    "Sutter County",
+    "CA"
+  ],
+  [
+    "Dubuque County",
+    "IA"
+  ],
+  [
+    "Madison County",
+    "TN"
+  ],
+  [
+    "Lenawee County",
+    "MI"
+  ],
+  [
+    "Sevier County",
+    "TN"
+  ],
+  [
+    "Marshall County",
+    "AL"
+  ],
+  [
+    "Roanoke City",
+    "VA"
+  ],
+  [
+    "Story County",
+    "IA"
+  ],
+  [
+    "Liberty County",
+    "TX"
+  ],
+  [
+    "Putnam County",
+    "NY"
+  ],
+  [
+    "Franklin County",
+    "WA"
+  ],
+  [
+    "Ashtabula County",
+    "OH"
+  ],
+  [
+    "Portsmouth City",
+    "VA"
+  ],
+  [
+    "Rogers County",
+    "OK"
+  ],
+  [
+    "Roanoke County",
+    "VA"
+  ],
+  [
+    "Lafourche Parish",
+    "LA"
+  ],
+  [
+    "Suffolk City",
+    "VA"
+  ],
+  [
+    "Benton County",
+    "OR"
+  ],
+  [
+    "Northeastern Connecticut Planning Region",
+    "CT"
+  ],
+  [
+    "Grand Traverse County",
+    "MI"
+  ],
+  [
+    "Fairbanks North Star Borough",
+    "AK"
+  ],
+  [
+    "Geauga County",
+    "OH"
+  ],
+  [
+    "Nash County",
+    "NC"
+  ],
+  [
+    "Cape May County",
+    "NJ"
+  ],
+  [
+    "Lauderdale County",
+    "AL"
+  ],
+  [
+    "St. Croix County",
+    "WI"
+  ],
+  [
+    "Nassau County",
+    "FL"
+  ],
+  [
+    "Rockdale County",
+    "GA"
+  ],
+  [
+    "Madison County",
+    "KY"
+  ],
+  [
+    "Calvert County",
+    "MD"
+  ],
+  [
+    "Pottawattamie County",
+    "IA"
+  ],
+  [
+    "Frederick County",
+    "VA"
+  ],
+  [
+    "Cabell County",
+    "WV"
+  ],
+  [
+    "Campbell County",
+    "KY"
+  ],
+  [
+    "Steuben County",
+    "NY"
+  ],
+  [
+    "St. Clair County",
+    "AL"
+  ],
+  [
+    "Tuscarawas County",
+    "OH"
+  ],
+  [
+    "Ozaukee County",
+    "WI"
+  ],
+  [
+    "Bowie County",
+    "TX"
+  ],
+  [
+    "Twin Falls County",
+    "ID"
+  ],
+  [
+    "Grafton County",
+    "NH"
+  ],
+  [
+    "Rockingham County",
+    "NC"
+  ],
+  [
+    "Victoria County",
+    "TX"
+  ],
+  [
+    "Christian County",
+    "MO"
+  ],
+  [
+    "Wayne County",
+    "NY"
+  ],
+  [
+    "Northumberland County",
+    "PA"
+  ],
+  [
+    "Mendocino County",
+    "CA"
+  ],
+  [
+    "Lincoln County",
+    "NC"
+  ],
+  [
+    "Cullman County",
+    "AL"
+  ],
+  [
+    "Dodge County",
+    "WI"
+  ],
+  [
+    "Lapeer County",
+    "MI"
+  ],
+  [
+    "Elmore County",
+    "AL"
+  ],
+  [
+    "Polk County",
+    "OR"
+  ],
+  [
+    "Bannock County",
+    "ID"
+  ],
+  [
+    "Josephine County",
+    "OR"
+  ],
+  [
+    "Burke County",
+    "NC"
+  ],
+  [
+    "Barrow County",
+    "GA"
+  ],
+  [
+    "Angelina County",
+    "TX"
+  ],
+  [
+    "Island County",
+    "WA"
+  ],
+  [
+    "Muskingum County",
+    "OH"
+  ],
+  [
+    "Jefferson County",
+    "WI"
+  ],
+  [
+    "Lawrence County",
+    "PA"
+  ],
+  [
+    "Newport County",
+    "RI"
+  ],
+  [
+    "Orange County",
+    "TX"
+  ],
+  [
+    "Glynn County",
+    "GA"
+  ],
+  [
+    "Rockingham County",
+    "VA"
+  ],
+  [
+    "Cascade County",
+    "MT"
+  ],
+  [
+    "Wagoner County",
+    "OK"
+  ],
+  [
+    "Lewis County",
+    "WA"
+  ],
+  [
+    "Dougherty County",
+    "GA"
+  ],
+  [
+    "Buchanan County",
+    "MO"
+  ],
+  [
+    "Wood County",
+    "WV"
+  ],
+  [
+    "Coryell County",
+    "TX"
+  ],
+  [
+    "Henderson County",
+    "TX"
+  ],
+  [
+    "Midland County",
+    "MI"
+  ],
+  [
+    "Howard County",
+    "IN"
+  ],
+  [
+    "Orangeburg County",
+    "SC"
+  ],
+  [
+    "Indiana County",
+    "PA"
+  ],
+  [
+    "Bullitt County",
+    "KY"
+  ],
+  [
+    "Crawford County",
+    "PA"
+  ],
+  [
+    "Lee County",
+    "MS"
+  ],
+  [
+    "Yuba County",
+    "CA"
+  ],
+  [
+    "Bartholomew County",
+    "IN"
+  ],
+  [
+    "Chemung County",
+    "NY"
+  ],
+  [
+    "Leavenworth County",
+    "KS"
+  ],
+  [
+    "Payne County",
+    "OK"
+  ],
+  [
+    "Cape Girardeau County",
+    "MO"
+  ],
+  [
+    "St. Landry Parish",
+    "LA"
+  ],
+  [
+    "Hancock County",
+    "IN"
+  ],
+  [
+    "Monroe County",
+    "FL"
+  ],
+  [
+    "Bulloch County",
+    "GA"
+  ],
+  [
+    "Putnam County",
+    "TN"
+  ],
+  [
+    "Manitowoc County",
+    "WI"
+  ],
+  [
+    "Talladega County",
+    "AL"
+  ],
+  [
+    "Jackson County",
+    "GA"
+  ],
+  [
+    "Caldwell County",
+    "NC"
+  ],
+  [
+    "Floyd County",
+    "IN"
+  ],
+  [
+    "Kosciusko County",
+    "IN"
+  ],
+  [
+    "Bedford County",
+    "VA"
+  ],
+  [
+    "Umatilla County",
+    "OR"
+  ],
+  [
+    "James City County",
+    "VA"
+  ],
+  [
+    "Walton County",
+    "FL"
+  ],
+  [
+    "Natrona County",
+    "WY"
+  ],
+  [
+    "Oconee County",
+    "SC"
+  ],
+  [
+    "Chelan County",
+    "WA"
+  ],
+  [
+    "Clinton County",
+    "MI"
+  ],
+  [
+    "Lynchburg City",
+    "VA"
+  ],
+  [
+    "Sullivan County",
+    "NY"
+  ],
+  [
+    "Clinton County",
+    "NY"
+  ],
+  [
+    "Clearfield County",
+    "PA"
+  ],
+  [
+    "Wilson County",
+    "NC"
+  ],
+  [
+    "Chatham County",
+    "NC"
+  ],
+  [
+    "Walker County",
+    "TX"
+  ],
+  [
+    "Anderson County",
+    "TN"
+  ],
+  [
+    "Forrest County",
+    "MS"
+  ],
+  [
+    "Augusta County",
+    "VA"
+  ],
+  [
+    "Clallam County",
+    "WA"
+  ],
+  [
+    "White County",
+    "AR"
+  ],
+  [
+    "Valencia County",
+    "NM"
+  ],
+  [
+    "Cheshire County",
+    "NH"
+  ],
+  [
+    "Cole County",
+    "MO"
+  ],
+  [
+    "Ross County",
+    "OH"
+  ],
+  [
+    "Tooele County",
+    "UT"
+  ],
+  [
+    "Cattaraugus County",
+    "NY"
+  ],
+  [
+    "Grays Harbor County",
+    "WA"
+  ],
+  [
+    "Van Buren County",
+    "MI"
+  ],
+  [
+    "Cayuga County",
+    "NY"
+  ],
+  [
+    "Broomfield County",
+    "CO"
+  ],
+  [
+    "Erie County",
+    "OH"
+  ],
+  [
+    "Hancock County",
+    "OH"
+  ],
+  [
+    "Lonoke County",
+    "AR"
+  ],
+  [
+    "Robertson County",
+    "TN"
+  ],
+  [
+    "Putnam County",
+    "FL"
+  ],
+  [
+    "Wood County",
+    "WI"
+  ],
+  [
+    "Fauquier County",
+    "VA"
+  ],
+  [
+    "Raleigh County",
+    "WV"
+  ],
+  [
+    "Kauai County",
+    "HI"
+  ],
+  [
+    "Somerset County",
+    "PA"
+  ],
+  [
+    "Vermilion County",
+    "IL"
+  ],
+  [
+    "Lea County",
+    "NM"
+  ],
+  [
+    "Scioto County",
+    "OH"
+  ],
+  [
+    "Pottawatomie County",
+    "OK"
+  ],
+  [
+    "Boone County",
+    "IN"
+  ],
+  [
+    "Grand Forks County",
+    "ND"
+  ],
+  [
+    "Christian County",
+    "KY"
+  ],
+  [
+    "Lewis and Clark County",
+    "MT"
+  ],
+  [
+    "Wise County",
+    "TX"
+  ],
+  [
+    "Creek County",
+    "OK"
+  ],
+  [
+    "Morgan County",
+    "IN"
+  ],
+  [
+    "Lauderdale County",
+    "MS"
+  ],
+  [
+    "Franklin County",
+    "NC"
+  ],
+  [
+    "DeKalb County",
+    "AL"
+  ],
+  [
+    "Riley County",
+    "KS"
+  ],
+  [
+    "Surry County",
+    "NC"
+  ],
+  [
+    "McKinley County",
+    "NM"
+  ],
+  [
+    "Franklin County",
+    "MA"
+  ],
+  [
+    "Greene County",
+    "TN"
+  ],
+  [
+    "Columbia County",
+    "FL"
+  ],
+  [
+    "York County",
+    "VA"
+  ],
+  [
+    "Portage County",
+    "WI"
+  ],
+  [
+    "Troup County",
+    "GA"
+  ],
+  [
+    "Klamath County",
+    "OR"
+  ],
+  [
+    "Harrison County",
+    "TX"
+  ],
+  [
+    "San Patricio County",
+    "TX"
+  ],
+  [
+    "Blue Earth County",
+    "MN"
+  ],
+  [
+    "Greenwood County",
+    "SC"
+  ],
+  [
+    "Ward County",
+    "ND"
+  ],
+  [
+    "Iberia Parish",
+    "LA"
+  ],
+  [
+    "Carteret County",
+    "NC"
+  ],
+  [
+    "Oldham County",
+    "KY"
+  ],
+  [
+    "Walker County",
+    "GA"
+  ],
+  [
+    "Catoosa County",
+    "GA"
+  ],
+  [
+    "Lincoln County",
+    "SD"
+  ],
+  [
+    "Otero County",
+    "NM"
+  ],
+  [
+    "Spalding County",
+    "GA"
+  ],
+  [
+    "Lake County",
+    "CA"
+  ],
+  [
+    "Shiawassee County",
+    "MI"
+  ],
+  [
+    "Butler County",
+    "KS"
+  ],
+  [
+    "Laurens County",
+    "SC"
+  ],
+  [
+    "Allegany County",
+    "MD"
+  ],
+  [
+    "McCracken County",
+    "KY"
+  ],
+  [
+    "Madison County",
+    "NY"
+  ],
+  [
+    "Rice County",
+    "MN"
+  ],
+  [
+    "Effingham County",
+    "GA"
+  ],
+  [
+    "Aroostook County",
+    "ME"
+  ],
+  [
+    "Montcalm County",
+    "MI"
+  ],
+  [
+    "Crow Wing County",
+    "MN"
+  ],
+  [
+    "Mason County",
+    "WA"
+  ],
+  [
+    "Kershaw County",
+    "SC"
+  ],
+  [
+    "Williamson County",
+    "IL"
+  ],
+  [
+    "St. Francois County",
+    "MO"
+  ],
+  [
+    "Jones County",
+    "MS"
+  ],
+  [
+    "Liberty County",
+    "GA"
+  ],
+  [
+    "Ionia County",
+    "MI"
+  ],
+  [
+    "Chippewa County",
+    "WI"
+  ],
+  [
+    "Muskogee County",
+    "OK"
+  ],
+  [
+    "Marquette County",
+    "MI"
+  ],
+  [
+    "Grant County",
+    "IN"
+  ],
+  [
+    "Wayne County",
+    "IN"
+  ],
+  [
+    "San Benito County",
+    "CA"
+  ],
+  [
+    "Wilkes County",
+    "NC"
+  ],
+  [
+    "Belmont County",
+    "OH"
+  ],
+  [
+    "Starr County",
+    "TX"
+  ],
+  [
+    "Jefferson County",
+    "AR"
+  ],
+  [
+    "Sauk County",
+    "WI"
+  ],
+  [
+    "Apache County",
+    "AZ"
+  ],
+  [
+    "Clay County",
+    "MN"
+  ],
+  [
+    "Warren County",
+    "NY"
+  ],
+  [
+    "Tehama County",
+    "CA"
+  ],
+  [
+    "Pulaski County",
+    "KY"
+  ],
+  [
+    "Harrison County",
+    "WV"
+  ],
+  [
+    "Union County",
+    "OH"
+  ],
+  [
+    "Carbon County",
+    "PA"
+  ],
+  [
+    "Adams County",
+    "IL"
+  ],
+  [
+    "Marion County",
+    "OH"
+  ],
+  [
+    "Lamar County",
+    "MS"
+  ],
+  [
+    "Armstrong County",
+    "PA"
+  ],
+  [
+    "Columbia County",
+    "PA"
+  ],
+  [
+    "Salem County",
+    "NJ"
+  ],
+  [
+    "Hamblen County",
+    "TN"
+  ],
+  [
+    "Nacogdoches County",
+    "TX"
+  ],
+  [
+    "Walker County",
+    "AL"
+  ],
+  [
+    "Jefferson County",
+    "OH"
+  ],
+  [
+    "Rutherford County",
+    "NC"
+  ],
+  [
+    "Coos County",
+    "OR"
+  ],
+  [
+    "Warrick County",
+    "IN"
+  ],
+  [
+    "Lee County",
+    "NC"
+  ],
+  [
+    "Isabella County",
+    "MI"
+  ],
+  [
+    "Chaves County",
+    "NM"
+  ],
+  [
+    "Belknap County",
+    "NH"
+  ],
+  [
+    "Georgetown County",
+    "SC"
+  ],
+  [
+    "Hood County",
+    "TX"
+  ],
+  [
+    "Pope County",
+    "AR"
+  ],
+  [
+    "Stanly County",
+    "NC"
+  ],
+  [
+    "Pender County",
+    "NC"
+  ],
+  [
+    "Barry County",
+    "MI"
+  ],
+  [
+    "Knox County",
+    "OH"
+  ],
+  [
+    "Darlington County",
+    "SC"
+  ],
+  [
+    "Laurel County",
+    "KY"
+  ],
+  [
+    "Cumberland County",
+    "TN"
+  ],
+  [
+    "Haywood County",
+    "NC"
+  ],
+  [
+    "Hall County",
+    "NE"
+  ],
+  [
+    "Garfield County",
+    "OK"
+  ],
+  [
+    "Walla Walla County",
+    "WA"
+  ],
+  [
+    "Garfield County",
+    "CO"
+  ],
+  [
+    "Reno County",
+    "KS"
+  ],
+  [
+    "Lincoln County",
+    "MO"
+  ],
+  [
+    "Livingston County",
+    "NY"
+  ],
+  [
+    "Athens County",
+    "OH"
+  ],
+  [
+    "Granville County",
+    "NC"
+  ],
+  [
+    "Tipton County",
+    "TN"
+  ],
+  [
+    "Van Zandt County",
+    "TX"
+  ],
+  [
+    "Columbia County",
+    "NY"
+  ],
+  [
+    "Eddy County",
+    "NM"
+  ],
+  [
+    "Washington County",
+    "NY"
+  ],
+  [
+    "St. Joseph County",
+    "MI"
+  ],
+  [
+    "Crawford County",
+    "AR"
+  ],
+  [
+    "Lyon County",
+    "NV"
+  ],
+  [
+    "Rutland County",
+    "VT"
+  ],
+  [
+    "Otter Tail County",
+    "MN"
+  ],
+  [
+    "Iron County",
+    "UT"
+  ],
+  [
+    "Pittsylvania County",
+    "VA"
+  ],
+  [
+    "Bradford County",
+    "PA"
+  ],
+  [
+    "Washington County",
+    "VT"
+  ],
+  [
+    "Herkimer County",
+    "NY"
+  ],
+  [
+    "Kenai Peninsula Borough",
+    "AK"
+  ],
+  [
+    "Otsego County",
+    "NY"
+  ],
+  [
+    "Box Elder County",
+    "UT"
+  ],
+  [
+    "Pike County",
+    "PA"
+  ],
+  [
+    "Newton County",
+    "MO"
+  ],
+  [
+    "Waller County",
+    "TX"
+  ],
+  [
+    "Pickaway County",
+    "OH"
+  ],
+  [
+    "Washington County",
+    "OH"
+  ],
+  [
+    "Blount County",
+    "AL"
+  ],
+  [
+    "Autauga County",
+    "AL"
+  ],
+  [
+    "Sampson County",
+    "NC"
+  ],
+  [
+    "Mercer County",
+    "WV"
+  ],
+  [
+    "Coffee County",
+    "TN"
+  ],
+  [
+    "Russell County",
+    "AL"
+  ],
+  [
+    "Sandusky County",
+    "OH"
+  ],
+  [
+    "Oxford County",
+    "ME"
+  ],
+  [
+    "Jefferson County",
+    "WV"
+  ],
+  [
+    "Huron County",
+    "OH"
+  ],
+  [
+    "Carson City",
+    "NV"
+  ],
+  [
+    "Gordon County",
+    "GA"
+  ],
+  [
+    "Columbia County",
+    "WI"
+  ],
+  [
+    "Scott County",
+    "KY"
+  ],
+  [
+    "Lowndes County",
+    "MS"
+  ],
+  [
+    "Windsor County",
+    "VT"
+  ],
+  [
+    "Genesee County",
+    "NY"
+  ],
+  [
+    "Anderson County",
+    "TX"
+  ],
+  [
+    "Maverick County",
+    "TX"
+  ],
+  [
+    "Colbert County",
+    "AL"
+  ],
+  [
+    "Pike County",
+    "KY"
+  ],
+  [
+    "Hawkins County",
+    "TN"
+  ],
+  [
+    "Chisago County",
+    "MN"
+  ],
+  [
+    "Lawrence County",
+    "OH"
+  ],
+  [
+    "Putnam County",
+    "WV"
+  ],
+  [
+    "Acadia Parish",
+    "LA"
+  ],
+  [
+    "Hardin County",
+    "TX"
+  ],
+  [
+    "Vermilion Parish",
+    "LA"
+  ],
+  [
+    "Loudon County",
+    "TN"
+  ],
+  [
+    "Lafayette County",
+    "MS"
+  ],
+  [
+    "Pearl River County",
+    "MS"
+  ],
+  [
+    "Carter County",
+    "TN"
+  ],
+  [
+    "Taney County",
+    "MO"
+  ],
+  [
+    "Cherokee County",
+    "SC"
+  ],
+  [
+    "La Plata County",
+    "CO"
+  ],
+  [
+    "Hancock County",
+    "ME"
+  ],
+  [
+    "Marion County",
+    "WV"
+  ],
+  [
+    "Camden County",
+    "GA"
+  ],
+  [
+    "Grady County",
+    "OK"
+  ],
+  [
+    "Jefferson County",
+    "TN"
+  ],
+  [
+    "Campbell County",
+    "VA"
+  ],
+  [
+    "Eagle County",
+    "CO"
+  ],
+  [
+    "Dickson County",
+    "TN"
+  ],
+  [
+    "Whiteside County",
+    "IL"
+  ],
+  [
+    "Franklin County",
+    "VA"
+  ],
+  [
+    "Lenoir County",
+    "NC"
+  ],
+  [
+    "Tuolumne County",
+    "CA"
+  ],
+  [
+    "Seneca County",
+    "OH"
+  ],
+  [
+    "Watauga County",
+    "NC"
+  ],
+  [
+    "Roane County",
+    "TN"
+  ],
+  [
+    "Johnson County",
+    "MO"
+  ],
+  [
+    "Coffee County",
+    "AL"
+  ],
+  [
+    "McMinn County",
+    "TN"
+  ],
+  [
+    "Washington County",
+    "VA"
+  ],
+  [
+    "Elko County",
+    "NV"
+  ],
+  [
+    "Pulaski County",
+    "MO"
+  ],
+  [
+    "Saline County",
+    "KS"
+  ],
+  [
+    "Jessamine County",
+    "KY"
+  ],
+  [
+    "Navarro County",
+    "TX"
+  ],
+  [
+    "Gila County",
+    "AZ"
+  ],
+  [
+    "Madison County",
+    "ID"
+  ],
+  [
+    "Culpeper County",
+    "VA"
+  ],
+  [
+    "Warren County",
+    "IA"
+  ],
+  [
+    "Boone County",
+    "IL"
+  ],
+  [
+    "Worcester County",
+    "MD"
+  ],
+  [
+    "Nye County",
+    "NV"
+  ],
+  [
+    "Columbia County",
+    "OR"
+  ],
+  [
+    "Kerr County",
+    "TX"
+  ],
+  [
+    "Hoke County",
+    "NC"
+  ],
+  [
+    "Tuscola County",
+    "MI"
+  ],
+  [
+    "Grundy County",
+    "IL"
+  ],
+  [
+    "Washington County",
+    "OK"
+  ],
+  [
+    "Jackson County",
+    "AL"
+  ],
+  [
+    "Fulton County",
+    "NY"
+  ],
+  [
+    "Jackson County",
+    "IL"
+  ],
+  [
+    "Calumet County",
+    "WI"
+  ],
+  [
+    "Rusk County",
+    "TX"
+  ],
+  [
+    "Medina County",
+    "TX"
+  ],
+  [
+    "Ashland County",
+    "OH"
+  ],
+  [
+    "St. Charles Parish",
+    "LA"
+  ],
+  [
+    "Polk County",
+    "TX"
+  ],
+  [
+    "Waupaca County",
+    "WI"
+  ],
+  [
+    "Grant County",
+    "WI"
+  ],
+  [
+    "Darke County",
+    "OH"
+  ],
+  [
+    "Cass County",
+    "MI"
+  ],
+  [
+    "Franklin County",
+    "KY"
+  ],
+  [
+    "St. Martin Parish",
+    "LA"
+  ],
+  [
+    "Ogle County",
+    "IL"
+  ],
+  [
+    "Wilson County",
+    "TX"
+  ],
+  [
+    "Harrisonburg City",
+    "VA"
+  ],
+  [
+    "Oktibbeha County",
+    "MS"
+  ],
+  [
+    "Bedford County",
+    "TN"
+  ],
+  [
+    "Carroll County",
+    "NH"
+  ],
+  [
+    "Wayne County",
+    "PA"
+  ],
+  [
+    "Cherokee County",
+    "TX"
+  ],
+  [
+    "Burnet County",
+    "TX"
+  ],
+  [
+    "Queen Anne's County",
+    "MD"
+  ],
+  [
+    "Logan County",
+    "OK"
+  ],
+  [
+    "Somerset County",
+    "ME"
+  ],
+  [
+    "Dearborn County",
+    "IN"
+  ],
+  [
+    "Lincoln County",
+    "OR"
+  ],
+  [
+    "Gibson County",
+    "TN"
+  ],
+  [
+    "Bristol County",
+    "RI"
+  ],
+  [
+    "Columbus County",
+    "NC"
+  ],
+  [
+    "Lamar County",
+    "TX"
+  ],
+  [
+    "Newaygo County",
+    "MI"
+  ],
+  [
+    "Franklin County",
+    "VT"
+  ],
+  [
+    "Henry County",
+    "VA"
+  ],
+  [
+    "Buffalo County",
+    "NE"
+  ],
+  [
+    "Venango County",
+    "PA"
+  ],
+  [
+    "Atascosa County",
+    "TX"
+  ],
+  [
+    "Winona County",
+    "MN"
+  ],
+  [
+    "Douglas County",
+    "NV"
+  ],
+  [
+    "Laurens County",
+    "GA"
+  ],
+  [
+    "Dale County",
+    "AL"
+  ],
+  [
+    "Montgomery County",
+    "NY"
+  ],
+  [
+    "Bonner County",
+    "ID"
+  ],
+  [
+    "Fremont County",
+    "CO"
+  ],
+  [
+    "Knox County",
+    "IL"
+  ],
+  [
+    "Chambers County",
+    "TX"
+  ],
+  [
+    "Duplin County",
+    "NC"
+  ],
+  [
+    "Bingham County",
+    "ID"
+  ],
+  [
+    "Henry County",
+    "IL"
+  ],
+  [
+    "Henry County",
+    "IN"
+  ],
+  [
+    "Edgecombe County",
+    "NC"
+  ],
+  [
+    "Le Flore County",
+    "OK"
+  ],
+  [
+    "Shelby County",
+    "KY"
+  ],
+  [
+    "St. Mary Parish",
+    "LA"
+  ],
+  [
+    "Carter County",
+    "OK"
+  ],
+  [
+    "Halifax County",
+    "NC"
+  ],
+  [
+    "Santa Cruz County",
+    "AZ"
+  ],
+  [
+    "Lincoln Parish",
+    "LA"
+  ],
+  [
+    "Tioga County",
+    "NY"
+  ],
+  [
+    "Boyd County",
+    "KY"
+  ],
+  [
+    "Shelby County",
+    "OH"
+  ],
+  [
+    "Curry County",
+    "NM"
+  ],
+  [
+    "Goodhue County",
+    "MN"
+  ],
+  [
+    "Vernon Parish",
+    "LA"
+  ],
+  [
+    "Jackson County",
+    "FL"
+  ],
+  [
+    "Val Verde County",
+    "TX"
+  ],
+  [
+    "Cherokee County",
+    "OK"
+  ],
+  [
+    "Crittenden County",
+    "AR"
+  ],
+  [
+    "Greene County",
+    "NY"
+  ],
+  [
+    "Bedford County",
+    "PA"
+  ],
+  [
+    "Stevens County",
+    "WA"
+  ],
+  [
+    "Noble County",
+    "IN"
+  ],
+  [
+    "Bryan County",
+    "OK"
+  ],
+  [
+    "Caldwell County",
+    "TX"
+  ],
+  [
+    "Nelson County",
+    "KY"
+  ],
+  [
+    "Franklin County",
+    "NY"
+  ],
+  [
+    "Monroe County",
+    "TN"
+  ],
+  [
+    "Whitman County",
+    "WA"
+  ],
+  [
+    "Allegany County",
+    "NY"
+  ],
+  [
+    "Campbell County",
+    "WY"
+  ],
+  [
+    "Kendall County",
+    "TX"
+  ],
+  [
+    "Habersham County",
+    "GA"
+  ],
+  [
+    "Barron County",
+    "WI"
+  ],
+  [
+    "Coles County",
+    "IL"
+  ],
+  [
+    "Chenango County",
+    "NY"
+  ],
+  [
+    "Bryan County",
+    "GA"
+  ],
+  [
+    "Beltrami County",
+    "MN"
+  ],
+  [
+    "Cortland County",
+    "NY"
+  ],
+  [
+    "Clinton County",
+    "IA"
+  ],
+  [
+    "Jackson County",
+    "IN"
+  ],
+  [
+    "Marshall County",
+    "IN"
+  ],
+  [
+    "Auglaize County",
+    "OH"
+  ],
+  [
+    "Greene County",
+    "AR"
+  ],
+  [
+    "Monroe County",
+    "WI"
+  ],
+  [
+    "Logan County",
+    "OH"
+  ],
+  [
+    "Wood County",
+    "TX"
+  ],
+  [
+    "Mifflin County",
+    "PA"
+  ],
+  [
+    "Hancock County",
+    "MS"
+  ],
+  [
+    "Calaveras County",
+    "CA"
+  ],
+  [
+    "Perry County",
+    "PA"
+  ],
+  [
+    "Osage County",
+    "OK"
+  ],
+  [
+    "Windham County",
+    "VT"
+  ],
+  [
+    "Colquitt County",
+    "GA"
+  ],
+  [
+    "Charlottesville City",
+    "VA"
+  ],
+  [
+    "Ravalli County",
+    "MT"
+  ],
+  [
+    "Thomas County",
+    "GA"
+  ],
+  [
+    "Hillsdale County",
+    "MI"
+  ],
+  [
+    "Chilton County",
+    "AL"
+  ],
+  [
+    "Dunn County",
+    "WI"
+  ],
+  [
+    "Polk County",
+    "WI"
+  ],
+  [
+    "Washington Parish",
+    "LA"
+  ],
+  [
+    "Hopkins County",
+    "KY"
+  ],
+  [
+    "Itasca County",
+    "MN"
+  ],
+  [
+    "Shelby County",
+    "IN"
+  ],
+  [
+    "Lawrence County",
+    "IN"
+  ],
+  [
+    "Phelps County",
+    "MO"
+  ],
+  [
+    "Branch County",
+    "MI"
+  ],
+  [
+    "Lawrence County",
+    "TN"
+  ],
+  [
+    "Stokes County",
+    "NC"
+  ],
+  [
+    "Kittitas County",
+    "WA"
+  ],
+  [
+    "McDowell County",
+    "NC"
+  ],
+  [
+    "Barren County",
+    "KY"
+  ],
+  [
+    "Shenandoah County",
+    "VA"
+  ],
+  [
+    "Beaufort County",
+    "NC"
+  ],
+  [
+    "Macoupin County",
+    "IL"
+  ],
+  [
+    "Delaware County",
+    "NY"
+  ],
+  [
+    "Callaway County",
+    "MO"
+  ],
+  [
+    "Henderson County",
+    "KY"
+  ],
+  [
+    "Suwannee County",
+    "FL"
+  ],
+  [
+    "Holmes County",
+    "OH"
+  ],
+  [
+    "Levy County",
+    "FL"
+  ],
+  [
+    "Douglas County",
+    "WI"
+  ],
+  [
+    "St. Bernard Parish",
+    "LA"
+  ],
+  [
+    "Madison County",
+    "OH"
+  ],
+  [
+    "Jefferson County",
+    "PA"
+  ],
+  [
+    "Stephenson County",
+    "IL"
+  ],
+  [
+    "Huntingdon County",
+    "PA"
+  ],
+  [
+    "Siskiyou County",
+    "CA"
+  ],
+  [
+    "McClain County",
+    "OK"
+  ],
+  [
+    "Kandiyohi County",
+    "MN"
+  ],
+  [
+    "Douglas County",
+    "WA"
+  ],
+  [
+    "Kay County",
+    "OK"
+  ],
+  [
+    "Brown County",
+    "OH"
+  ],
+  [
+    "Washington County",
+    "MS"
+  ],
+  [
+    "Baldwin County",
+    "GA"
+  ],
+  [
+    "Gadsden County",
+    "FL"
+  ],
+  [
+    "Pittsburg County",
+    "OK"
+  ],
+  [
+    "Warren County",
+    "MS"
+  ],
+  [
+    "DeKalb County",
+    "IN"
+  ],
+  [
+    "Chesterfield County",
+    "SC"
+  ],
+  [
+    "Dubois County",
+    "IN"
+  ],
+  [
+    "Sullivan County",
+    "NH"
+  ],
+  [
+    "Davie County",
+    "NC"
+  ],
+  [
+    "Franklin County",
+    "TN"
+  ],
+  [
+    "Camden County",
+    "MO"
+  ],
+  [
+    "Highland County",
+    "OH"
+  ],
+  [
+    "Polk County",
+    "GA"
+  ],
+  [
+    "Stephens County",
+    "OK"
+  ],
+  [
+    "Montrose County",
+    "CO"
+  ],
+  [
+    "Erath County",
+    "TX"
+  ],
+  [
+    "Pettis County",
+    "MO"
+  ],
+  [
+    "Coffee County",
+    "GA"
+  ],
+  [
+    "Jackson County",
+    "NC"
+  ],
+  [
+    "Prince George County",
+    "VA"
+  ],
+  [
+    "Richmond County",
+    "NC"
+  ],
+  [
+    "Okanogan County",
+    "WA"
+  ],
+  [
+    "Oconee County",
+    "GA"
+  ],
+  [
+    "Cerro Gordo County",
+    "IA"
+  ],
+  [
+    "Muscatine County",
+    "IA"
+  ],
+  [
+    "Summit County",
+    "UT"
+  ],
+  [
+    "Manassas City",
+    "VA"
+  ],
+  [
+    "Fayette County",
+    "TN"
+  ],
+  [
+    "Miller County",
+    "AR"
+  ],
+  [
+    "Union County",
+    "PA"
+  ],
+  [
+    "Nez Perce County",
+    "ID"
+  ],
+  [
+    "Cooke County",
+    "TX"
+  ],
+  [
+    "Mercer County",
+    "OH"
+  ],
+  [
+    "Fulton County",
+    "OH"
+  ],
+  [
+    "Vance County",
+    "NC"
+  ],
+  [
+    "Pierce County",
+    "WI"
+  ],
+  [
+    "Danville City",
+    "VA"
+  ],
+  [
+    "Butler County",
+    "MO"
+  ],
+  [
+    "Baxter County",
+    "AR"
+  ],
+  [
+    "Clinton County",
+    "OH"
+  ],
+  [
+    "Isanti County",
+    "MN"
+  ],
+  [
+    "Marinette County",
+    "WI"
+  ],
+  [
+    "Ohio County",
+    "WV"
+  ],
+  [
+    "Upshur County",
+    "TX"
+  ],
+  [
+    "Sweetwater County",
+    "WY"
+  ],
+  [
+    "Crawford County",
+    "OH"
+  ],
+  [
+    "Wharton County",
+    "TX"
+  ],
+  [
+    "Warren County",
+    "TN"
+  ],
+  [
+    "Cheatham County",
+    "TN"
+  ],
+  [
+    "Gratiot County",
+    "MI"
+  ],
+  [
+    "Benton County",
+    "MN"
+  ],
+  [
+    "Clatsop County",
+    "OR"
+  ],
+  [
+    "St. John the Baptist Parish",
+    "LA"
+  ],
+  [
+    "Tift County",
+    "GA"
+  ],
+  [
+    "Warren County",
+    "VA"
+  ],
+  [
+    "Tioga County",
+    "PA"
+  ],
+  [
+    "Tallapoosa County",
+    "AL"
+  ],
+  [
+    "Amador County",
+    "CA"
+  ],
+  [
+    "Delaware County",
+    "OK"
+  ],
+  [
+    "Shawano County",
+    "WI"
+  ],
+  [
+    "Knox County",
+    "ME"
+  ],
+  [
+    "Pasquotank County",
+    "NC"
+  ],
+  [
+    "Preble County",
+    "OH"
+  ],
+  [
+    "Hendry County",
+    "FL"
+  ],
+  [
+    "LaGrange County",
+    "IN"
+  ],
+  [
+    "Sanilac County",
+    "MI"
+  ],
+  [
+    "Mecosta County",
+    "MI"
+  ],
+  [
+    "Latah County",
+    "ID"
+  ],
+  [
+    "Murray County",
+    "GA"
+  ],
+  [
+    "Okeechobee County",
+    "FL"
+  ],
+  [
+    "Howell County",
+    "MO"
+  ],
+  [
+    "Rio Arriba County",
+    "NM"
+  ],
+  [
+    "Ottawa County",
+    "OH"
+  ],
+  [
+    "McKean County",
+    "PA"
+  ],
+  [
+    "Mower County",
+    "MN"
+  ],
+  [
+    "Waldo County",
+    "ME"
+  ],
+  [
+    "Fayette County",
+    "WV"
+  ],
+  [
+    "Wyoming County",
+    "NY"
+  ],
+  [
+    "Marshall County",
+    "IA"
+  ],
+  [
+    "Tazewell County",
+    "VA"
+  ],
+  [
+    "Pike County",
+    "MS"
+  ],
+  [
+    "Webster County",
+    "MO"
+  ],
+  [
+    "Harrison County",
+    "IN"
+  ],
+  [
+    "Mississippi County",
+    "AR"
+  ],
+  [
+    "Snyder County",
+    "PA"
+  ],
+  [
+    "Orleans County",
+    "NY"
+  ],
+  [
+    "Sequoyah County",
+    "OK"
+  ],
+  [
+    "Campbell County",
+    "TN"
+  ],
+  [
+    "Fremont County",
+    "WY"
+  ],
+  [
+    "Isle of Wight County",
+    "VA"
+  ],
+  [
+    "Mayes County",
+    "OK"
+  ],
+  [
+    "Williams County",
+    "ND"
+  ],
+  [
+    "Douglas County",
+    "MN"
+  ],
+  [
+    "Oconto County",
+    "WI"
+  ],
+  [
+    "Person County",
+    "NC"
+  ],
+  [
+    "Gloucester County",
+    "VA"
+  ],
+  [
+    "Avoyelles Parish",
+    "LA"
+  ],
+  [
+    "Louisa County",
+    "VA"
+  ],
+  [
+    "Crawford County",
+    "KS"
+  ],
+  [
+    "Jim Wells County",
+    "TX"
+  ],
+  [
+    "Graham County",
+    "AZ"
+  ],
+  [
+    "Champaign County",
+    "OH"
+  ],
+  [
+    "Colleton County",
+    "SC"
+  ],
+  [
+    "Des Moines County",
+    "IA"
+  ],
+  [
+    "Wayne County",
+    "WV"
+  ],
+  [
+    "Lawrence County",
+    "MO"
+  ],
+  [
+    "Union County",
+    "AR"
+  ],
+  [
+    "Susquehanna County",
+    "PA"
+  ],
+  [
+    "Woodford County",
+    "IL"
+  ],
+  [
+    "Brown County",
+    "TX"
+  ],
+  [
+    "Guernsey County",
+    "OH"
+  ],
+  [
+    "Defiance County",
+    "OH"
+  ],
+  [
+    "Warren County",
+    "PA"
+  ],
+  [
+    "Pontotoc County",
+    "OK"
+  ],
+  [
+    "Montgomery County",
+    "IN"
+  ],
+  [
+    "Newberry County",
+    "SC"
+  ],
+  [
+    "Independence County",
+    "AR"
+  ],
+  [
+    "Brown County",
+    "SD"
+  ],
+  [
+    "Oneida County",
+    "WI"
+  ],
+  [
+    "Finney County",
+    "KS"
+  ],
+  [
+    "Scott County",
+    "MO"
+  ],
+  [
+    "Boone County",
+    "AR"
+  ],
+  [
+    "Calloway County",
+    "KY"
+  ],
+  [
+    "Jasper County",
+    "IA"
+  ],
+  [
+    "Albany County",
+    "WY"
+  ],
+  [
+    "Talbot County",
+    "MD"
+  ],
+  [
+    "Clinton County",
+    "PA"
+  ],
+  [
+    "Cass County",
+    "IN"
+  ],
+  [
+    "Covington County",
+    "AL"
+  ],
+  [
+    "Franklin County",
+    "IL"
+  ],
+  [
+    "Dallas County",
+    "AL"
+  ],
+  [
+    "Dare County",
+    "NC"
+  ],
+  [
+    "Macon County",
+    "NC"
+  ],
+  [
+    "Addison County",
+    "VT"
+  ],
+  [
+    "Houghton County",
+    "MI"
+  ],
+  [
+    "Yadkin County",
+    "NC"
+  ],
+  [
+    "Steele County",
+    "MN"
+  ],
+  [
+    "Hopkins County",
+    "TX"
+  ],
+  [
+    "Bennington County",
+    "VT"
+  ],
+  [
+    "Clarion County",
+    "PA"
+  ],
+  [
+    "Marion County",
+    "IL"
+  ],
+  [
+    "Orange County",
+    "VA"
+  ],
+  [
+    "Dodge County",
+    "NE"
+  ],
+  [
+    "Sagadahoc County",
+    "ME"
+  ],
+  [
+    "Putnam County",
+    "IN"
+  ],
+  [
+    "Essex County",
+    "NY"
+  ],
+  [
+    "Natchitoches Parish",
+    "LA"
+  ],
+  [
+    "Green County",
+    "WI"
+  ],
+  [
+    "Clark County",
+    "KY"
+  ],
+  [
+    "Okmulgee County",
+    "OK"
+  ],
+  [
+    "Clinton County",
+    "IL"
+  ],
+  [
+    "Williams County",
+    "OH"
+  ],
+  [
+    "Webster County",
+    "IA"
+  ],
+  [
+    "Delta County",
+    "MI"
+  ],
+  [
+    "Jefferson County",
+    "IL"
+  ],
+  [
+    "McLeod County",
+    "MN"
+  ],
+  [
+    "Huntington County",
+    "IN"
+  ],
+  [
+    "Whitley County",
+    "KY"
+  ],
+  [
+    "Escambia County",
+    "AL"
+  ],
+  [
+    "Dyer County",
+    "TN"
+  ],
+  [
+    "Coshocton County",
+    "OH"
+  ],
+  [
+    "Hill County",
+    "TX"
+  ],
+  [
+    "Beauregard Parish",
+    "LA"
+  ],
+  [
+    "Graves County",
+    "KY"
+  ],
+  [
+    "Fannin County",
+    "TX"
+  ],
+  [
+    "Cocke County",
+    "TN"
+  ],
+  [
+    "Warren County",
+    "MO"
+  ],
+  [
+    "Uintah County",
+    "UT"
+  ],
+  [
+    "Carlton County",
+    "MN"
+  ],
+  [
+    "Chippewa County",
+    "MI"
+  ],
+  [
+    "Alexander County",
+    "NC"
+  ],
+  [
+    "Matagorda County",
+    "TX"
+  ],
+  [
+    "Laclede County",
+    "MO"
+  ],
+  [
+    "Webster Parish",
+    "LA"
+  ],
+  [
+    "Washington County",
+    "TX"
+  ],
+  [
+    "Knox County",
+    "IN"
+  ],
+  [
+    "Adams County",
+    "IN"
+  ],
+  [
+    "Sioux County",
+    "IA"
+  ],
+  [
+    "Ware County",
+    "GA"
+  ],
+  [
+    "Scotts Bluff County",
+    "NE"
+  ],
+  [
+    "Geary County",
+    "KS"
+  ],
+  [
+    "Lincoln County",
+    "ME"
+  ],
+  [
+    "Wasatch County",
+    "UT"
+  ],
+  [
+    "Miami County",
+    "IN"
+  ],
+  [
+    "Wise County",
+    "VA"
+  ],
+  [
+    "Livingston County",
+    "IL"
+  ],
+  [
+    "Greenup County",
+    "KY"
+  ],
+  [
+    "Lincoln County",
+    "TN"
+  ],
+  [
+    "Silver Bow County",
+    "MT"
+  ],
+  [
+    "Madison County",
+    "NE"
+  ],
+  [
+    "Harris County",
+    "GA"
+  ],
+  [
+    "Perry County",
+    "OH"
+  ],
+  [
+    "Floyd County",
+    "KY"
+  ],
+  [
+    "Marshall County",
+    "TN"
+  ],
+  [
+    "Greene County",
+    "PA"
+  ],
+  [
+    "Wapello County",
+    "IA"
+  ],
+  [
+    "Becker County",
+    "MN"
+  ],
+  [
+    "Morrow County",
+    "OH"
+  ],
+  [
+    "Monroe County",
+    "IL"
+  ],
+  [
+    "Brookings County",
+    "SD"
+  ],
+  [
+    "Barry County",
+    "MO"
+  ],
+  [
+    "Lincoln County",
+    "MS"
+  ],
+  [
+    "Clark County",
+    "WI"
+  ],
+  [
+    "DeSoto County",
+    "FL"
+  ],
+  [
+    "Steuben County",
+    "IN"
+  ],
+  [
+    "Miami County",
+    "KS"
+  ],
+  [
+    "Wakulla County",
+    "FL"
+  ],
+  [
+    "Taos County",
+    "NM"
+  ],
+  [
+    "Effingham County",
+    "IL"
+  ],
+  [
+    "Alcorn County",
+    "MS"
+  ],
+  [
+    "Cowley County",
+    "KS"
+  ],
+  [
+    "Chambers County",
+    "AL"
+  ],
+  [
+    "Whitley County",
+    "IN"
+  ],
+  [
+    "Platte County",
+    "NE"
+  ],
+  [
+    "Scotland County",
+    "NC"
+  ],
+  [
+    "Putnam County",
+    "OH"
+  ],
+  [
+    "Nicollet County",
+    "MN"
+  ],
+  [
+    "Preston County",
+    "WV"
+  ],
+  [
+    "Pickens County",
+    "GA"
+  ],
+  [
+    "Emmet County",
+    "MI"
+  ],
+  [
+    "Ford County",
+    "KS"
+  ],
+  [
+    "Morrison County",
+    "MN"
+  ],
+  [
+    "Lincoln County",
+    "NE"
+  ],
+  [
+    "Lee County",
+    "IL"
+  ],
+  [
+    "Lumpkin County",
+    "GA"
+  ],
+  [
+    "Monroe County",
+    "MS"
+  ],
+  [
+    "Lincoln County",
+    "OK"
+  ],
+  [
+    "Marshall County",
+    "MS"
+  ],
+  [
+    "Botetourt County",
+    "VA"
+  ],
+  [
+    "Wexford County",
+    "MI"
+  ],
+  [
+    "Harvey County",
+    "KS"
+  ],
+  [
+    "Halifax County",
+    "VA"
+  ],
+  [
+    "Pulaski County",
+    "VA"
+  ],
+  [
+    "Christian County",
+    "IL"
+  ],
+  [
+    "Marion County",
+    "IA"
+  ],
+  [
+    "Morton County",
+    "ND"
+  ],
+  [
+    "Daviess County",
+    "IN"
+  ],
+  [
+    "Caroline County",
+    "MD"
+  ],
+  [
+    "Petersburg City",
+    "VA"
+  ],
+  [
+    "Lee County",
+    "GA"
+  ],
+  [
+    "Accomack County",
+    "VA"
+  ],
+  [
+    "Jefferson County",
+    "WA"
+  ],
+  [
+    "Rhea County",
+    "TN"
+  ],
+  [
+    "Fulton County",
+    "IL"
+  ],
+  [
+    "Transylvania County",
+    "NC"
+  ],
+  [
+    "Jasper County",
+    "IN"
+  ],
+  [
+    "Lawrence County",
+    "AL"
+  ],
+  [
+    "Lee County",
+    "IA"
+  ],
+  [
+    "Hot Spring County",
+    "AR"
+  ],
+  [
+    "Howard County",
+    "TX"
+  ],
+  [
+    "Seneca County",
+    "NY"
+  ],
+  [
+    "Stark County",
+    "ND"
+  ],
+  [
+    "Jefferson County",
+    "IN"
+  ],
+  [
+    "Bureau County",
+    "IL"
+  ],
+  [
+    "Gibson County",
+    "IN"
+  ],
+  [
+    "Lafayette County",
+    "MO"
+  ],
+  [
+    "Clinton County",
+    "IN"
+  ],
+  [
+    "Panola County",
+    "MS"
+  ],
+  [
+    "Weakley County",
+    "TN"
+  ],
+  [
+    "Pike County",
+    "AL"
+  ],
+  [
+    "Jasper County",
+    "TX"
+  ],
+  [
+    "Greenbrier County",
+    "WV"
+  ],
+  [
+    "Morgan County",
+    "IL"
+  ],
+  [
+    "Dorchester County",
+    "MD"
+  ],
+  [
+    "Jackson County",
+    "OH"
+  ],
+  [
+    "Henry County",
+    "TN"
+  ],
+  [
+    "Hale County",
+    "TX"
+  ],
+  [
+    "Jefferson County",
+    "ID"
+  ],
+  [
+    "Claiborne County",
+    "TN"
+  ],
+  [
+    "Chester County",
+    "SC"
+  ],
+  [
+    "Evangeline Parish",
+    "LA"
+  ],
+  [
+    "Lyon County",
+    "KS"
+  ],
+  [
+    "Polk County",
+    "MO"
+  ],
+  [
+    "Jefferson Davis Parish",
+    "LA"
+  ],
+  [
+    "Lake County",
+    "MT"
+  ],
+  [
+    "Franklin County",
+    "AL"
+  ],
+  [
+    "Gilmer County",
+    "GA"
+  ],
+  [
+    "Juneau City and Borough",
+    "AK"
+  ],
+  [
+    "Logan County",
+    "WV"
+  ],
+  [
+    "Marshall County",
+    "KY"
+  ],
+  [
+    "Malheur County",
+    "OR"
+  ],
+  [
+    "Stone County",
+    "MO"
+  ],
+  [
+    "Sheridan County",
+    "WY"
+  ],
+  [
+    "Caroline County",
+    "VA"
+  ],
+  [
+    "Coos County",
+    "NH"
+  ],
+  [
+    "Amherst County",
+    "VA"
+  ],
+  [
+    "Delta County",
+    "CO"
+  ],
+  [
+    "Pontotoc County",
+    "MS"
+  ],
+  [
+    "Titus County",
+    "TX"
+  ],
+  [
+    "Washington County",
+    "ME"
+  ],
+  [
+    "Huron County",
+    "MI"
+  ],
+  [
+    "Lassen County",
+    "CA"
+  ],
+  [
+    "Montgomery County",
+    "KS"
+  ],
+  [
+    "Clare County",
+    "MI"
+  ],
+  [
+    "Powhatan County",
+    "VA"
+  ],
+  [
+    "Clarendon County",
+    "SC"
+  ],
+  [
+    "Adams County",
+    "NE"
+  ],
+  [
+    "Bee County",
+    "TX"
+  ],
+  [
+    "Greene County",
+    "IN"
+  ],
+  [
+    "Vernon County",
+    "WI"
+  ],
+  [
+    "Madison County",
+    "GA"
+  ],
+  [
+    "Polk County",
+    "MN"
+  ],
+  [
+    "Wabash County",
+    "IN"
+  ],
+  [
+    "Summit County",
+    "CO"
+  ],
+  [
+    "McCurtain County",
+    "OK"
+  ],
+  [
+    "Trempealeau County",
+    "WI"
+  ],
+  [
+    "Freeborn County",
+    "MN"
+  ],
+  [
+    "Haralson County",
+    "GA"
+  ],
+  [
+    "Austin County",
+    "TX"
+  ],
+  [
+    "Muhlenberg County",
+    "KY"
+  ],
+  [
+    "Boyle County",
+    "KY"
+  ],
+  [
+    "Elk County",
+    "PA"
+  ],
+  [
+    "Cass County",
+    "MN"
+  ],
+  [
+    "Jasper County",
+    "SC"
+  ],
+  [
+    "Kleberg County",
+    "TX"
+  ],
+  [
+    "Obion County",
+    "TN"
+  ],
+  [
+    "Hardin County",
+    "OH"
+  ],
+  [
+    "Wayne County",
+    "GA"
+  ],
+  [
+    "Williamsburg County",
+    "SC"
+  ],
+  [
+    "Giles County",
+    "TN"
+  ],
+  [
+    "Mecklenburg County",
+    "VA"
+  ],
+  [
+    "Caledonia County",
+    "VT"
+  ],
+  [
+    "Grimes County",
+    "TX"
+  ],
+  [
+    "Ottawa County",
+    "OK"
+  ],
+  [
+    "Meade County",
+    "SD"
+  ],
+  [
+    "Door County",
+    "WI"
+  ],
+  [
+    "Bolivar County",
+    "MS"
+  ],
+  [
+    "Franklin County",
+    "ME"
+  ],
+  [
+    "Randolph County",
+    "IL"
+  ],
+  [
+    "McPherson County",
+    "KS"
+  ],
+  [
+    "Marshall County",
+    "WV"
+  ],
+  [
+    "Park County",
+    "WY"
+  ],
+  [
+    "Knox County",
+    "KY"
+  ],
+  [
+    "Meade County",
+    "KY"
+  ],
+  [
+    "Schoharie County",
+    "NY"
+  ],
+  [
+    "Iberville Parish",
+    "LA"
+  ],
+  [
+    "Currituck County",
+    "NC"
+  ],
+  [
+    "Orange County",
+    "VT"
+  ],
+  [
+    "Bladen County",
+    "NC"
+  ],
+  [
+    "Smyth County",
+    "VA"
+  ],
+  [
+    "Pine County",
+    "MN"
+  ],
+  [
+    "Sanpete County",
+    "UT"
+  ],
+  [
+    "Cherokee County",
+    "NC"
+  ],
+  [
+    "Marion County",
+    "AL"
+  ],
+  [
+    "Morgan County",
+    "CO"
+  ],
+  [
+    "Mason County",
+    "MI"
+  ],
+  [
+    "Sumter County",
+    "GA"
+  ],
+  [
+    "Gallia County",
+    "OH"
+  ],
+  [
+    "Carroll County",
+    "VA"
+  ],
+  [
+    "Decatur County",
+    "GA"
+  ],
+  [
+    "Adams County",
+    "MS"
+  ],
+  [
+    "Elmore County",
+    "ID"
+  ],
+  [
+    "Ripley County",
+    "IN"
+  ],
+  [
+    "Marion County",
+    "TN"
+  ],
+  [
+    "Le Sueur County",
+    "MN"
+  ],
+  [
+    "Neshoba County",
+    "MS"
+  ],
+  [
+    "Palo Pinto County",
+    "TX"
+  ],
+  [
+    "Monroe County",
+    "GA"
+  ],
+  [
+    "Alpena County",
+    "MI"
+  ],
+  [
+    "Marion County",
+    "SC"
+  ],
+  [
+    "Fayette County",
+    "OH"
+  ],
+  [
+    "Ellis County",
+    "KS"
+  ],
+  [
+    "Van Wert County",
+    "OH"
+  ],
+  [
+    "Garrett County",
+    "MD"
+  ],
+  [
+    "Dawson County",
+    "GA"
+  ],
+  [
+    "Hancock County",
+    "WV"
+  ],
+  [
+    "Glenn County",
+    "CA"
+  ],
+  [
+    "Cass County",
+    "TX"
+  ],
+  [
+    "Codington County",
+    "SD"
+  ],
+  [
+    "Stoddard County",
+    "MO"
+  ],
+  [
+    "Carroll County",
+    "AR"
+  ],
+  [
+    "Jones County",
+    "GA"
+  ],
+  [
+    "Marion County",
+    "MO"
+  ],
+  [
+    "Carroll County",
+    "TN"
+  ],
+  [
+    "White County",
+    "GA"
+  ],
+  [
+    "Lincoln County",
+    "WI"
+  ],
+  [
+    "Fredericksburg City",
+    "VA"
+  ],
+  [
+    "Custer County",
+    "OK"
+  ],
+  [
+    "Montgomery County",
+    "KY"
+  ],
+  [
+    "Peach County",
+    "GA"
+  ],
+  [
+    "Wells County",
+    "IN"
+  ],
+  [
+    "Wythe County",
+    "VA"
+  ],
+  [
+    "Baker County",
+    "FL"
+  ],
+  [
+    "Washington County",
+    "IN"
+  ],
+  [
+    "Tate County",
+    "MS"
+  ],
+  [
+    "Dinwiddie County",
+    "VA"
+  ],
+  [
+    "Montgomery County",
+    "IL"
+  ],
+  [
+    "Dillon County",
+    "SC"
+  ],
+  [
+    "Union County",
+    "MS"
+  ],
+  [
+    "Copiah County",
+    "MS"
+  ],
+  [
+    "San Jacinto County",
+    "TX"
+  ],
+  [
+    "Winchester City",
+    "VA"
+  ],
+  [
+    "Hocking County",
+    "OH"
+  ],
+  [
+    "Henderson County",
+    "TN"
+  ],
+  [
+    "Bradford County",
+    "FL"
+  ],
+  [
+    "Logan County",
+    "IL"
+  ],
+  [
+    "Grant County",
+    "NM"
+  ],
+  [
+    "Upson County",
+    "GA"
+  ],
+  [
+    "Perry County",
+    "KY"
+  ],
+  [
+    "Dunklin County",
+    "MO"
+  ],
+  [
+    "Randolph County",
+    "WV"
+  ],
+  [
+    "White County",
+    "TN"
+  ],
+  [
+    "Fluvanna County",
+    "VA"
+  ],
+  [
+    "Scott County",
+    "MS"
+  ],
+  [
+    "Jackson County",
+    "WV"
+  ],
+  [
+    "Logan County",
+    "KY"
+  ],
+  [
+    "West Baton Rouge Parish",
+    "LA"
+  ],
+  [
+    "Jennings County",
+    "IN"
+  ],
+  [
+    "Henry County",
+    "OH"
+  ],
+  [
+    "Adams County",
+    "OH"
+  ],
+  [
+    "Orleans County",
+    "VT"
+  ],
+  [
+    "Tillamook County",
+    "OR"
+  ],
+  [
+    "King George County",
+    "VA"
+  ],
+  [
+    "Leflore County",
+    "MS"
+  ],
+  [
+    "Del Norte County",
+    "CA"
+  ],
+  [
+    "Gillespie County",
+    "TX"
+  ],
+  [
+    "Elbert County",
+    "CO"
+  ],
+  [
+    "McDonough County",
+    "IL"
+  ],
+  [
+    "Pike County",
+    "OH"
+  ],
+  [
+    "Cibola County",
+    "NM"
+  ],
+  [
+    "San Miguel County",
+    "NM"
+  ],
+  [
+    "Woodford County",
+    "KY"
+  ],
+  [
+    "Union County",
+    "SC"
+  ],
+  [
+    "Cass County",
+    "NE"
+  ],
+  [
+    "Toombs County",
+    "GA"
+  ],
+  [
+    "Hardin County",
+    "TN"
+  ],
+  [
+    "Mineral County",
+    "WV"
+  ],
+  [
+    "Mille Lacs County",
+    "MN"
+  ],
+  [
+    "De Soto Parish",
+    "LA"
+  ],
+  [
+    "Stephens County",
+    "GA"
+  ],
+  [
+    "Yazoo County",
+    "MS"
+  ],
+  [
+    "Ashe County",
+    "NC"
+  ],
+  [
+    "Oceana County",
+    "MI"
+  ],
+  [
+    "Iroquois County",
+    "IL"
+  ],
+  [
+    "Carroll County",
+    "OH"
+  ],
+  [
+    "Geneva County",
+    "AL"
+  ],
+  [
+    "Juneau County",
+    "WI"
+  ],
+  [
+    "Boone County",
+    "IA"
+  ],
+  [
+    "Caddo County",
+    "OK"
+  ],
+  [
+    "Lewis County",
+    "NY"
+  ],
+  [
+    "Wasco County",
+    "OR"
+  ],
+  [
+    "Grayson County",
+    "KY"
+  ],
+  [
+    "Lawrence County",
+    "SD"
+  ],
+  [
+    "Carter County",
+    "KY"
+  ],
+  [
+    "Edgefield County",
+    "SC"
+  ],
+  [
+    "Hart County",
+    "GA"
+  ],
+  [
+    "Clay County",
+    "IN"
+  ],
+  [
+    "Decatur County",
+    "IN"
+  ],
+  [
+    "Marlboro County",
+    "SC"
+  ],
+  [
+    "Taylor County",
+    "KY"
+  ],
+  [
+    "Montezuma County",
+    "CO"
+  ],
+  [
+    "Union County",
+    "OR"
+  ],
+  [
+    "Payette County",
+    "ID"
+  ],
+  [
+    "Harlan County",
+    "KY"
+  ],
+  [
+    "Charlevoix County",
+    "MI"
+  ],
+  [
+    "Wyoming County",
+    "PA"
+  ],
+  [
+    "Butts County",
+    "GA"
+  ],
+  [
+    "Grady County",
+    "GA"
+  ],
+  [
+    "Lamoille County",
+    "VT"
+  ],
+  [
+    "Franklin County",
+    "KS"
+  ],
+  [
+    "Dickinson County",
+    "MI"
+  ],
+  [
+    "McNairy County",
+    "TN"
+  ],
+  [
+    "Johnson County",
+    "AR"
+  ],
+  [
+    "Montgomery County",
+    "NC"
+  ],
+  [
+    "Brown County",
+    "MN"
+  ],
+  [
+    "Simpson County",
+    "MS"
+  ],
+  [
+    "Pottawatomie County",
+    "KS"
+  ],
+  [
+    "Macon County",
+    "TN"
+  ],
+  [
+    "Garvin County",
+    "OK"
+  ],
+  [
+    "Cheboygan County",
+    "MI"
+  ],
+  [
+    "Staunton City",
+    "VA"
+  ],
+  [
+    "Plymouth County",
+    "IA"
+  ],
+  [
+    "Benton County",
+    "IA"
+  ],
+  [
+    "Crook County",
+    "OR"
+  ],
+  [
+    "Russell County",
+    "VA"
+  ],
+  [
+    "Churchill County",
+    "NV"
+  ],
+  [
+    "Goochland County",
+    "VA"
+  ],
+  [
+    "Fannin County",
+    "GA"
+  ],
+  [
+    "Union County",
+    "GA"
+  ],
+  [
+    "Gladwin County",
+    "MI"
+  ],
+  [
+    "Hardee County",
+    "FL"
+  ],
+  [
+    "Lyon County",
+    "MN"
+  ],
+  [
+    "Hardeman County",
+    "TN"
+  ],
+  [
+    "Salem City",
+    "VA"
+  ],
+  [
+    "Luna County",
+    "NM"
+  ],
+  [
+    "Todd County",
+    "MN"
+  ],
+  [
+    "Otsego County",
+    "MI"
+  ],
+  [
+    "Iosco County",
+    "MI"
+  ],
+  [
+    "Sunflower County",
+    "MS"
+  ],
+  [
+    "Barton County",
+    "KS"
+  ],
+  [
+    "Milam County",
+    "TX"
+  ],
+  [
+    "Washington County",
+    "FL"
+  ],
+  [
+    "Manistee County",
+    "MI"
+  ],
+  [
+    "Grant County",
+    "KY"
+  ],
+  [
+    "Hickman County",
+    "TN"
+  ],
+  [
+    "Cherokee County",
+    "AL"
+  ],
+  [
+    "Adair County",
+    "MO"
+  ],
+  [
+    "Mason County",
+    "WV"
+  ],
+  [
+    "Cassia County",
+    "ID"
+  ],
+  [
+    "Posey County",
+    "IN"
+  ],
+  [
+    "Bremer County",
+    "IA"
+  ],
+  [
+    "Miller County",
+    "MO"
+  ],
+  [
+    "Cleburne County",
+    "AR"
+  ],
+  [
+    "Prentiss County",
+    "MS"
+  ],
+  [
+    "Routt County",
+    "CO"
+  ],
+  [
+    "Chattooga County",
+    "GA"
+  ],
+  [
+    "Jefferson County",
+    "OR"
+  ],
+  [
+    "Morehouse Parish",
+    "LA"
+  ],
+  [
+    "Texas County",
+    "MO"
+  ],
+  [
+    "Lauderdale County",
+    "TN"
+  ],
+  [
+    "George County",
+    "MS"
+  ],
+  [
+    "Uvalde County",
+    "TX"
+  ],
+  [
+    "Jerome County",
+    "ID"
+  ],
+  [
+    "Fayette County",
+    "TX"
+  ],
+  [
+    "Teller County",
+    "CO"
+  ],
+  [
+    "Barbour County",
+    "AL"
+  ],
+  [
+    "Waushara County",
+    "WI"
+  ],
+  [
+    "Jackson County",
+    "OK"
+  ],
+  [
+    "White County",
+    "IN"
+  ],
+  [
+    "Audrain County",
+    "MO"
+  ],
+  [
+    "Somerset County",
+    "MD"
+  ],
+  [
+    "Yates County",
+    "NY"
+  ],
+  [
+    "Blaine County",
+    "ID"
+  ],
+  [
+    "Rowan County",
+    "KY"
+  ],
+  [
+    "Randolph County",
+    "MO"
+  ],
+  [
+    "Fairfax City",
+    "VA"
+  ],
+  [
+    "Scott County",
+    "IN"
+  ],
+  [
+    "Aransas County",
+    "TX"
+  ],
+  [
+    "Nicholas County",
+    "WV"
+  ],
+  [
+    "Burke County",
+    "GA"
+  ],
+  [
+    "Randolph County",
+    "IN"
+  ],
+  [
+    "Lincoln County",
+    "KY"
+  ],
+  [
+    "Abbeville County",
+    "SC"
+  ],
+  [
+    "Marion County",
+    "MS"
+  ],
+  [
+    "Tattnall County",
+    "GA"
+  ],
+  [
+    "New Kent County",
+    "VA"
+  ],
+  [
+    "Shelby County",
+    "TX"
+  ],
+  [
+    "Anderson County",
+    "KY"
+  ],
+  [
+    "Dawson County",
+    "NE"
+  ],
+  [
+    "Hood River County",
+    "OR"
+  ],
+  [
+    "Itawamba County",
+    "MS"
+  ],
+  [
+    "Grainger County",
+    "TN"
+  ],
+  [
+    "Bell County",
+    "KY"
+  ],
+  [
+    "Antrim County",
+    "MI"
+  ],
+  [
+    "Franklin County",
+    "GA"
+  ],
+  [
+    "Iowa County",
+    "WI"
+  ],
+  [
+    "Upshur County",
+    "WV"
+  ],
+  [
+    "Pacific County",
+    "WA"
+  ],
+  [
+    "Page County",
+    "VA"
+  ],
+  [
+    "Ohio County",
+    "KY"
+  ],
+  [
+    "Roscommon County",
+    "MI"
+  ],
+  [
+    "Winston County",
+    "AL"
+  ],
+  [
+    "Seminole County",
+    "OK"
+  ],
+  [
+    "McDonald County",
+    "MO"
+  ],
+  [
+    "Washington County",
+    "MO"
+  ],
+  [
+    "Curry County",
+    "OR"
+  ],
+  [
+    "Meeker County",
+    "MN"
+  ],
+  [
+    "Juniata County",
+    "PA"
+  ],
+  [
+    "Vilas County",
+    "WI"
+  ],
+  [
+    "Fayette County",
+    "IN"
+  ],
+  [
+    "Saline County",
+    "IL"
+  ],
+  [
+    "Yankton County",
+    "SD"
+  ],
+  [
+    "Teton County",
+    "WY"
+  ],
+  [
+    "Hampshire County",
+    "WV"
+  ],
+  [
+    "Starke County",
+    "IN"
+  ],
+  [
+    "Menominee County",
+    "MI"
+  ],
+  [
+    "Saline County",
+    "MO"
+  ],
+  [
+    "Ray County",
+    "MO"
+  ],
+  [
+    "Osceola County",
+    "MI"
+  ],
+  [
+    "Klickitat County",
+    "WA"
+  ],
+  [
+    "Plaquemines Parish",
+    "LA"
+  ],
+  [
+    "Mingo County",
+    "WV"
+  ],
+  [
+    "Emanuel County",
+    "GA"
+  ],
+  [
+    "Hopewell City",
+    "VA"
+  ],
+  [
+    "Franklin County",
+    "IN"
+  ],
+  [
+    "Crawford County",
+    "MO"
+  ],
+  [
+    "Mercer County",
+    "KY"
+  ],
+  [
+    "Overton County",
+    "TN"
+  ],
+  [
+    "Clarke County",
+    "AL"
+  ],
+  [
+    "Saunders County",
+    "NE"
+  ],
+  [
+    "St. Francis County",
+    "AR"
+  ],
+  [
+    "Poinsett County",
+    "AR"
+  ],
+  [
+    "Caswell County",
+    "NC"
+  ],
+  [
+    "Panola County",
+    "TX"
+  ],
+  [
+    "Leelanau County",
+    "MI"
+  ],
+  [
+    "Rockbridge County",
+    "VA"
+  ],
+  [
+    "Waynesboro City",
+    "VA"
+  ],
+  [
+    "Allen Parish",
+    "LA"
+  ],
+  [
+    "Washington County",
+    "IA"
+  ],
+  [
+    "Columbia County",
+    "AR"
+  ],
+  [
+    "Putnam County",
+    "GA"
+  ],
+  [
+    "Johnson County",
+    "KY"
+  ],
+  [
+    "Asotin County",
+    "WA"
+  ],
+  [
+    "Sumner County",
+    "KS"
+  ],
+  [
+    "Ouachita County",
+    "AR"
+  ],
+  [
+    "Randolph County",
+    "AL"
+  ],
+  [
+    "Lampasas County",
+    "TX"
+  ],
+  [
+    "Beckham County",
+    "OK"
+  ],
+  [
+    "Henry County",
+    "MO"
+  ],
+  [
+    "Limestone County",
+    "TX"
+  ],
+  [
+    "Bibb County",
+    "AL"
+  ],
+  [
+    "Grant Parish",
+    "LA"
+  ],
+  [
+    "Sabine Parish",
+    "LA"
+  ],
+  [
+    "Meigs County",
+    "OH"
+  ],
+  [
+    "Nobles County",
+    "MN"
+  ],
+  [
+    "Brooke County",
+    "WV"
+  ],
+  [
+    "Mahaska County",
+    "IA"
+  ],
+  [
+    "Houston County",
+    "TX"
+  ],
+  [
+    "Lee County",
+    "VA"
+  ],
+  [
+    "Llano County",
+    "TX"
+  ],
+  [
+    "Scott County",
+    "TN"
+  ],
+  [
+    "Prince Edward County",
+    "VA"
+  ],
+  [
+    "Minidoka County",
+    "ID"
+  ],
+  [
+    "Jo Daviess County",
+    "IL"
+  ],
+  [
+    "Gaines County",
+    "TX"
+  ],
+  [
+    "Anson County",
+    "NC"
+  ],
+  [
+    "Colusa County",
+    "CA"
+  ],
+  [
+    "Sevier County",
+    "UT"
+  ],
+  [
+    "Martin County",
+    "NC"
+  ],
+  [
+    "Hubbard County",
+    "MN"
+  ],
+  [
+    "Wyandot County",
+    "OH"
+  ],
+  [
+    "McDuffie County",
+    "GA"
+  ],
+  [
+    "Gage County",
+    "NE"
+  ],
+  [
+    "Madison County",
+    "NC"
+  ],
+  [
+    "Seward County",
+    "KS"
+  ],
+  [
+    "Tippah County",
+    "MS"
+  ],
+  [
+    "Bandera County",
+    "TX"
+  ],
+  [
+    "Stutsman County",
+    "ND"
+  ],
+  [
+    "Wabasha County",
+    "MN"
+  ],
+  [
+    "Scott County",
+    "VA"
+  ],
+  [
+    "Hockley County",
+    "TX"
+  ],
+  [
+    "Mitchell County",
+    "GA"
+  ],
+  [
+    "Owen County",
+    "IN"
+  ],
+  [
+    "Morgan County",
+    "MO"
+  ],
+  [
+    "Taylor County",
+    "FL"
+  ],
+  [
+    "Fayette County",
+    "IL"
+  ],
+  [
+    "Clark County",
+    "AR"
+  ],
+  [
+    "Fillmore County",
+    "MN"
+  ],
+  [
+    "Grenada County",
+    "MS"
+  ],
+  [
+    "Jersey County",
+    "IL"
+  ],
+  [
+    "Dakota County",
+    "NE"
+  ],
+  [
+    "Boone County",
+    "WV"
+  ],
+  [
+    "Leake County",
+    "MS"
+  ],
+  [
+    "Clinton County",
+    "MO"
+  ],
+  [
+    "Logan County",
+    "AR"
+  ],
+  [
+    "Moore County",
+    "TX"
+  ],
+  [
+    "Morgan County",
+    "TN"
+  ],
+  [
+    "Newton County",
+    "MS"
+  ],
+  [
+    "Letcher County",
+    "KY"
+  ],
+  [
+    "Gray County",
+    "TX"
+  ],
+  [
+    "Logan County",
+    "CO"
+  ],
+  [
+    "Allen County",
+    "KY"
+  ],
+  [
+    "Washington County",
+    "NE"
+  ],
+  [
+    "Jackson County",
+    "WI"
+  ],
+  [
+    "Dodge County",
+    "MN"
+  ],
+  [
+    "Nodaway County",
+    "MO"
+  ],
+  [
+    "Wyoming County",
+    "WV"
+  ],
+  [
+    "Adams County",
+    "WI"
+  ],
+  [
+    "Union Parish",
+    "LA"
+  ],
+  [
+    "Texas County",
+    "OK"
+  ],
+  [
+    "Conway County",
+    "AR"
+  ],
+  [
+    "Shelby County",
+    "IL"
+  ],
+  [
+    "Ogemaw County",
+    "MI"
+  ],
+  [
+    "Greene County",
+    "VA"
+  ],
+  [
+    "Perry County",
+    "IL"
+  ],
+  [
+    "Coahoma County",
+    "MS"
+  ],
+  [
+    "Jones County",
+    "IA"
+  ],
+  [
+    "Sullivan County",
+    "IN"
+  ],
+  [
+    "Meriwether County",
+    "GA"
+  ],
+  [
+    "Dukes County",
+    "MA"
+  ],
+  [
+    "Fairfield County",
+    "SC"
+  ],
+  [
+    "Colorado County",
+    "TX"
+  ],
+  [
+    "Breckinridge County",
+    "KY"
+  ],
+  [
+    "Assumption Parish",
+    "LA"
+  ],
+  [
+    "Adams County",
+    "WA"
+  ],
+  [
+    "Buena Vista County",
+    "IA"
+  ],
+  [
+    "Carroll County",
+    "IA"
+  ],
+  [
+    "Lincoln County",
+    "MT"
+  ],
+  [
+    "Buchanan County",
+    "IA"
+  ],
+  [
+    "Kewaunee County",
+    "WI"
+  ],
+  [
+    "Morgan County",
+    "GA"
+  ],
+  [
+    "Uinta County",
+    "WY"
+  ],
+  [
+    "Montague County",
+    "TX"
+  ],
+  [
+    "Worth County",
+    "GA"
+  ],
+  [
+    "Barnwell County",
+    "SC"
+  ],
+  [
+    "DeKalb County",
+    "TN"
+  ],
+  [
+    "Hertford County",
+    "NC"
+  ],
+  [
+    "Lavaca County",
+    "TX"
+  ],
+  [
+    "Carbon County",
+    "UT"
+  ],
+  [
+    "Carroll County",
+    "IN"
+  ],
+  [
+    "Pointe Coupee Parish",
+    "LA"
+  ],
+  [
+    "Greene County",
+    "NC"
+  ],
+  [
+    "Hutchinson County",
+    "TX"
+  ],
+  [
+    "Fulton County",
+    "IN"
+  ],
+  [
+    "Jay County",
+    "IN"
+  ],
+  [
+    "Woodward County",
+    "OK"
+  ],
+  [
+    "Henry County",
+    "IA"
+  ],
+  [
+    "Lincoln County",
+    "NM"
+  ],
+  [
+    "Willacy County",
+    "TX"
+  ],
+  [
+    "Smith County",
+    "TN"
+  ],
+  [
+    "Yell County",
+    "AR"
+  ],
+  [
+    "Bourbon County",
+    "KY"
+  ],
+  [
+    "Lincoln County",
+    "WV"
+  ],
+  [
+    "Lincoln County",
+    "WY"
+  ],
+  [
+    "Union County",
+    "TN"
+  ],
+  [
+    "Clay County",
+    "KY"
+  ],
+  [
+    "Tyler County",
+    "TX"
+  ],
+  [
+    "Pierce County",
+    "GA"
+  ],
+  [
+    "Crisp County",
+    "GA"
+  ],
+  [
+    "Taylor County",
+    "WI"
+  ],
+  [
+    "Winneshiek County",
+    "IA"
+  ],
+  [
+    "Jones County",
+    "TX"
+  ],
+  [
+    "Labette County",
+    "KS"
+  ],
+  [
+    "Davison County",
+    "SD"
+  ],
+  [
+    "Duchesne County",
+    "UT"
+  ],
+  [
+    "Calhoun County",
+    "TX"
+  ],
+  [
+    "Dodge County",
+    "GA"
+  ],
+  [
+    "Richland Parish",
+    "LA"
+  ],
+  [
+    "Washington County",
+    "GA"
+  ],
+  [
+    "Benton County",
+    "MO"
+  ],
+  [
+    "Chaffee County",
+    "CO"
+  ],
+  [
+    "Spencer County",
+    "KY"
+  ],
+  [
+    "Spencer County",
+    "IN"
+  ],
+  [
+    "Martin County",
+    "MN"
+  ],
+  [
+    "Buchanan County",
+    "VA"
+  ],
+  [
+    "Gem County",
+    "ID"
+  ],
+  [
+    "DeWitt County",
+    "TX"
+  ],
+  [
+    "Freestone County",
+    "TX"
+  ],
+  [
+    "St. James Parish",
+    "LA"
+  ],
+  [
+    "Simpson County",
+    "KY"
+  ],
+  [
+    "Hempstead County",
+    "AR"
+  ],
+  [
+    "Gonzales County",
+    "TX"
+  ],
+  [
+    "Orange County",
+    "IN"
+  ],
+  [
+    "Elbert County",
+    "GA"
+  ],
+  [
+    "Vernon County",
+    "MO"
+  ],
+  [
+    "Wayne County",
+    "MS"
+  ],
+  [
+    "Polk County",
+    "NC"
+  ],
+  [
+    "Douglas County",
+    "IL"
+  ],
+  [
+    "Marion County",
+    "KY"
+  ],
+  [
+    "Holmes County",
+    "FL"
+  ],
+  [
+    "Plumas County",
+    "CA"
+  ],
+  [
+    "Adair County",
+    "OK"
+  ],
+  [
+    "Wayne County",
+    "KY"
+  ],
+  [
+    "Franklin Parish",
+    "LA"
+  ],
+  [
+    "Greene County",
+    "GA"
+  ],
+  [
+    "Monroe County",
+    "AL"
+  ],
+  [
+    "Pike County",
+    "GA"
+  ],
+  [
+    "Langlade County",
+    "WI"
+  ],
+  [
+    "Hart County",
+    "KY"
+  ],
+  [
+    "Jackson County",
+    "IA"
+  ],
+  [
+    "Fayette County",
+    "IA"
+  ],
+  [
+    "East Feliciana Parish",
+    "LA"
+  ],
+  [
+    "Los Alamos County",
+    "NM"
+  ],
+  [
+    "Polk County",
+    "AR"
+  ],
+  [
+    "Beadle County",
+    "SD"
+  ],
+  [
+    "Kent County",
+    "MD"
+  ],
+  [
+    "McIntosh County",
+    "OK"
+  ],
+  [
+    "Cherokee County",
+    "KS"
+  ],
+  [
+    "Perry County",
+    "IN"
+  ],
+  [
+    "Green Lake County",
+    "WI"
+  ],
+  [
+    "Lamar County",
+    "GA"
+  ],
+  [
+    "Humphreys County",
+    "TN"
+  ],
+  [
+    "Marengo County",
+    "AL"
+  ],
+  [
+    "Adair County",
+    "KY"
+  ],
+  [
+    "Roosevelt County",
+    "NM"
+  ],
+  [
+    "Harrison County",
+    "KY"
+  ],
+  [
+    "Waseca County",
+    "MN"
+  ],
+  [
+    "Saluda County",
+    "SC"
+  ],
+  [
+    "Macon County",
+    "AL"
+  ],
+  [
+    "Fentress County",
+    "TN"
+  ],
+  [
+    "Perry County",
+    "MO"
+  ],
+  [
+    "Pickens County",
+    "AL"
+  ],
+  [
+    "Butler County",
+    "AL"
+  ],
+  [
+    "Inyo County",
+    "CA"
+  ],
+  [
+    "Paulding County",
+    "OH"
+  ],
+  [
+    "Houston County",
+    "MN"
+  ],
+  [
+    "Banks County",
+    "GA"
+  ],
+  [
+    "Warren County",
+    "NC"
+  ],
+  [
+    "Tishomingo County",
+    "MS"
+  ],
+  [
+    "Randolph County",
+    "AR"
+  ],
+  [
+    "Ashley County",
+    "AR"
+  ],
+  [
+    "Wright County",
+    "MO"
+  ],
+  [
+    "Westmoreland County",
+    "VA"
+  ],
+  [
+    "Yancey County",
+    "NC"
+  ],
+  [
+    "Crawford County",
+    "IL"
+  ],
+  [
+    "Poweshiek County",
+    "IA"
+  ],
+  [
+    "Hampton County",
+    "SC"
+  ],
+  [
+    "Ste. Genevieve County",
+    "MO"
+  ],
+  [
+    "Bosque County",
+    "TX"
+  ],
+  [
+    "Andrews County",
+    "TX"
+  ],
+  [
+    "Stone County",
+    "MS"
+  ],
+  [
+    "Gilchrist County",
+    "FL"
+  ],
+  [
+    "Bethel Census Area",
+    "AK"
+  ],
+  [
+    "Deaf Smith County",
+    "TX"
+  ],
+  [
+    "Clay County",
+    "MS"
+  ],
+  [
+    "Otero County",
+    "CO"
+  ],
+  [
+    "Cedar County",
+    "IA"
+  ],
+  [
+    "Appling County",
+    "GA"
+  ],
+  [
+    "Dickinson County",
+    "KS"
+  ],
+  [
+    "McDowell County",
+    "WV"
+  ],
+  [
+    "Jefferson County",
+    "KS"
+  ],
+  [
+    "Burleson County",
+    "TX"
+  ],
+  [
+    "Concordia Parish",
+    "LA"
+  ],
+  [
+    "San Juan County",
+    "WA"
+  ],
+  [
+    "Berrien County",
+    "GA"
+  ],
+  [
+    "Sawyer County",
+    "WI"
+  ],
+  [
+    "King William County",
+    "VA"
+  ],
+  [
+    "Covington County",
+    "MS"
+  ],
+  [
+    "Colonial Heights City",
+    "VA"
+  ],
+  [
+    "Benzie County",
+    "MI"
+  ],
+  [
+    "Brantley County",
+    "GA"
+  ],
+  [
+    "Russell County",
+    "KY"
+  ],
+  [
+    "Kalkaska County",
+    "MI"
+  ],
+  [
+    "Madison County",
+    "FL"
+  ],
+  [
+    "Grant County",
+    "AR"
+  ],
+  [
+    "Andrew County",
+    "MO"
+  ],
+  [
+    "Montour County",
+    "PA"
+  ],
+  [
+    "Johnson County",
+    "TN"
+  ],
+  [
+    "Frio County",
+    "TX"
+  ],
+  [
+    "Southampton County",
+    "VA"
+  ],
+  [
+    "Young County",
+    "TX"
+  ],
+  [
+    "Eastland County",
+    "TX"
+  ],
+  [
+    "Dickinson County",
+    "IA"
+  ],
+  [
+    "Unicoi County",
+    "TN"
+  ],
+  [
+    "Lee County",
+    "TX"
+  ],
+  [
+    "Schuyler County",
+    "NY"
+  ],
+  [
+    "Park County",
+    "CO"
+  ],
+  [
+    "Hughes County",
+    "SD"
+  ],
+  [
+    "Polk County",
+    "TN"
+  ],
+  [
+    "Attala County",
+    "MS"
+  ],
+  [
+    "Haywood County",
+    "TN"
+  ],
+  [
+    "Avery County",
+    "NC"
+  ],
+  [
+    "Seward County",
+    "NE"
+  ],
+  [
+    "Pike County",
+    "MO"
+  ],
+  [
+    "Winston County",
+    "MS"
+  ],
+  [
+    "Patrick County",
+    "VA"
+  ],
+  [
+    "Sharp County",
+    "AR"
+  ],
+  [
+    "Delaware County",
+    "IA"
+  ],
+  [
+    "Long County",
+    "GA"
+  ],
+  [
+    "Park County",
+    "MT"
+  ],
+  [
+    "Bertie County",
+    "NC"
+  ],
+  [
+    "Chester County",
+    "TN"
+  ],
+  [
+    "Henry County",
+    "AL"
+  ],
+  [
+    "Hancock County",
+    "IL"
+  ],
+  [
+    "Cook County",
+    "GA"
+  ],
+  [
+    "Garrard County",
+    "KY"
+  ],
+  [
+    "Dallas County",
+    "MO"
+  ],
+  [
+    "Morgan County",
+    "WV"
+  ],
+  [
+    "Humboldt County",
+    "NV"
+  ],
+  [
+    "Richland County",
+    "WI"
+  ],
+  [
+    "Franklin County",
+    "AR"
+  ],
+  [
+    "Northampton County",
+    "NC"
+  ],
+  [
+    "Gunnison County",
+    "CO"
+  ],
+  [
+    "Drew County",
+    "AR"
+  ],
+  [
+    "Ben Hill County",
+    "GA"
+  ],
+  [
+    "Piscataquis County",
+    "ME"
+  ],
+  [
+    "Idaho County",
+    "ID"
+  ],
+  [
+    "Pitkin County",
+    "CO"
+  ],
+  [
+    "Rabun County",
+    "GA"
+  ],
+  [
+    "Marion County",
+    "AR"
+  ],
+  [
+    "Clayton County",
+    "IA"
+  ],
+  [
+    "Falls County",
+    "TX"
+  ],
+  [
+    "Mariposa County",
+    "CA"
+  ],
+  [
+    "Madison County",
+    "AR"
+  ],
+  [
+    "Bristol City",
+    "VA"
+  ],
+  [
+    "Mason County",
+    "KY"
+  ],
+  [
+    "Chickasaw County",
+    "MS"
+  ],
+  [
+    "Tama County",
+    "IA"
+  ],
+  [
+    "Robertson County",
+    "TX"
+  ],
+  [
+    "Union County",
+    "IL"
+  ],
+  [
+    "Dixie County",
+    "FL"
+  ],
+  [
+    "Manassas Park City",
+    "VA"
+  ],
+  [
+    "Union County",
+    "SD"
+  ],
+  [
+    "Buckingham County",
+    "VA"
+  ],
+  [
+    "McCreary County",
+    "KY"
+  ],
+  [
+    "Cooper County",
+    "MO"
+  ],
+  [
+    "Lewis County",
+    "WV"
+  ],
+  [
+    "Baker County",
+    "OR"
+  ],
+  [
+    "Lafayette County",
+    "WI"
+  ],
+  [
+    "Jackson County",
+    "AR"
+  ],
+  [
+    "Arkansas County",
+    "AR"
+  ],
+  [
+    "Madison County",
+    "IA"
+  ],
+  [
+    "Washburn County",
+    "WI"
+  ],
+  [
+    "Burnett County",
+    "WI"
+  ],
+  [
+    "Rush County",
+    "IN"
+  ],
+  [
+    "Hardin County",
+    "IA"
+  ],
+  [
+    "Piatt County",
+    "IL"
+  ],
+  [
+    "Cross County",
+    "AR"
+  ],
+  [
+    "Edgar County",
+    "IL"
+  ],
+  [
+    "Scurry County",
+    "TX"
+  ],
+  [
+    "Bond County",
+    "IL"
+  ],
+  [
+    "Giles County",
+    "VA"
+  ],
+  [
+    "La Paz County",
+    "AZ"
+  ],
+  [
+    "Warren County",
+    "IL"
+  ],
+  [
+    "Richland County",
+    "ND"
+  ],
+  [
+    "Iowa County",
+    "IA"
+  ],
+  [
+    "Fountain County",
+    "IN"
+  ],
+  [
+    "Taylor County",
+    "WV"
+  ],
+  [
+    "Alamosa County",
+    "CO"
+  ],
+  [
+    "Radford City",
+    "VA"
+  ],
+  [
+    "Holmes County",
+    "MS"
+  ],
+  [
+    "Clay County",
+    "IA"
+  ],
+  [
+    "Appomattox County",
+    "VA"
+  ],
+  [
+    "Bayfield County",
+    "WI"
+  ],
+  [
+    "Sequatchie County",
+    "TN"
+  ],
+  [
+    "Parke County",
+    "IN"
+  ],
+  [
+    "Lee County",
+    "SC"
+  ],
+  [
+    "Socorro County",
+    "NM"
+  ],
+  [
+    "Crawford County",
+    "IA"
+  ],
+  [
+    "Brooks County",
+    "GA"
+  ],
+  [
+    "Potter County",
+    "PA"
+  ],
+  [
+    "Lawrence County",
+    "AR"
+  ],
+  [
+    "Kanabec County",
+    "MN"
+  ],
+  [
+    "Hill County",
+    "MT"
+  ],
+  [
+    "Wayne County",
+    "TN"
+  ],
+  [
+    "Atchison County",
+    "KS"
+  ],
+  [
+    "Jasper County",
+    "MS"
+  ],
+  [
+    "Dade County",
+    "GA"
+  ],
+  [
+    "Fayette County",
+    "AL"
+  ],
+  [
+    "Lawrence County",
+    "KY"
+  ],
+  [
+    "Rockcastle County",
+    "KY"
+  ],
+  [
+    "Bates County",
+    "MO"
+  ],
+  [
+    "Otoe County",
+    "NE"
+  ],
+  [
+    "Leon County",
+    "TX"
+  ],
+  [
+    "Crawford County",
+    "WI"
+  ],
+  [
+    "Ashland County",
+    "WI"
+  ],
+  [
+    "New Madrid County",
+    "MO"
+  ],
+  [
+    "Wayne County",
+    "IL"
+  ],
+  [
+    "Casey County",
+    "KY"
+  ],
+  [
+    "Benton County",
+    "TN"
+  ],
+  [
+    "Van Buren County",
+    "AR"
+  ],
+  [
+    "Aitkin County",
+    "MN"
+  ],
+  [
+    "Phillips County",
+    "AR"
+  ],
+  [
+    "Trinity County",
+    "CA"
+  ],
+  [
+    "Brunswick County",
+    "VA"
+  ],
+  [
+    "Sevier County",
+    "AR"
+  ],
+  [
+    "Grand County",
+    "CO"
+  ],
+  [
+    "Osage County",
+    "KS"
+  ],
+  [
+    "Henry County",
+    "KY"
+  ],
+  [
+    "Gooding County",
+    "ID"
+  ],
+  [
+    "Neosho County",
+    "KS"
+  ],
+  [
+    "Marquette County",
+    "WI"
+  ],
+  [
+    "Pawnee County",
+    "OK"
+  ],
+  [
+    "Jefferson County",
+    "IA"
+  ],
+  [
+    "Richland County",
+    "IL"
+  ],
+  [
+    "Marshall County",
+    "OK"
+  ],
+  [
+    "Carroll County",
+    "IL"
+  ],
+  [
+    "Mercer County",
+    "IL"
+  ],
+  [
+    "Nottoway County",
+    "VA"
+  ],
+  [
+    "Williamsburg City",
+    "VA"
+  ],
+  [
+    "Floyd County",
+    "VA"
+  ],
+  [
+    "Union County",
+    "FL"
+  ],
+  [
+    "Brown County",
+    "IN"
+  ],
+  [
+    "Floyd County",
+    "IA"
+  ],
+  [
+    "Jefferson County",
+    "GA"
+  ],
+  [
+    "De Witt County",
+    "IL"
+  ],
+  [
+    "Barbour County",
+    "WV"
+  ],
+  [
+    "Vermillion County",
+    "IN"
+  ],
+  [
+    "Clarke County",
+    "MS"
+  ],
+  [
+    "Redwood County",
+    "MN"
+  ],
+  [
+    "West Feliciana Parish",
+    "LA"
+  ],
+  [
+    "Jasper County",
+    "GA"
+  ],
+  [
+    "Tipton County",
+    "IN"
+  ],
+  [
+    "Clark County",
+    "IL"
+  ],
+  [
+    "Grayson County",
+    "VA"
+  ],
+  [
+    "Moniteau County",
+    "MO"
+  ],
+  [
+    "Roseau County",
+    "MN"
+  ],
+  [
+    "Torrance County",
+    "NM"
+  ],
+  [
+    "Kingfisher County",
+    "OK"
+  ],
+  [
+    "Washington County",
+    "AL"
+  ],
+  [
+    "Cleburne County",
+    "AL"
+  ],
+  [
+    "Pemiscot County",
+    "MO"
+  ],
+  [
+    "Oglethorpe County",
+    "GA"
+  ],
+  [
+    "Fleming County",
+    "KY"
+  ],
+  [
+    "Page County",
+    "IA"
+  ],
+  [
+    "Macon County",
+    "MO"
+  ],
+  [
+    "Missaukee County",
+    "MI"
+  ],
+  [
+    "Lawrence County",
+    "IL"
+  ],
+  [
+    "Clay County",
+    "SD"
+  ],
+  [
+    "Jackson County",
+    "TX"
+  ],
+  [
+    "Clarke County",
+    "VA"
+  ],
+  [
+    "Arenac County",
+    "MI"
+  ],
+  [
+    "Larue County",
+    "KY"
+  ],
+  [
+    "Pecos County",
+    "TX"
+  ],
+  [
+    "Mitchell County",
+    "NC"
+  ],
+  [
+    "Alleghany County",
+    "VA"
+  ],
+  [
+    "Jackson Parish",
+    "LA"
+  ],
+  [
+    "Sibley County",
+    "MN"
+  ],
+  [
+    "Bledsoe County",
+    "TN"
+  ],
+  [
+    "Hamilton County",
+    "IA"
+  ],
+  [
+    "Jeff Davis County",
+    "GA"
+  ],
+  [
+    "Karnes County",
+    "TX"
+  ],
+  [
+    "LaSalle Parish",
+    "LA"
+  ],
+  [
+    "Nelson County",
+    "VA"
+  ],
+  [
+    "Gasconade County",
+    "MO"
+  ],
+  [
+    "Gulf County",
+    "FL"
+  ],
+  [
+    "Hale County",
+    "AL"
+  ],
+  [
+    "Franklin County",
+    "ID"
+  ],
+  [
+    "Jefferson County",
+    "FL"
+  ],
+  [
+    "Pendleton County",
+    "KY"
+  ],
+  [
+    "Cannon County",
+    "TN"
+  ],
+  [
+    "Harrison County",
+    "IA"
+  ],
+  [
+    "Saline County",
+    "NE"
+  ],
+  [
+    "Pike County",
+    "IL"
+  ],
+  [
+    "Kossuth County",
+    "IA"
+  ],
+  [
+    "Falls Church City",
+    "VA"
+  ],
+  [
+    "Renville County",
+    "MN"
+  ],
+  [
+    "Nolan County",
+    "TX"
+  ],
+  [
+    "Mills County",
+    "IA"
+  ],
+  [
+    "Carbon County",
+    "WY"
+  ],
+  [
+    "Fulton County",
+    "PA"
+  ],
+  [
+    "Dent County",
+    "MO"
+  ],
+  [
+    "Moultrie County",
+    "IL"
+  ],
+  [
+    "San Juan County",
+    "UT"
+  ],
+  [
+    "Cedar County",
+    "MO"
+  ],
+  [
+    "Harrison County",
+    "OH"
+  ],
+  [
+    "Clay County",
+    "AR"
+  ],
+  [
+    "Las Animas County",
+    "CO"
+  ],
+  [
+    "Bourbon County",
+    "KS"
+  ],
+  [
+    "Gogebic County",
+    "MI"
+  ],
+  [
+    "Livingston County",
+    "MO"
+  ],
+  [
+    "Butler County",
+    "IA"
+  ],
+  [
+    "Choctaw County",
+    "OK"
+  ],
+  [
+    "Nantucket County",
+    "MA"
+  ],
+  [
+    "McKenzie County",
+    "ND"
+  ],
+  [
+    "Atoka County",
+    "OK"
+  ],
+  [
+    "Noble County",
+    "OH"
+  ],
+  [
+    "Hardy County",
+    "WV"
+  ],
+  [
+    "Wetzel County",
+    "WV"
+  ],
+  [
+    "York County",
+    "NE"
+  ],
+  [
+    "Craig County",
+    "OK"
+  ],
+  [
+    "Trigg County",
+    "KY"
+  ],
+  [
+    "Smith County",
+    "MS"
+  ],
+  [
+    "Clay County",
+    "AL"
+  ],
+  [
+    "Calhoun County",
+    "SC"
+  ],
+  [
+    "Rusk County",
+    "WI"
+  ],
+  [
+    "Wadena County",
+    "MN"
+  ],
+  [
+    "O'Brien County",
+    "IA"
+  ],
+  [
+    "Estill County",
+    "KY"
+  ],
+  [
+    "Price County",
+    "WI"
+  ],
+  [
+    "Swain County",
+    "NC"
+  ],
+  [
+    "Screven County",
+    "GA"
+  ],
+  [
+    "Knott County",
+    "KY"
+  ],
+  [
+    "Allamakee County",
+    "IA"
+  ],
+  [
+    "Claiborne Parish",
+    "LA"
+  ],
+  [
+    "Callahan County",
+    "TX"
+  ],
+  [
+    "Massac County",
+    "IL"
+  ],
+  [
+    "Morgan County",
+    "KY"
+  ],
+  [
+    "Crockett County",
+    "TN"
+  ],
+  [
+    "Madison County",
+    "VA"
+  ],
+  [
+    "Roane County",
+    "WV"
+  ],
+  [
+    "Dickenson County",
+    "VA"
+  ],
+  [
+    "Faribault County",
+    "MN"
+  ],
+  [
+    "Pennington County",
+    "MN"
+  ],
+  [
+    "Ketchikan Gateway Borough",
+    "AK"
+  ],
+  [
+    "Izard County",
+    "AR"
+  ],
+  [
+    "Walthall County",
+    "MS"
+  ],
+  [
+    "Stewart County",
+    "TN"
+  ],
+  [
+    "Newton County",
+    "IN"
+  ],
+  [
+    "Zapata County",
+    "TX"
+  ],
+  [
+    "Trinity County",
+    "TX"
+  ],
+  [
+    "Chowan County",
+    "NC"
+  ],
+  [
+    "Pend Oreille County",
+    "WA"
+  ],
+  [
+    "Lamar County",
+    "AL"
+  ],
+  [
+    "Murray County",
+    "OK"
+  ],
+  [
+    "Comanche County",
+    "TX"
+  ],
+  [
+    "Converse County",
+    "WY"
+  ],
+  [
+    "Morgan County",
+    "OH"
+  ],
+  [
+    "Archuleta County",
+    "CO"
+  ],
+  [
+    "Glacier County",
+    "MT"
+  ],
+  [
+    "White County",
+    "IL"
+  ],
+  [
+    "Fremont County",
+    "ID"
+  ],
+  [
+    "Washington County",
+    "IL"
+  ],
+  [
+    "Grundy County",
+    "TN"
+  ],
+  [
+    "Greene County",
+    "MS"
+  ],
+  [
+    "Calhoun County",
+    "FL"
+  ],
+  [
+    "Oglala Lakota County",
+    "SD"
+  ],
+  [
+    "Martinsville City",
+    "VA"
+  ],
+  [
+    "Shoshone County",
+    "ID"
+  ],
+  [
+    "Madison County",
+    "TX"
+  ],
+  [
+    "Winn Parish",
+    "LA"
+  ],
+  [
+    "Hamilton County",
+    "FL"
+  ],
+  [
+    "Breathitt County",
+    "KY"
+  ],
+  [
+    "Hughes County",
+    "OK"
+  ],
+  [
+    "Ford County",
+    "IL"
+  ],
+  [
+    "Union County",
+    "KY"
+  ],
+  [
+    "Osage County",
+    "MO"
+  ],
+  [
+    "Johnson County",
+    "IL"
+  ],
+  [
+    "Amelia County",
+    "VA"
+  ],
+  [
+    "Buffalo County",
+    "WI"
+  ],
+  [
+    "Monroe County",
+    "OH"
+  ],
+  [
+    "Jackson County",
+    "KS"
+  ],
+  [
+    "Crawford County",
+    "MI"
+  ],
+  [
+    "Moffat County",
+    "CO"
+  ],
+  [
+    "Reeves County",
+    "TX"
+  ],
+  [
+    "Millard County",
+    "UT"
+  ],
+  [
+    "Clay County",
+    "IL"
+  ],
+  [
+    "Mono County",
+    "CA"
+  ],
+  [
+    "Bamberg County",
+    "SC"
+  ],
+  [
+    "Perquimans County",
+    "NC"
+  ],
+  [
+    "Crenshaw County",
+    "AL"
+  ],
+  [
+    "Presque Isle County",
+    "MI"
+  ],
+  [
+    "Cass County",
+    "IA"
+  ],
+  [
+    "Meigs County",
+    "TN"
+  ],
+  [
+    "Powell County",
+    "KY"
+  ],
+  [
+    "Calhoun County",
+    "MS"
+  ],
+  [
+    "Lewis County",
+    "KY"
+  ],
+  [
+    "Jackson County",
+    "KY"
+  ],
+  [
+    "Lincoln County",
+    "AR"
+  ],
+  [
+    "Big Horn County",
+    "MT"
+  ],
+  [
+    "Sanders County",
+    "MT"
+  ],
+  [
+    "Lamb County",
+    "TX"
+  ],
+  [
+    "Mason County",
+    "IL"
+  ],
+  [
+    "Kodiak Island Borough",
+    "AK"
+  ],
+  [
+    "Webster County",
+    "KY"
+  ],
+  [
+    "Cass County",
+    "IL"
+  ],
+  [
+    "Wright County",
+    "IA"
+  ],
+  [
+    "Bath County",
+    "KY"
+  ],
+  [
+    "Lewis County",
+    "TN"
+  ],
+  [
+    "Bienville Parish",
+    "LA"
+  ],
+  [
+    "Towns County",
+    "GA"
+  ],
+  [
+    "Wilbarger County",
+    "TX"
+  ],
+  [
+    "Charlton County",
+    "GA"
+  ],
+  [
+    "Howard County",
+    "AR"
+  ],
+  [
+    "Boundary County",
+    "ID"
+  ],
+  [
+    "Vinton County",
+    "OH"
+  ],
+  [
+    "Madison County",
+    "MO"
+  ],
+  [
+    "Camp County",
+    "TX"
+  ],
+  [
+    "Caldwell County",
+    "KY"
+  ],
+  [
+    "Amite County",
+    "MS"
+  ],
+  [
+    "Goshen County",
+    "WY"
+  ],
+  [
+    "Morgan County",
+    "UT"
+  ],
+  [
+    "Poquoson City",
+    "VA"
+  ],
+  [
+    "Choctaw County",
+    "AL"
+  ],
+  [
+    "Rains County",
+    "TX"
+  ],
+  [
+    "Jefferson County",
+    "MT"
+  ],
+  [
+    "Allen County",
+    "KS"
+  ],
+  [
+    "Stone County",
+    "AR"
+  ],
+  [
+    "Pulaski County",
+    "IN"
+  ],
+  [
+    "Yalobusha County",
+    "MS"
+  ],
+  [
+    "Franklin County",
+    "FL"
+  ],
+  [
+    "Bleckley County",
+    "GA"
+  ],
+  [
+    "Monroe County",
+    "WV"
+  ],
+  [
+    "Lake County",
+    "MI"
+  ],
+  [
+    "Chippewa County",
+    "MN"
+  ],
+  [
+    "Butler County",
+    "KY"
+  ],
+  [
+    "Tallahatchie County",
+    "MS"
+  ],
+  [
+    "Grundy County",
+    "IA"
+  ],
+  [
+    "Braxton County",
+    "WV"
+  ],
+  [
+    "Colfax County",
+    "NM"
+  ],
+  [
+    "Todd County",
+    "KY"
+  ],
+  [
+    "Glades County",
+    "FL"
+  ],
+  [
+    "Pamlico County",
+    "NC"
+  ],
+  [
+    "Dawson County",
+    "TX"
+  ],
+  [
+    "Owyhee County",
+    "ID"
+  ],
+  [
+    "Skamania County",
+    "WA"
+  ],
+  [
+    "Juab County",
+    "UT"
+  ],
+  [
+    "Morrow County",
+    "OR"
+  ],
+  [
+    "Edmonson County",
+    "KY"
+  ],
+  [
+    "Appanoose County",
+    "IA"
+  ],
+  [
+    "Fulton County",
+    "AR"
+  ],
+  [
+    "Newton County",
+    "TX"
+  ],
+  [
+    "Pike County",
+    "IN"
+  ],
+  [
+    "Crawford County",
+    "GA"
+  ],
+  [
+    "Telfair County",
+    "GA"
+  ],
+  [
+    "Menard County",
+    "IL"
+  ],
+  [
+    "Valley County",
+    "ID"
+  ],
+  [
+    "Northampton County",
+    "VA"
+  ],
+  [
+    "Teton County",
+    "ID"
+  ],
+  [
+    "Washington County",
+    "KY"
+  ],
+  [
+    "Lyon County",
+    "IA"
+  ],
+  [
+    "Northumberland County",
+    "VA"
+  ],
+  [
+    "Mississippi County",
+    "MO"
+  ],
+  [
+    "Rolette County",
+    "ND"
+  ],
+  [
+    "Union County",
+    "IA"
+  ],
+  [
+    "Sumter County",
+    "AL"
+  ],
+  [
+    "Morris County",
+    "TX"
+  ],
+  [
+    "Blanco County",
+    "TX"
+  ],
+  [
+    "Blackford County",
+    "IN"
+  ],
+  [
+    "Lunenburg County",
+    "VA"
+  ],
+  [
+    "Little River County",
+    "AR"
+  ],
+  [
+    "Macon County",
+    "GA"
+  ],
+  [
+    "Koochiching County",
+    "MN"
+  ],
+  [
+    "Custer County",
+    "MT"
+  ],
+  [
+    "Prowers County",
+    "CO"
+  ],
+  [
+    "Lawrence County",
+    "MS"
+  ],
+  [
+    "Jackson County",
+    "TN"
+  ],
+  [
+    "Chickasaw County",
+    "IA"
+  ],
+  [
+    "Douglas County",
+    "MO"
+  ],
+  [
+    "Linn County",
+    "MO"
+  ],
+  [
+    "Greene County",
+    "IL"
+  ],
+  [
+    "Summers County",
+    "WV"
+  ],
+  [
+    "Trousdale County",
+    "TN"
+  ],
+  [
+    "Marion County",
+    "KS"
+  ],
+  [
+    "Shelby County",
+    "IA"
+  ],
+  [
+    "Big Horn County",
+    "WY"
+  ],
+  [
+    "Marshall County",
+    "IL"
+  ],
+  [
+    "Terry County",
+    "TX"
+  ],
+  [
+    "Barton County",
+    "MO"
+  ],
+  [
+    "Haskell County",
+    "OK"
+  ],
+  [
+    "Iron County",
+    "MI"
+  ],
+  [
+    "Red River County",
+    "TX"
+  ],
+  [
+    "Heard County",
+    "GA"
+  ],
+  [
+    "Cherokee County",
+    "IA"
+  ],
+  [
+    "Fergus County",
+    "MT"
+  ],
+  [
+    "Ramsey County",
+    "ND"
+  ],
+  [
+    "Sierra County",
+    "NM"
+  ],
+  [
+    "Decatur County",
+    "TN"
+  ],
+  [
+    "Magoffin County",
+    "KY"
+  ],
+  [
+    "Charlotte County",
+    "VA"
+  ],
+  [
+    "Perry County",
+    "MS"
+  ],
+  [
+    "Cottonwood County",
+    "MN"
+  ],
+  [
+    "Live Oak County",
+    "TX"
+  ],
+  [
+    "Montgomery County",
+    "MO"
+  ],
+  [
+    "Conecuh County",
+    "AL"
+  ],
+  [
+    "Rio Grande County",
+    "CO"
+  ],
+  [
+    "Clay County",
+    "NC"
+  ],
+  [
+    "Pope County",
+    "MN"
+  ],
+  [
+    "Richland County",
+    "MT"
+  ],
+  [
+    "Monroe County",
+    "KY"
+  ],
+  [
+    "Okfuskee County",
+    "OK"
+  ],
+  [
+    "Greensville County",
+    "VA"
+  ],
+  [
+    "Green County",
+    "KY"
+  ],
+  [
+    "Lincoln County",
+    "WA"
+  ],
+  [
+    "Owen County",
+    "KY"
+  ],
+  [
+    "Ward County",
+    "TX"
+  ],
+  [
+    "Wabash County",
+    "IL"
+  ],
+  [
+    "McIntosh County",
+    "GA"
+  ],
+  [
+    "Jefferson Davis County",
+    "MS"
+  ],
+  [
+    "Martin County",
+    "KY"
+  ],
+  [
+    "DeKalb County",
+    "MO"
+  ],
+  [
+    "Watonwan County",
+    "MN"
+  ],
+  [
+    "Bacon County",
+    "GA"
+  ],
+  [
+    "Alleghany County",
+    "NC"
+  ],
+  [
+    "Lake County",
+    "SD"
+  ],
+  [
+    "Desha County",
+    "AR"
+  ],
+  [
+    "Dooly County",
+    "GA"
+  ],
+  [
+    "Grant County",
+    "WV"
+  ],
+  [
+    "Candler County",
+    "GA"
+  ],
+  [
+    "Wayne County",
+    "MO"
+  ],
+  [
+    "Lake County",
+    "MN"
+  ],
+  [
+    "Noble County",
+    "OK"
+  ],
+  [
+    "Washington County",
+    "NC"
+  ],
+  [
+    "North Slope Borough",
+    "AK"
+  ],
+  [
+    "Carroll County",
+    "KY"
+  ],
+  [
+    "Carbon County",
+    "MT"
+  ],
+  [
+    "Lancaster County",
+    "VA"
+  ],
+  [
+    "Washington County",
+    "ID"
+  ],
+  [
+    "Mackinac County",
+    "MI"
+  ],
+  [
+    "Washita County",
+    "OK"
+  ],
+  [
+    "St. Helena Parish",
+    "LA"
+  ],
+  [
+    "Barnes County",
+    "ND"
+  ],
+  [
+    "Sussex County",
+    "VA"
+  ],
+  [
+    "Pushmataha County",
+    "OK"
+  ],
+  [
+    "Middlesex County",
+    "VA"
+  ],
+  [
+    "Ripley County",
+    "MO"
+  ],
+  [
+    "Box Butte County",
+    "NE"
+  ],
+  [
+    "Camden County",
+    "NC"
+  ],
+  [
+    "Evans County",
+    "GA"
+  ],
+  [
+    "Hancock County",
+    "IA"
+  ],
+  [
+    "Louisa County",
+    "IA"
+  ],
+  [
+    "Early County",
+    "GA"
+  ],
+  [
+    "Roosevelt County",
+    "MT"
+  ],
+  [
+    "Winnebago County",
+    "IA"
+  ],
+  [
+    "Guthrie County",
+    "IA"
+  ],
+  [
+    "Red Willow County",
+    "NE"
+  ],
+  [
+    "Essex County",
+    "VA"
+  ],
+  [
+    "Bollinger County",
+    "MO"
+  ],
+  [
+    "Mitchell County",
+    "IA"
+  ],
+  [
+    "Custer County",
+    "NE"
+  ],
+  [
+    "Colfax County",
+    "NE"
+  ],
+  [
+    "Butte County",
+    "SD"
+  ],
+  [
+    "Franklin County",
+    "TX"
+  ],
+  [
+    "Crawford County",
+    "IN"
+  ],
+  [
+    "Walsh County",
+    "ND"
+  ],
+  [
+    "Gates County",
+    "NC"
+  ],
+  [
+    "Clay County",
+    "TX"
+  ],
+  [
+    "Ralls County",
+    "MO"
+  ],
+  [
+    "Cumberland County",
+    "IL"
+  ],
+  [
+    "Metcalfe County",
+    "KY"
+  ],
+  [
+    "Bradley County",
+    "AR"
+  ],
+  [
+    "Wilcox County",
+    "AL"
+  ],
+  [
+    "Johnston County",
+    "OK"
+  ],
+  [
+    "Coosa County",
+    "AL"
+  ],
+  [
+    "Alcona County",
+    "MI"
+  ],
+  [
+    "Leslie County",
+    "KY"
+  ],
+  [
+    "Montgomery County",
+    "IA"
+  ],
+  [
+    "Roberts County",
+    "SD"
+  ],
+  [
+    "Nemaha County",
+    "KS"
+  ],
+  [
+    "Love County",
+    "OK"
+  ],
+  [
+    "Pike County",
+    "AR"
+  ],
+  [
+    "Bullock County",
+    "AL"
+  ],
+  [
+    "Howard County",
+    "MO"
+  ],
+  [
+    "Noxubee County",
+    "MS"
+  ],
+  [
+    "Lanier County",
+    "GA"
+  ],
+  [
+    "Holt County",
+    "NE"
+  ],
+  [
+    "Perry County",
+    "AR"
+  ],
+  [
+    "Lowndes County",
+    "AL"
+  ],
+  [
+    "Marshall County",
+    "KS"
+  ],
+  [
+    "Sabine County",
+    "TX"
+  ],
+  [
+    "Chicot County",
+    "AR"
+  ],
+  [
+    "Franklin County",
+    "IA"
+  ],
+  [
+    "Emery County",
+    "UT"
+  ],
+  [
+    "Keokuk County",
+    "IA"
+  ],
+  [
+    "Jackson County",
+    "MN"
+  ],
+  [
+    "Lewis County",
+    "MO"
+  ],
+  [
+    "Webster County",
+    "MS"
+  ],
+  [
+    "Nome Census Area",
+    "AK"
+  ],
+  [
+    "Yuma County",
+    "CO"
+  ],
+  [
+    "Switzerland County",
+    "IN"
+  ],
+  [
+    "Benewah County",
+    "ID"
+  ],
+  [
+    "Pulaski County",
+    "GA"
+  ],
+  [
+    "Runnels County",
+    "TX"
+  ],
+  [
+    "Calhoun County",
+    "IA"
+  ],
+  [
+    "Martin County",
+    "IN"
+  ],
+  [
+    "Ochiltree County",
+    "TX"
+  ],
+  [
+    "Scott County",
+    "AR"
+  ],
+  [
+    "Carroll County",
+    "MS"
+  ],
+  [
+    "Duval County",
+    "TX"
+  ],
+  [
+    "Grundy County",
+    "MO"
+  ],
+  [
+    "McLean County",
+    "ND"
+  ],
+  [
+    "Swift County",
+    "MN"
+  ],
+  [
+    "Wayne County",
+    "NE"
+  ],
+  [
+    "Sac County",
+    "IA"
+  ],
+  [
+    "Madison Parish",
+    "LA"
+  ],
+  [
+    "Parmer County",
+    "TX"
+  ],
+  [
+    "Cumberland County",
+    "VA"
+  ],
+  [
+    "Linn County",
+    "KS"
+  ],
+  [
+    "Montgomery County",
+    "MS"
+  ],
+  [
+    "McCormick County",
+    "SC"
+  ],
+  [
+    "Grand County",
+    "UT"
+  ],
+  [
+    "Clarke County",
+    "IA"
+  ],
+  [
+    "Stevens County",
+    "MN"
+  ],
+  [
+    "Marion County",
+    "TX"
+  ],
+  [
+    "Rock County",
+    "MN"
+  ],
+  [
+    "West Carroll Parish",
+    "LA"
+  ],
+  [
+    "Beaverhead County",
+    "MT"
+  ],
+  [
+    "Tunica County",
+    "MS"
+  ],
+  [
+    "Humboldt County",
+    "IA"
+  ],
+  [
+    "Mountrail County",
+    "ND"
+  ],
+  [
+    "Caldwell Parish",
+    "LA"
+  ],
+  [
+    "Wilkes County",
+    "GA"
+  ],
+  [
+    "Zavala County",
+    "TX"
+  ],
+  [
+    "Deer Lodge County",
+    "MT"
+  ],
+  [
+    "Somervell County",
+    "TX"
+  ],
+  [
+    "Yellow Medicine County",
+    "MN"
+  ],
+  [
+    "Latimer County",
+    "OK"
+  ],
+  [
+    "Iron County",
+    "MO"
+  ],
+  [
+    "Cheyenne County",
+    "NE"
+  ],
+  [
+    "Brewster County",
+    "TX"
+  ],
+  [
+    "Howard County",
+    "IA"
+  ],
+  [
+    "Greenlee County",
+    "AZ"
+  ],
+  [
+    "St. Clair County",
+    "MO"
+  ],
+  [
+    "Hamilton County",
+    "NE"
+  ],
+  [
+    "Brown County",
+    "KS"
+  ],
+  [
+    "Nowata County",
+    "OK"
+  ],
+  [
+    "Rice County",
+    "KS"
+  ],
+  [
+    "Irwin County",
+    "GA"
+  ],
+  [
+    "Montmorency County",
+    "MI"
+  ],
+  [
+    "Clear Creek County",
+    "CO"
+  ],
+  [
+    "Pipestone County",
+    "MN"
+  ],
+  [
+    "Emmet County",
+    "IA"
+  ],
+  [
+    "Todd County",
+    "SD"
+  ],
+  [
+    "Charles Mix County",
+    "SD"
+  ],
+  [
+    "Stephens County",
+    "TX"
+  ],
+  [
+    "Forest County",
+    "WI"
+  ],
+  [
+    "Jones County",
+    "NC"
+  ],
+  [
+    "Clinton County",
+    "KY"
+  ],
+  [
+    "Jasper County",
+    "IL"
+  ],
+  [
+    "Johnson County",
+    "GA"
+  ],
+  [
+    "Chattahoochee County",
+    "GA"
+  ],
+  [
+    "McLean County",
+    "KY"
+  ],
+  [
+    "Davis County",
+    "IA"
+  ],
+  [
+    "Pratt County",
+    "KS"
+  ],
+  [
+    "Seminole County",
+    "GA"
+  ],
+  [
+    "Stillwater County",
+    "MT"
+  ],
+  [
+    "Richmond County",
+    "VA"
+  ],
+  [
+    "Hancock County",
+    "KY"
+  ],
+  [
+    "Mitchell County",
+    "TX"
+  ],
+  [
+    "Phelps County",
+    "NE"
+  ],
+  [
+    "Cuming County",
+    "NE"
+  ],
+  [
+    "Madison County",
+    "MT"
+  ],
+  [
+    "Cloud County",
+    "KS"
+  ],
+  [
+    "Crittenden County",
+    "KY"
+  ],
+  [
+    "Marshall County",
+    "MN"
+  ],
+  [
+    "Livingston County",
+    "KY"
+  ],
+  [
+    "Terrell County",
+    "GA"
+  ],
+  [
+    "Clearwater County",
+    "ID"
+  ],
+  [
+    "Turner County",
+    "GA"
+  ],
+  [
+    "Claiborne County",
+    "MS"
+  ],
+  [
+    "Palo Alto County",
+    "IA"
+  ],
+  [
+    "Caldwell County",
+    "MO"
+  ],
+  [
+    "Dawson County",
+    "MT"
+  ],
+  [
+    "White Pine County",
+    "NV"
+  ],
+  [
+    "Kemper County",
+    "MS"
+  ],
+  [
+    "Lyon County",
+    "KY"
+  ],
+  [
+    "Alger County",
+    "MI"
+  ],
+  [
+    "Sublette County",
+    "WY"
+  ],
+  [
+    "Wilkinson County",
+    "GA"
+  ],
+  [
+    "Wilcox County",
+    "GA"
+  ],
+  [
+    "Ozark County",
+    "MO"
+  ],
+  [
+    "Turner County",
+    "SD"
+  ],
+  [
+    "Gallatin County",
+    "KY"
+  ],
+  [
+    "Catahoula Parish",
+    "LA"
+  ],
+  [
+    "Archer County",
+    "TX"
+  ],
+  [
+    "Greene County",
+    "IA"
+  ],
+  [
+    "Benton County",
+    "IN"
+  ],
+  [
+    "Oregon County",
+    "MO"
+  ],
+  [
+    "Custer County",
+    "SD"
+  ],
+  [
+    "Lucas County",
+    "IA"
+  ],
+  [
+    "Montgomery County",
+    "GA"
+  ],
+  [
+    "Jenkins County",
+    "GA"
+  ],
+  [
+    "Monroe County",
+    "MO"
+  ],
+  [
+    "Modoc County",
+    "CA"
+  ],
+  [
+    "Hancock County",
+    "GA"
+  ],
+  [
+    "Jack County",
+    "TX"
+  ],
+  [
+    "Monona County",
+    "IA"
+  ],
+  [
+    "Woods County",
+    "OK"
+  ],
+  [
+    "Quay County",
+    "NM"
+  ],
+  [
+    "Platte County",
+    "WY"
+  ],
+  [
+    "Blaine County",
+    "OK"
+  ],
+  [
+    "Johnson County",
+    "WY"
+  ],
+  [
+    "Clearwater County",
+    "MN"
+  ],
+  [
+    "Montgomery County",
+    "AR"
+  ],
+  [
+    "Perry County",
+    "TN"
+  ],
+  [
+    "Wilson County",
+    "KS"
+  ],
+  [
+    "Trimble County",
+    "KY"
+  ],
+  [
+    "Mathews County",
+    "VA"
+  ],
+  [
+    "Lee County",
+    "AR"
+  ],
+  [
+    "Dimmit County",
+    "TX"
+  ],
+  [
+    "Hickory County",
+    "MO"
+  ],
+  [
+    "Warren County",
+    "IN"
+  ],
+  [
+    "Carroll County",
+    "MO"
+  ],
+  [
+    "Kiowa County",
+    "OK"
+  ],
+  [
+    "Daviess County",
+    "MO"
+  ],
+  [
+    "Maries County",
+    "MO"
+  ],
+  [
+    "Bracken County",
+    "KY"
+  ],
+  [
+    "Butler County",
+    "NE"
+  ],
+  [
+    "Sitka City and Borough",
+    "AK"
+  ],
+  [
+    "Wilkinson County",
+    "MS"
+  ],
+  [
+    "Ritchie County",
+    "WV"
+  ],
+  [
+    "Knox County",
+    "NE"
+  ],
+  [
+    "Cedar County",
+    "NE"
+  ],
+  [
+    "Mercer County",
+    "ND"
+  ],
+  [
+    "Oscoda County",
+    "MI"
+  ],
+  [
+    "Hamilton County",
+    "TX"
+  ],
+  [
+    "Coffey County",
+    "KS"
+  ],
+  [
+    "Houston County",
+    "TN"
+  ],
+  [
+    "Kusilvak Census Area",
+    "AK"
+  ],
+  [
+    "Atkinson County",
+    "GA"
+  ],
+  [
+    "Lake County",
+    "OR"
+  ],
+  [
+    "Webster County",
+    "WV"
+  ],
+  [
+    "Baraga County",
+    "MI"
+  ],
+  [
+    "Keith County",
+    "NE"
+  ],
+  [
+    "Rosebud County",
+    "MT"
+  ],
+  [
+    "Perry County",
+    "AL"
+  ],
+  [
+    "Nevada County",
+    "AR"
+  ],
+  [
+    "Franklin City",
+    "VA"
+  ],
+  [
+    "Dawes County",
+    "NE"
+  ],
+  [
+    "Harrison County",
+    "MO"
+  ],
+  [
+    "Tyler County",
+    "WV"
+  ],
+  [
+    "Choctaw County",
+    "MS"
+  ],
+  [
+    "Lemhi County",
+    "ID"
+  ],
+  [
+    "Prairie County",
+    "AR"
+  ],
+  [
+    "Murray County",
+    "MN"
+  ],
+  [
+    "Schoolcraft County",
+    "MI"
+  ],
+  [
+    "Clay County",
+    "KS"
+  ],
+  [
+    "Boise County",
+    "ID"
+  ],
+  [
+    "Graham County",
+    "NC"
+  ],
+  [
+    "Lafayette County",
+    "FL"
+  ],
+  [
+    "San Miguel County",
+    "CO"
+  ],
+  [
+    "Power County",
+    "ID"
+  ],
+  [
+    "Kane County",
+    "UT"
+  ],
+  [
+    "Traill County",
+    "ND"
+  ],
+  [
+    "Hamilton County",
+    "IL"
+  ],
+  [
+    "Clay County",
+    "WV"
+  ],
+  [
+    "Thomas County",
+    "KS"
+  ],
+  [
+    "San Augustine County",
+    "TX"
+  ],
+  [
+    "Twiggs County",
+    "GA"
+  ],
+  [
+    "Searcy County",
+    "AR"
+  ],
+  [
+    "Pocahontas County",
+    "WV"
+  ],
+  [
+    "Anderson County",
+    "KS"
+  ],
+  [
+    "Richardson County",
+    "NE"
+  ],
+  [
+    "Taylor County",
+    "GA"
+  ],
+  [
+    "Lincoln County",
+    "GA"
+  ],
+  [
+    "Doddridge County",
+    "WV"
+  ],
+  [
+    "Coleman County",
+    "TX"
+  ],
+  [
+    "Allendale County",
+    "SC"
+  ],
+  [
+    "Washakie County",
+    "WY"
+  ],
+  [
+    "Merrick County",
+    "NE"
+  ],
+  [
+    "Ballard County",
+    "KY"
+  ],
+  [
+    "Decatur County",
+    "IA"
+  ],
+  [
+    "Major County",
+    "OK"
+  ],
+  [
+    "Nicholas County",
+    "KY"
+  ],
+  [
+    "Franklin County",
+    "MS"
+  ],
+  [
+    "Liberty County",
+    "FL"
+  ],
+  [
+    "Dade County",
+    "MO"
+  ],
+  [
+    "Clay County",
+    "TN"
+  ],
+  [
+    "Northwest Arctic Borough",
+    "AK"
+  ],
+  [
+    "Benton County",
+    "MS"
+  ],
+  [
+    "Greene County",
+    "AL"
+  ],
+  [
+    "Yoakum County",
+    "TX"
+  ],
+  [
+    "Pleasants County",
+    "WV"
+  ],
+  [
+    "Humphreys County",
+    "MS"
+  ],
+  [
+    "McCulloch County",
+    "TX"
+  ],
+  [
+    "Monroe County",
+    "IA"
+  ],
+  [
+    "Grant County",
+    "SD"
+  ],
+  [
+    "Valley County",
+    "MT"
+  ],
+  [
+    "Winkler County",
+    "TX"
+  ],
+  [
+    "Conejos County",
+    "CO"
+  ],
+  [
+    "Wallowa County",
+    "OR"
+  ],
+  [
+    "Red River Parish",
+    "LA"
+  ],
+  [
+    "Harney County",
+    "OR"
+  ],
+  [
+    "Doniphan County",
+    "KS"
+  ],
+  [
+    "Cleveland County",
+    "AR"
+  ],
+  [
+    "Marion County",
+    "GA"
+  ],
+  [
+    "Adair County",
+    "IA"
+  ],
+  [
+    "Wheeler County",
+    "GA"
+  ],
+  [
+    "Lexington City",
+    "VA"
+  ],
+  [
+    "Lake County",
+    "CO"
+  ],
+  [
+    "Rappahannock County",
+    "VA"
+  ],
+  [
+    "Chariton County",
+    "MO"
+  ],
+  [
+    "Hutchinson County",
+    "SD"
+  ],
+  [
+    "Grand Isle County",
+    "VT"
+  ],
+  [
+    "Worth County",
+    "IA"
+  ],
+  [
+    "Gilmer County",
+    "WV"
+  ],
+  [
+    "Lee County",
+    "KY"
+  ],
+  [
+    "Pepin County",
+    "WI"
+  ],
+  [
+    "Crook County",
+    "WY"
+  ],
+  [
+    "Elliott County",
+    "KY"
+  ],
+  [
+    "Castro County",
+    "TX"
+  ],
+  [
+    "Ferry County",
+    "WA"
+  ],
+  [
+    "Pierce County",
+    "NE"
+  ],
+  [
+    "Broadwater County",
+    "MT"
+  ],
+  [
+    "Grant County",
+    "KS"
+  ],
+  [
+    "Kingman County",
+    "KS"
+  ],
+  [
+    "Grant County",
+    "OR"
+  ],
+  [
+    "Van Buren County",
+    "IA"
+  ],
+  [
+    "East Carroll Parish",
+    "LA"
+  ],
+  [
+    "Dallam County",
+    "TX"
+  ],
+  [
+    "Fall River County",
+    "SD"
+  ],
+  [
+    "Newton County",
+    "AR"
+  ],
+  [
+    "Beaver County",
+    "UT"
+  ],
+  [
+    "Jefferson County",
+    "NE"
+  ],
+  [
+    "Shannon County",
+    "MO"
+  ],
+  [
+    "Jefferson County",
+    "MS"
+  ],
+  [
+    "Caribou County",
+    "ID"
+  ],
+  [
+    "Goliad County",
+    "TX"
+  ],
+  [
+    "Bailey County",
+    "TX"
+  ],
+  [
+    "Pocahontas County",
+    "IA"
+  ],
+  [
+    "Nemaha County",
+    "NE"
+  ],
+  [
+    "Powell County",
+    "MT"
+  ],
+  [
+    "Union County",
+    "IN"
+  ],
+  [
+    "Bon Homme County",
+    "SD"
+  ],
+  [
+    "Kit Carson County",
+    "CO"
+  ],
+  [
+    "Blaine County",
+    "MT"
+  ],
+  [
+    "Brooks County",
+    "TX"
+  ],
+  [
+    "Swisher County",
+    "TX"
+  ],
+  [
+    "Tillman County",
+    "OK"
+  ],
+  [
+    "Chugach Census Area",
+    "AK"
+  ],
+  [
+    "Wabaunsee County",
+    "KS"
+  ],
+  [
+    "Huerfano County",
+    "CO"
+  ],
+  [
+    "La Salle County",
+    "TX"
+  ],
+  [
+    "Ida County",
+    "IA"
+  ],
+  [
+    "Southeast Fairbanks Census Area",
+    "AK"
+  ],
+  [
+    "Weston County",
+    "WY"
+  ],
+  [
+    "Schuyler County",
+    "IL"
+  ],
+  [
+    "Hancock County",
+    "TN"
+  ],
+  [
+    "Pembina County",
+    "ND"
+  ],
+  [
+    "Forest County",
+    "PA"
+  ],
+  [
+    "Childress County",
+    "TX"
+  ],
+  [
+    "Burt County",
+    "NE"
+  ],
+  [
+    "Clinch County",
+    "GA"
+  ],
+  [
+    "Russell County",
+    "KS"
+  ],
+  [
+    "Tucker County",
+    "WV"
+  ],
+  [
+    "Galax City",
+    "VA"
+  ],
+  [
+    "Kearney County",
+    "NE"
+  ],
+  [
+    "Lac qui Parle County",
+    "MN"
+  ],
+  [
+    "Refugio County",
+    "TX"
+  ],
+  [
+    "Lake County",
+    "TN"
+  ],
+  [
+    "Charles City County",
+    "VA"
+  ],
+  [
+    "Monroe County",
+    "AR"
+  ],
+  [
+    "Clark County",
+    "MO"
+  ],
+  [
+    "King and Queen County",
+    "VA"
+  ],
+  [
+    "Thurston County",
+    "NE"
+  ],
+  [
+    "Buena Vista City",
+    "VA"
+  ],
+  [
+    "Moore County",
+    "TN"
+  ],
+  [
+    "Fremont County",
+    "IA"
+  ],
+  [
+    "Surry County",
+    "VA"
+  ],
+  [
+    "Bear Lake County",
+    "ID"
+  ],
+  [
+    "Rio Blanco County",
+    "CO"
+  ],
+  [
+    "Wayne County",
+    "IA"
+  ],
+  [
+    "Saguache County",
+    "CO"
+  ],
+  [
+    "Pershing County",
+    "NV"
+  ],
+  [
+    "Howard County",
+    "NE"
+  ],
+  [
+    "Wolfe County",
+    "KY"
+  ],
+  [
+    "Fulton County",
+    "KY"
+  ],
+  [
+    "Wilkin County",
+    "MN"
+  ],
+  [
+    "Norman County",
+    "MN"
+  ],
+  [
+    "Bottineau County",
+    "ND"
+  ],
+  [
+    "Treutlen County",
+    "GA"
+  ],
+  [
+    "Moody County",
+    "SD"
+  ],
+  [
+    "Ellsworth County",
+    "KS"
+  ],
+  [
+    "Dallas County",
+    "AR"
+  ],
+  [
+    "Luce County",
+    "MI"
+  ],
+  [
+    "Brown County",
+    "IL"
+  ],
+  [
+    "Antelope County",
+    "NE"
+  ],
+  [
+    "Van Buren County",
+    "TN"
+  ],
+  [
+    "Teton County",
+    "MT"
+  ],
+  [
+    "Hamlin County",
+    "SD"
+  ],
+  [
+    "Henderson County",
+    "IL"
+  ],
+  [
+    "Spink County",
+    "SD"
+  ],
+  [
+    "Randolph County",
+    "GA"
+  ],
+  [
+    "Gentry County",
+    "MO"
+  ],
+  [
+    "Pawnee County",
+    "KS"
+  ],
+  [
+    "Lafayette County",
+    "AR"
+  ],
+  [
+    "Bland County",
+    "VA"
+  ],
+  [
+    "Menifee County",
+    "KY"
+  ],
+  [
+    "Iron County",
+    "WI"
+  ],
+  [
+    "Calhoun County",
+    "WV"
+  ],
+  [
+    "Woodruff County",
+    "AR"
+  ],
+  [
+    "Edwards County",
+    "IL"
+  ],
+  [
+    "Osceola County",
+    "IA"
+  ],
+  [
+    "Pendleton County",
+    "WV"
+  ],
+  [
+    "Grant County",
+    "MN"
+  ],
+  [
+    "Clay County",
+    "NE"
+  ],
+  [
+    "Reynolds County",
+    "MO"
+  ],
+  [
+    "Presidio County",
+    "TX"
+  ],
+  [
+    "Pondera County",
+    "MT"
+  ],
+  [
+    "Shelby County",
+    "MO"
+  ],
+  [
+    "Ohio County",
+    "IN"
+  ],
+  [
+    "Essex County",
+    "VT"
+  ],
+  [
+    "Greenwood County",
+    "KS"
+  ],
+  [
+    "Cumberland County",
+    "KY"
+  ],
+  [
+    "Sherman County",
+    "KS"
+  ],
+  [
+    "Quitman County",
+    "MS"
+  ],
+  [
+    "Sullivan County",
+    "MO"
+  ],
+  [
+    "Taylor County",
+    "IA"
+  ],
+  [
+    "Chouteau County",
+    "MT"
+  ],
+  [
+    "Gilpin County",
+    "CO"
+  ],
+  [
+    "Miller County",
+    "GA"
+  ],
+  [
+    "Ontonagon County",
+    "MI"
+  ],
+  [
+    "Benson County",
+    "ND"
+  ],
+  [
+    "Sullivan County",
+    "PA"
+  ],
+  [
+    "Stanton County",
+    "NE"
+  ],
+  [
+    "San Saba County",
+    "TX"
+  ],
+  [
+    "Carson County",
+    "TX"
+  ],
+  [
+    "Ottawa County",
+    "KS"
+  ],
+  [
+    "Mitchell County",
+    "KS"
+  ],
+  [
+    "Talbot County",
+    "GA"
+  ],
+  [
+    "Lander County",
+    "NV"
+  ],
+  [
+    "Crowley County",
+    "CO"
+  ],
+  [
+    "McCook County",
+    "SD"
+  ],
+  [
+    "Prince of Wales-Hyder Census Area",
+    "AK"
+  ],
+  [
+    "Gray County",
+    "KS"
+  ],
+  [
+    "Alfalfa County",
+    "OK"
+  ],
+  [
+    "Covington City",
+    "VA"
+  ],
+  [
+    "Lynn County",
+    "TX"
+  ],
+  [
+    "Ransom County",
+    "ND"
+  ],
+  [
+    "Cook County",
+    "MN"
+  ],
+  [
+    "Emporia City",
+    "VA"
+  ],
+  [
+    "Audubon County",
+    "IA"
+  ],
+  [
+    "Tripp County",
+    "SD"
+  ],
+  [
+    "Putnam County",
+    "IL"
+  ],
+  [
+    "Lincoln County",
+    "MN"
+  ],
+  [
+    "Dixon County",
+    "NE"
+  ],
+  [
+    "Lincoln County",
+    "CO"
+  ],
+  [
+    "Fillmore County",
+    "NE"
+  ],
+  [
+    "Calhoun County",
+    "GA"
+  ],
+  [
+    "Bent County",
+    "CO"
+  ],
+  [
+    "Washington County",
+    "KS"
+  ],
+  [
+    "Greer County",
+    "OK"
+  ],
+  [
+    "Cotton County",
+    "OK"
+  ],
+  [
+    "Cherry County",
+    "NE"
+  ],
+  [
+    "Day County",
+    "SD"
+  ],
+  [
+    "Harper County",
+    "KS"
+  ],
+  [
+    "Garza County",
+    "TX"
+  ],
+  [
+    "Norton County",
+    "KS"
+  ],
+  [
+    "Haskell County",
+    "TX"
+  ],
+  [
+    "Morris County",
+    "KS"
+  ],
+  [
+    "Jefferson County",
+    "OK"
+  ],
+  [
+    "Mahnomen County",
+    "MN"
+  ],
+  [
+    "Boone County",
+    "NE"
+  ],
+  [
+    "Delta County",
+    "TX"
+  ],
+  [
+    "Stark County",
+    "IL"
+  ],
+  [
+    "Hartley County",
+    "TX"
+  ],
+  [
+    "Walworth County",
+    "SD"
+  ],
+  [
+    "Floyd County",
+    "TX"
+  ],
+  [
+    "Lincoln County",
+    "ID"
+  ],
+  [
+    "Coal County",
+    "OK"
+  ],
+  [
+    "Yukon-Koyukuk Census Area",
+    "AK"
+  ],
+  [
+    "Carter County",
+    "MO"
+  ],
+  [
+    "McHenry County",
+    "ND"
+  ],
+  [
+    "Johnson County",
+    "NE"
+  ],
+  [
+    "Brule County",
+    "SD"
+  ],
+  [
+    "Dewey County",
+    "SD"
+  ],
+  [
+    "Martin County",
+    "TX"
+  ],
+  [
+    "Cameron Parish",
+    "LA"
+  ],
+  [
+    "Atchison County",
+    "MO"
+  ],
+  [
+    "Stevens County",
+    "KS"
+  ],
+  [
+    "Kingsbury County",
+    "SD"
+  ],
+  [
+    "Polk County",
+    "NE"
+  ],
+  [
+    "Hansford County",
+    "TX"
+  ],
+  [
+    "Aleutians West Census Area",
+    "AK"
+  ],
+  [
+    "Warren County",
+    "GA"
+  ],
+  [
+    "Garfield County",
+    "UT"
+  ],
+  [
+    "Big Stone County",
+    "MN"
+  ],
+  [
+    "Wirt County",
+    "WV"
+  ],
+  [
+    "Hamilton County",
+    "NY"
+  ],
+  [
+    "Pulaski County",
+    "IL"
+  ],
+  [
+    "Custer County",
+    "CO"
+  ],
+  [
+    "Crosby County",
+    "TX"
+  ],
+  [
+    "Scott County",
+    "KS"
+  ],
+  [
+    "Musselshell County",
+    "MT"
+  ],
+  [
+    "Pickett County",
+    "TN"
+  ],
+  [
+    "Sheridan County",
+    "NE"
+  ],
+  [
+    "Alexander County",
+    "IL"
+  ],
+  [
+    "Beaver County",
+    "OK"
+  ],
+  [
+    "Toole County",
+    "MT"
+  ],
+  [
+    "Ouray County",
+    "CO"
+  ],
+  [
+    "Stewart County",
+    "GA"
+  ],
+  [
+    "Dickey County",
+    "ND"
+  ],
+  [
+    "Thayer County",
+    "NE"
+  ],
+  [
+    "Wheeler County",
+    "TX"
+  ],
+  [
+    "Craig County",
+    "VA"
+  ],
+  [
+    "Phillips County",
+    "KS"
+  ],
+  [
+    "Rooks County",
+    "KS"
+  ],
+  [
+    "Gallatin County",
+    "IL"
+  ],
+  [
+    "Scott County",
+    "IL"
+  ],
+  [
+    "Washington County",
+    "CO"
+  ],
+  [
+    "Jim Hogg County",
+    "TX"
+  ],
+  [
+    "Mineral County",
+    "MT"
+  ],
+  [
+    "Dillingham Census Area",
+    "AK"
+  ],
+  [
+    "Carlisle County",
+    "KY"
+  ],
+  [
+    "Calhoun County",
+    "AR"
+  ],
+  [
+    "Scotland County",
+    "MO"
+  ],
+  [
+    "Oneida County",
+    "ID"
+  ],
+  [
+    "Putnam County",
+    "MO"
+  ],
+  [
+    "Ringgold County",
+    "IA"
+  ],
+  [
+    "Republic County",
+    "KS"
+  ],
+  [
+    "Hyde County",
+    "NC"
+  ],
+  [
+    "Crane County",
+    "TX"
+  ],
+  [
+    "Hot Springs County",
+    "WY"
+  ],
+  [
+    "Florence County",
+    "WI"
+  ],
+  [
+    "Furnas County",
+    "NE"
+  ],
+  [
+    "Adams County",
+    "ID"
+  ],
+  [
+    "Wahkiakum County",
+    "WA"
+  ],
+  [
+    "Mineral County",
+    "NV"
+  ],
+  [
+    "Morrill County",
+    "NE"
+  ],
+  [
+    "Schley County",
+    "GA"
+  ],
+  [
+    "Mills County",
+    "TX"
+  ],
+  [
+    "Phillips County",
+    "CO"
+  ],
+  [
+    "Cameron County",
+    "PA"
+  ],
+  [
+    "Hickman County",
+    "KY"
+  ],
+  [
+    "Lincoln County",
+    "NV"
+  ],
+  [
+    "Dewey County",
+    "OK"
+  ],
+  [
+    "Custer County",
+    "ID"
+  ],
+  [
+    "Calhoun County",
+    "IL"
+  ],
+  [
+    "Guadalupe County",
+    "NM"
+  ],
+  [
+    "Marshall County",
+    "SD"
+  ],
+  [
+    "Kimble County",
+    "TX"
+  ],
+  [
+    "Deuel County",
+    "SD"
+  ],
+  [
+    "Menominee County",
+    "WI"
+  ],
+  [
+    "Holt County",
+    "MO"
+  ],
+  [
+    "Phillips County",
+    "MT"
+  ],
+  [
+    "Mora County",
+    "NM"
+  ],
+  [
+    "Kittson County",
+    "MN"
+  ],
+  [
+    "Barber County",
+    "KS"
+  ],
+  [
+    "Storey County",
+    "NV"
+  ],
+  [
+    "Grant County",
+    "OK"
+  ],
+  [
+    "Bath County",
+    "VA"
+  ],
+  [
+    "LaMoure County",
+    "ND"
+  ],
+  [
+    "Hidalgo County",
+    "NM"
+  ],
+  [
+    "Valley County",
+    "NE"
+  ],
+  [
+    "Nuckolls County",
+    "NE"
+  ],
+  [
+    "Schuyler County",
+    "MO"
+  ],
+  [
+    "Dunn County",
+    "ND"
+  ],
+  [
+    "Union County",
+    "NM"
+  ],
+  [
+    "Edmunds County",
+    "SD"
+  ],
+  [
+    "Owsley County",
+    "KY"
+  ],
+  [
+    "Stafford County",
+    "KS"
+  ],
+  [
+    "Columbia County",
+    "WA"
+  ],
+  [
+    "Gregory County",
+    "SD"
+  ],
+  [
+    "Tensas Parish",
+    "LA"
+  ],
+  [
+    "Pierce County",
+    "ND"
+  ],
+  [
+    "Mason County",
+    "TX"
+  ],
+  [
+    "Meade County",
+    "KS"
+  ],
+  [
+    "Wells County",
+    "ND"
+  ],
+  [
+    "Red Lake County",
+    "MN"
+  ],
+  [
+    "Kearny County",
+    "KS"
+  ],
+  [
+    "Clark County",
+    "SD"
+  ],
+  [
+    "Corson County",
+    "SD"
+  ],
+  [
+    "Sharkey County",
+    "MS"
+  ],
+  [
+    "Sargent County",
+    "ND"
+  ],
+  [
+    "Lake of the Woods County",
+    "MN"
+  ],
+  [
+    "Sioux County",
+    "ND"
+  ],
+  [
+    "Knox County",
+    "MO"
+  ],
+  [
+    "Pope County",
+    "IL"
+  ],
+  [
+    "Lyman County",
+    "SD"
+  ],
+  [
+    "Ellis County",
+    "OK"
+  ],
+  [
+    "Sweet Grass County",
+    "MT"
+  ],
+  [
+    "Echols County",
+    "GA"
+  ],
+  [
+    "Haskell County",
+    "KS"
+  ],
+  [
+    "Catron County",
+    "NM"
+  ],
+  [
+    "Sheridan County",
+    "MT"
+  ],
+  [
+    "Cavalier County",
+    "ND"
+  ],
+  [
+    "Fisher County",
+    "TX"
+  ],
+  [
+    "Lewis County",
+    "ID"
+  ],
+  [
+    "Adams County",
+    "IA"
+  ],
+  [
+    "Chase County",
+    "NE"
+  ],
+  [
+    "Hardin County",
+    "IL"
+  ],
+  [
+    "Norton City",
+    "VA"
+  ],
+  [
+    "Smith County",
+    "KS"
+  ],
+  [
+    "Costilla County",
+    "CO"
+  ],
+  [
+    "Hardeman County",
+    "TX"
+  ],
+  [
+    "Mercer County",
+    "MO"
+  ],
+  [
+    "Osborne County",
+    "KS"
+  ],
+  [
+    "Hanson County",
+    "SD"
+  ],
+  [
+    "Baylor County",
+    "TX"
+  ],
+  [
+    "Baca County",
+    "CO"
+  ],
+  [
+    "Aleutians East Borough",
+    "AK"
+  ],
+  [
+    "Granite County",
+    "MT"
+  ],
+  [
+    "Petersburg Borough",
+    "AK"
+  ],
+  [
+    "Webster County",
+    "NE"
+  ],
+  [
+    "Roger Mills County",
+    "OK"
+  ],
+  [
+    "Tyrrell County",
+    "NC"
+  ],
+  [
+    "Foster County",
+    "ND"
+  ],
+  [
+    "Chautauqua County",
+    "KS"
+  ],
+  [
+    "Bennett County",
+    "SD"
+  ],
+  [
+    "Kimball County",
+    "NE"
+  ],
+  [
+    "Nance County",
+    "NE"
+  ],
+  [
+    "Hudspeth County",
+    "TX"
+  ],
+  [
+    "Knox County",
+    "TX"
+  ],
+  [
+    "Coke County",
+    "TX"
+  ],
+  [
+    "Hemphill County",
+    "TX"
+  ],
+  [
+    "Sutton County",
+    "TX"
+  ],
+  [
+    "Concho County",
+    "TX"
+  ],
+  [
+    "Traverse County",
+    "MN"
+  ],
+  [
+    "Donley County",
+    "TX"
+  ],
+  [
+    "Emmons County",
+    "ND"
+  ],
+  [
+    "Reagan County",
+    "TX"
+  ],
+  [
+    "Harper County",
+    "OK"
+  ],
+  [
+    "Upton County",
+    "TX"
+  ],
+  [
+    "Shackelford County",
+    "TX"
+  ],
+  [
+    "Kinney County",
+    "TX"
+  ],
+  [
+    "Woodson County",
+    "KS"
+  ],
+  [
+    "Perkins County",
+    "SD"
+  ],
+  [
+    "Hand County",
+    "SD"
+  ],
+  [
+    "Nelson County",
+    "ND"
+  ],
+  [
+    "Stanley County",
+    "SD"
+  ],
+  [
+    "Harlan County",
+    "NE"
+  ],
+  [
+    "Sherman County",
+    "NE"
+  ],
+  [
+    "Lipscomb County",
+    "TX"
+  ],
+  [
+    "Rush County",
+    "KS"
+  ],
+  [
+    "Bowman County",
+    "ND"
+  ],
+  [
+    "Lincoln County",
+    "KS"
+  ],
+  [
+    "Glascock County",
+    "GA"
+  ],
+  [
+    "Jewell County",
+    "KS"
+  ],
+  [
+    "Crockett County",
+    "TX"
+  ],
+  [
+    "Franklin County",
+    "NE"
+  ],
+  [
+    "Clay County",
+    "GA"
+  ],
+  [
+    "Perkins County",
+    "NE"
+  ],
+  [
+    "Baker County",
+    "GA"
+  ],
+  [
+    "Hall County",
+    "TX"
+  ],
+  [
+    "Jackson County",
+    "SD"
+  ],
+  [
+    "Douglas County",
+    "SD"
+  ],
+  [
+    "Real County",
+    "TX"
+  ],
+  [
+    "Fallon County",
+    "MT"
+  ],
+  [
+    "Edwards County",
+    "KS"
+  ],
+  [
+    "Gove County",
+    "KS"
+  ],
+  [
+    "Trego County",
+    "KS"
+  ],
+  [
+    "Decatur County",
+    "KS"
+  ],
+  [
+    "Brown County",
+    "NE"
+  ],
+  [
+    "Collingsworth County",
+    "TX"
+  ],
+  [
+    "Sierra County",
+    "CA"
+  ],
+  [
+    "Logan County",
+    "KS"
+  ],
+  [
+    "Ness County",
+    "KS"
+  ],
+  [
+    "Butte County",
+    "ID"
+  ],
+  [
+    "Morton County",
+    "KS"
+  ],
+  [
+    "Cheyenne County",
+    "KS"
+  ],
+  [
+    "Copper River Census Area",
+    "AK"
+  ],
+  [
+    "Hitchcock County",
+    "NE"
+  ],
+  [
+    "Rich County",
+    "UT"
+  ],
+  [
+    "Chase County",
+    "KS"
+  ],
+  [
+    "Aurora County",
+    "SD"
+  ],
+  [
+    "Frontier County",
+    "NE"
+  ],
+  [
+    "Wayne County",
+    "UT"
+  ],
+  [
+    "Pawnee County",
+    "NE"
+  ],
+  [
+    "Rawlins County",
+    "KS"
+  ],
+  [
+    "Cochran County",
+    "TX"
+  ],
+  [
+    "McIntosh County",
+    "ND"
+  ],
+  [
+    "Hamilton County",
+    "KS"
+  ],
+  [
+    "Elk County",
+    "KS"
+  ],
+  [
+    "Hettinger County",
+    "ND"
+  ],
+  [
+    "Harmon County",
+    "OK"
+  ],
+  [
+    "Sheridan County",
+    "KS"
+  ],
+  [
+    "Sherman County",
+    "TX"
+  ],
+  [
+    "Potter County",
+    "SD"
+  ],
+  [
+    "Schleicher County",
+    "TX"
+  ],
+  [
+    "Kiowa County",
+    "KS"
+  ],
+  [
+    "Niobrara County",
+    "WY"
+  ],
+  [
+    "Ziebach County",
+    "SD"
+  ],
+  [
+    "Graham County",
+    "KS"
+  ],
+  [
+    "Dolores County",
+    "CO"
+  ],
+  [
+    "Kidder County",
+    "ND"
+  ],
+  [
+    "Sanborn County",
+    "SD"
+  ],
+  [
+    "Webster County",
+    "GA"
+  ],
+  [
+    "Sedgwick County",
+    "CO"
+  ],
+  [
+    "Griggs County",
+    "ND"
+  ],
+  [
+    "Garfield County",
+    "WA"
+  ],
+  [
+    "Eddy County",
+    "ND"
+  ],
+  [
+    "Hoonah-Angoon Census Area",
+    "AK"
+  ],
+  [
+    "Miner County",
+    "SD"
+  ],
+  [
+    "McPherson County",
+    "SD"
+  ],
+  [
+    "Renville County",
+    "ND"
+  ],
+  [
+    "Grant County",
+    "ND"
+  ],
+  [
+    "Highland County",
+    "VA"
+  ],
+  [
+    "Cimarron County",
+    "OK"
+  ],
+  [
+    "Robertson County",
+    "KY"
+  ],
+  [
+    "Greeley County",
+    "NE"
+  ],
+  [
+    "Culberson County",
+    "TX"
+  ],
+  [
+    "Adams County",
+    "ND"
+  ],
+  [
+    "Divide County",
+    "ND"
+  ],
+  [
+    "Burke County",
+    "ND"
+  ],
+  [
+    "Faulk County",
+    "SD"
+  ],
+  [
+    "Wichita County",
+    "KS"
+  ],
+  [
+    "Towner County",
+    "ND"
+  ],
+  [
+    "Wrangell City and Borough",
+    "AK"
+  ],
+  [
+    "Keweenaw County",
+    "MI"
+  ],
+  [
+    "Oldham County",
+    "TX"
+  ],
+  [
+    "Quitman County",
+    "GA"
+  ],
+  [
+    "Haines Borough",
+    "AK"
+  ],
+  [
+    "Judith Basin County",
+    "MT"
+  ],
+  [
+    "Wheatland County",
+    "MT"
+  ],
+  [
+    "Mellette County",
+    "SD"
+  ],
+  [
+    "Denali Borough",
+    "AK"
+  ],
+  [
+    "Stanton County",
+    "KS"
+  ],
+  [
+    "Gilliam County",
+    "OR"
+  ],
+  [
+    "Clark County",
+    "KS"
+  ],
+  [
+    "Meagher County",
+    "MT"
+  ],
+  [
+    "Liberty County",
+    "MT"
+  ],
+  [
+    "Menard County",
+    "TX"
+  ],
+  [
+    "Worth County",
+    "MO"
+  ],
+  [
+    "Gosper County",
+    "NE"
+  ],
+  [
+    "Sherman County",
+    "OR"
+  ],
+  [
+    "Armstrong County",
+    "TX"
+  ],
+  [
+    "Deuel County",
+    "NE"
+  ],
+  [
+    "Logan County",
+    "ND"
+  ],
+  [
+    "Jerauld County",
+    "SD"
+  ],
+  [
+    "Oliver County",
+    "ND"
+  ],
+  [
+    "McCone County",
+    "MT"
+  ],
+  [
+    "Dundy County",
+    "NE"
+  ],
+  [
+    "Garfield County",
+    "NE"
+  ],
+  [
+    "Powder River County",
+    "MT"
+  ],
+  [
+    "Buffalo County",
+    "SD"
+  ],
+  [
+    "Taliaferro County",
+    "GA"
+  ],
+  [
+    "Jeff Davis County",
+    "TX"
+  ],
+  [
+    "Cheyenne County",
+    "CO"
+  ],
+  [
+    "Steele County",
+    "ND"
+  ],
+  [
+    "Haakon County",
+    "SD"
+  ],
+  [
+    "Piute County",
+    "UT"
+  ],
+  [
+    "Boyd County",
+    "NE"
+  ],
+  [
+    "Alpine County",
+    "CA"
+  ],
+  [
+    "Comanche County",
+    "KS"
+  ],
+  [
+    "Golden Valley County",
+    "ND"
+  ],
+  [
+    "Hodgeman County",
+    "KS"
+  ],
+  [
+    "Eureka County",
+    "NV"
+  ],
+  [
+    "Dickens County",
+    "TX"
+  ],
+  [
+    "Garden County",
+    "NE"
+  ],
+  [
+    "Throckmorton County",
+    "TX"
+  ],
+  [
+    "De Baca County",
+    "NM"
+  ],
+  [
+    "Daniels County",
+    "MT"
+  ],
+  [
+    "Lane County",
+    "KS"
+  ],
+  [
+    "Campbell County",
+    "SD"
+  ],
+  [
+    "Sully County",
+    "SD"
+  ],
+  [
+    "Wallace County",
+    "KS"
+  ],
+  [
+    "Wheeler County",
+    "OR"
+  ],
+  [
+    "Irion County",
+    "TX"
+  ],
+  [
+    "Jackson County",
+    "CO"
+  ],
+  [
+    "Edwards County",
+    "TX"
+  ],
+  [
+    "Sterling County",
+    "TX"
+  ],
+  [
+    "Carter County",
+    "MT"
+  ],
+  [
+    "Kiowa County",
+    "CO"
+  ],
+  [
+    "Rock County",
+    "NE"
+  ],
+  [
+    "Sheridan County",
+    "ND"
+  ],
+  [
+    "Skagway Municipality",
+    "AK"
+  ],
+  [
+    "Hyde County",
+    "SD"
+  ],
+  [
+    "Cottle County",
+    "TX"
+  ],
+  [
+    "Greeley County",
+    "KS"
+  ],
+  [
+    "Motley County",
+    "TX"
+  ],
+  [
+    "Prairie County",
+    "MT"
+  ],
+  [
+    "Stonewall County",
+    "TX"
+  ],
+  [
+    "Briscoe County",
+    "TX"
+  ],
+  [
+    "Sioux County",
+    "NE"
+  ],
+  [
+    "Camas County",
+    "ID"
+  ],
+  [
+    "Wibaux County",
+    "MT"
+  ],
+  [
+    "Issaquena County",
+    "MS"
+  ],
+  [
+    "Harding County",
+    "SD"
+  ],
+  [
+    "Foard County",
+    "TX"
+  ],
+  [
+    "Glasscock County",
+    "TX"
+  ],
+  [
+    "Jones County",
+    "SD"
+  ],
+  [
+    "Lake and Peninsula Borough",
+    "AK"
+  ],
+  [
+    "Esmeralda County",
+    "NV"
+  ],
+  [
+    "Billings County",
+    "ND"
+  ],
+  [
+    "Keya Paha County",
+    "NE"
+  ],
+  [
+    "Hinsdale County",
+    "CO"
+  ],
+  [
+    "Garfield County",
+    "MT"
+  ],
+  [
+    "Bristol Bay Borough",
+    "AK"
+  ],
+  [
+    "Hayes County",
+    "NE"
+  ],
+  [
+    "Terrell County",
+    "TX"
+  ],
+  [
+    "Golden Valley County",
+    "MT"
+  ],
+  [
+    "Logan County",
+    "NE"
+  ],
+  [
+    "Mineral County",
+    "CO"
+  ],
+  [
+    "Slope County",
+    "ND"
+  ],
+  [
+    "Roberts County",
+    "TX"
+  ],
+  [
+    "Wheeler County",
+    "NE"
+  ],
+  [
+    "Clark County",
+    "ID"
+  ],
+  [
+    "Treasure County",
+    "MT"
+  ],
+  [
+    "Harding County",
+    "NM"
+  ],
+  [
+    "Daggett County",
+    "UT"
+  ],
+  [
+    "Kent County",
+    "TX"
+  ],
+  [
+    "Borden County",
+    "TX"
+  ],
+  [
+    "Grant County",
+    "NE"
+  ],
+  [
+    "San Juan County",
+    "CO"
+  ],
+  [
+    "Banner County",
+    "NE"
+  ],
+  [
+    "Thomas County",
+    "NE"
+  ],
+  [
+    "McMullen County",
+    "TX"
+  ],
+  [
+    "Hooker County",
+    "NE"
+  ],
+  [
+    "Loup County",
+    "NE"
+  ],
+  [
+    "Arthur County",
+    "NE"
+  ],
+  [
+    "Yakutat City and Borough",
+    "AK"
+  ],
+  [
+    "McPherson County",
+    "NE"
+  ],
+  [
+    "Petroleum County",
+    "MT"
+  ],
+  [
+    "Blaine County",
+    "NE"
+  ],
+  [
+    "King County",
+    "TX"
+  ],
+  [
+    "Loving County",
+    "TX"
+  ],
+  [
+    "Kenedy County",
+    "TX"
+  ],
+  [
+    "Kalawao County",
+    "HI"
+  ]
+]
