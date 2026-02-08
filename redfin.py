@@ -8,7 +8,7 @@ import time
 import pprint
 
 
-def extract_land_listings(driver, timeout=5):
+def extract_land_listings(driver, timeout=2):
     wait = WebDriverWait(driver, timeout)
     listings = []
 
@@ -66,6 +66,12 @@ def extract_land_listings(driver, timeout=5):
     # see_homes_button.click()
 
     while True:
+        # check for rate limiting
+        html_source = driver.page_source
+        if "Cloudflare" in html_source:
+            time.sleep(60)
+            continue
+
         # Wait for listings to render
         try:
             wait.until(
@@ -85,15 +91,15 @@ def extract_land_listings(driver, timeout=5):
 
         for i, card in enumerate(cards):
             #print(i)
-            try:
+            #try:
                 # #NearbyMapHomeCard_0 > div > div > div.bp-Homecard__Content.bp-Homecard__Content--custom.cleanAnchor > a
                 # //*[@id="NearbyMapHomeCard_0"]/div/div/div[3]/a
-                link_el = card.find_element(By.XPATH, "//div/div/div[3]/a") #"bp-Homecard__Address")
-                url = link_el.get_attribute("href")
-                address = link_el.text.strip()
-            except Exception as e:
-                print("cannot find url or address {}".format(str(e)))
-                continue
+            #    link_el = card.find_element(By.XPATH, "//div/div/div[3]/a") #"bp-Homecard__Address")
+            #    url = link_el.get_attribute("href")
+            #    address = link_el.text.strip()
+            #except Exception as e:
+            #    print("cannot find url or address {}".format(str(e)))
+            #    continue
 
             try:
                 price = card.find_element(
@@ -120,13 +126,13 @@ def extract_land_listings(driver, timeout=5):
 
             if price != None:
                 listings.append({
-                    "address": address,
+                    #"address": address,
                     "price": price,
                     "date": date,
-                    "url": url,
+                   # "url": url,
                     "other": other
                 })
-            del address, price, date, url
+            del price, date, other #address, url
 
 
         # Attempt to go to next page
