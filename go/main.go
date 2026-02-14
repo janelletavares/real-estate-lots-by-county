@@ -161,6 +161,7 @@ func main() {
 		}
 
 		for _, county := range counties {
+			// won't wait for the last few to be complete
 			// add to workers
 			select {
 			case msg := <-output:
@@ -170,7 +171,7 @@ func main() {
 			}
 
 			concurrency <- fmt.Sprintf("python3 ../entrypoint.py %s %s", state.Name(), county.Name())
-
+			fmt.Printf("added %s %s\n", state.Name(), county.Name())
 			//fmt.Println(county.Name(), county.IsDir())
 			//d, err := os.ReadFile(fmt.Sprintf("../not_done/%s/%s", state.Name(), county.Name()))
 			//if err != nil {
@@ -187,23 +188,43 @@ func main() {
 }
 
 func startScraper(input chan string, output chan string) {
-	command := <-input
-	items := strings.Split(command, " ")
-	console, err := exec.Command(items[0], items[1:]...).Output()
-	if err != nil {
-		var execErr *exec.Error
-		var exitErr *exec.ExitError
-		switch {
-		case errors.As(err, &execErr):
-			output <- fmt.Sprintf("failed executing:", err)
-		case errors.As(err, &exitErr):
-			exitCode := exitErr.ExitCode()
-			output <- fmt.Sprintf("command exit rc =", exitCode)
+	var command string
+	for true {
+		select {
+		case command = <-input:
+			fmt.Println("received message: ", command)
 		default:
-			panic(err)
+			output <- fmt.Sprintf("no message received in gofunc startScraper")
+			continue
 		}
-	} else {
-		output <- string(console)
+		items := strings.Split(command, " ")
+		state := items[2]
+		countyFile := items[3]
+		console, err := exec.Command(items[0], items[1:]...).Output()
+		if err != nil {
+			var execErr *exec.Error
+			var exitErr *exec.ExitError
+			switch {
+			case errors.As(err, &execErr):
+				output <- fmt.Sprintf("failed executing:", err)
+			case errors.As(err, &exitErr):
+				exitCode := exitErr.ExitCode()
+				output <- fmt.Sprintf("command exit rc =", exitCode)
+			default:
+				panic(err)
+			}
+		} else {
+			output <- string(console)
+			// mv json file
+			err := os.MkdirAll(fmt.Sprintf("../done/%s", state), os.ModePerm)
+			if err != nil {
+				output <- fmt.Sprintf("unable to move done file: %s %s %v", state, countyFile, err)
+			}
+			err = os.Rename(fmt.Sprintf("../not_done/%s/%s", state, countyFile), fmt.Sprintf("../done/%s/%s", state, countyFile))
+			if err != nil {
+				output <- fmt.Sprintf("unable to move done file: %s %s %v", state, countyFile, err)
+			}
+		}
 	}
 }
 
