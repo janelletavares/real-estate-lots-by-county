@@ -10,16 +10,13 @@ wait(){
 
 for state in $(ls not_done); do
   for county in $(ls "not_done/${state}"); do
-    while [[ $count < $concurrency ]]; do
-      if [ -f "not_done/$state/$county" ]; then
-        # sanity check
-        #echo "$state/$county"
-        date +%s
-        ./county.sh $state $county &
-        count=count+1
-        pid=$!
-        wait $pid
-      fi
-    done
+    if [ -f "not_done/$state/$county" ]; then
+      # sanity check
+      echo "$state/$county"
+      date +%s
+      python3 entrypoint.py $state $county
+      mkdir -p done/$state
+      mv not_done/$state/$county done/$state
+    fi
   done
 done
