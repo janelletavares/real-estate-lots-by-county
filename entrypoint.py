@@ -1,4 +1,5 @@
 import time
+from pathlib import Path
 from redfin import extract_land_listings
 from selenium import webdriver
 import json
@@ -69,9 +70,11 @@ def main():
 
     fieldnames = ['state', 'county', 'all_sold_count', 'all_for_sale_count', 'in_range_sold_count',
                   'in_range_for_sale_count']
-    #with open('output/counts_by_county.csv', 'w', newline='') as csvfile:
-    #    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter =';')
-    #    writer.writeheader()
+    output_file = Path("output/counts_by_county.csv")
+    if not output_file.is_file():
+        with open(output_file, 'w', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter =';')
+            writer.writeheader()
 
     s = state.replace("_", " ")
     # one file for all zipcodes
@@ -79,8 +82,7 @@ def main():
     if d != None:
         d["state"] = s
         d["county"] = county
-        with open('output/counts_by_county.csv', 'a', newline='') as csvfile:
-            #fieldnames = ['state', 'county', 'all_sold_count', 'all_for_sale_count', 'in_range_sold_count', 'in_range_for_sale_count']
+        with open(output_file, 'a', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter =';')
             writer.writerow(d)
 
