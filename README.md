@@ -31,7 +31,7 @@ Lastly, to start the script:
 ./run.sh
 ```
 
-When the script is done checking each zip code, you can file the data by county in the file `output/counts_by_county.csv`
+When the script is done checking each zip code, you can file the data by county in the file `output/counts_by_county.csv`. The extension is csv, but the delimiter used was a `;` as some values contain commas, so it would not be the best delimiter.
 
 ### Running in parallel
 There is no automatic mechanism for increasing the concurrency in this project.  Several attempts were abandoned.  There is one known way to run through one or more states faster; you can start the script in two or more copies of this project manually.  Just make sure you do not pull the same counties into the not_done directory or you will be duplicating work and wasting time. If you do split up a single state, make sure that the JSON county files are always under a directory with the appropriate state name.
