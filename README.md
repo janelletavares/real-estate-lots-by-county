@@ -28,7 +28,7 @@ Next, drag the desired states that you want to rerun from the done/ dir to the n
 
 Lastly, to start the script:
 ```
-python3 ./run.sh
+./run.sh
 ```
 
 When the script is done checking each zip code, you can file the data by county in the file `output/counts_by_county.csv`
