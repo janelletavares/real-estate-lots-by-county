@@ -10,6 +10,8 @@ This tool gathers specific real estate stats per zip code and then organizes by 
 
 ### Running for the first time
 
+See [demo](assets/demo.mp4)
+
 You can download this source code from Github, which is easier than doing a git clone.
 Save this to a convenient location on the computer you would like to run the script: [code](https://github.com/janelletavares/real-estate-lots-by-county/archive/refs/heads/main.zip)
 
